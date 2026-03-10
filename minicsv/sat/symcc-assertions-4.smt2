@@ -1,0 +1,24 @@
+(set-logic ALL)
+(set-option :incremental true)
+(set-option :produce-models true)
+
+
+(declare-fun |stdin0| () String)
+(declare-fun |fread0| () Int)
+(declare-fun |ite0| () Int)
+
+(assert (>= fread0 0))
+(assert (not (>= fread0 59)))
+(assert (= fread0 (str.len (str.substr stdin0 0 fread0))))
+(assert (= fread0 (str.len (str.substr stdin0 0 58))))
+(assert (not (>= fread0 60)))
+(assert (not (>= (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)) 256)))
+(assert (not (= (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)) 0)))
+(assert (not (>= (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)) 256)))
+(assert (not (= (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)) 0)))
+(assert (= ite0 (ite (>= (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)) 128) (+ 4294967040 (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1))) (str.to_code (str.substr (str.substr stdin0 0 fread0) 0 1)))))
+(assert (not (= ite0 10)))
+(assert (not (= ite0 44)))
+(assert (= ite0 34))
+
+(check-sat)
