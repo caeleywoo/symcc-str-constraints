@@ -1,0 +1,16 @@
+SOLVER DISAGREEMENTS — b64 / mixed / unsat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #1 : ./b64/unsat/symcc-unsat-0.smt2
+Expected : unsat
+Got      : sat (12546ms)
+
+File #2 : ./b64/unsat/symcc-unsat-1.smt2
+Expected : unsat
+Got      : sat (88680ms)
+
+File #13 : ./b64/unsat/symcc-unsat-2.smt2
+Expected : unsat
+Got      : sat (99331ms)
+

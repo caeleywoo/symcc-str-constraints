@@ -1,0 +1,24 @@
+SOLVER DISAGREEMENTS — minicsv / mixed / sat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #2 : ./minicsv/sat/symcc-assertions-1.smt2
+Expected : sat
+Got      : unsat (71ms)
+
+File #18 : ./minicsv/sat/symcc-assertions-24.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #19 : ./minicsv/sat/symcc-assertions-25.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #40 : ./minicsv/sat/symcc-assertions-44.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #41 : ./minicsv/sat/symcc-assertions-45.smt2
+Expected : sat
+Got      : unsat (68ms)
+

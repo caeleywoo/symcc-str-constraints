@@ -1,0 +1,204 @@
+SOLVER DISAGREEMENTS — minicsv / string only / unsat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #1 : ./string_only_constraints/minicsv/unsat/symcc-unsat-0.smt2
+Expected : unsat
+Got      : sat (69ms)
+
+File #2 : ./string_only_constraints/minicsv/unsat/symcc-unsat-1.smt2
+Expected : unsat
+Got      : sat (68ms)
+
+File #3 : ./string_only_constraints/minicsv/unsat/symcc-unsat-10.smt2
+Expected : unsat
+Got      : sat (73ms)
+
+File #4 : ./string_only_constraints/minicsv/unsat/symcc-unsat-11.smt2
+Expected : unsat
+Got      : sat (75ms)
+
+File #5 : ./string_only_constraints/minicsv/unsat/symcc-unsat-12.smt2
+Expected : unsat
+Got      : sat (77ms)
+
+File #6 : ./string_only_constraints/minicsv/unsat/symcc-unsat-13.smt2
+Expected : unsat
+Got      : sat (78ms)
+
+File #7 : ./string_only_constraints/minicsv/unsat/symcc-unsat-14.smt2
+Expected : unsat
+Got      : sat (76ms)
+
+File #8 : ./string_only_constraints/minicsv/unsat/symcc-unsat-15.smt2
+Expected : unsat
+Got      : sat (79ms)
+
+File #9 : ./string_only_constraints/minicsv/unsat/symcc-unsat-16.smt2
+Expected : unsat
+Got      : sat (79ms)
+
+File #10 : ./string_only_constraints/minicsv/unsat/symcc-unsat-17.smt2
+Expected : unsat
+Got      : sat (81ms)
+
+File #11 : ./string_only_constraints/minicsv/unsat/symcc-unsat-18.smt2
+Expected : unsat
+Got      : sat (81ms)
+
+File #12 : ./string_only_constraints/minicsv/unsat/symcc-unsat-19.smt2
+Expected : unsat
+Got      : sat (81ms)
+
+File #13 : ./string_only_constraints/minicsv/unsat/symcc-unsat-2.smt2
+Expected : unsat
+Got      : sat (71ms)
+
+File #14 : ./string_only_constraints/minicsv/unsat/symcc-unsat-20.smt2
+Expected : unsat
+Got      : sat (80ms)
+
+File #15 : ./string_only_constraints/minicsv/unsat/symcc-unsat-21.smt2
+Expected : unsat
+Got      : sat (89ms)
+
+File #16 : ./string_only_constraints/minicsv/unsat/symcc-unsat-22.smt2
+Expected : unsat
+Got      : sat (91ms)
+
+File #17 : ./string_only_constraints/minicsv/unsat/symcc-unsat-23.smt2
+Expected : unsat
+Got      : sat (90ms)
+
+File #18 : ./string_only_constraints/minicsv/unsat/symcc-unsat-24.smt2
+Expected : unsat
+Got      : sat (91ms)
+
+File #19 : ./string_only_constraints/minicsv/unsat/symcc-unsat-25.smt2
+Expected : unsat
+Got      : sat (91ms)
+
+File #20 : ./string_only_constraints/minicsv/unsat/symcc-unsat-26.smt2
+Expected : unsat
+Got      : sat (95ms)
+
+File #21 : ./string_only_constraints/minicsv/unsat/symcc-unsat-27.smt2
+Expected : unsat
+Got      : sat (107ms)
+
+File #22 : ./string_only_constraints/minicsv/unsat/symcc-unsat-28.smt2
+Expected : unsat
+Got      : sat (109ms)
+
+File #23 : ./string_only_constraints/minicsv/unsat/symcc-unsat-29.smt2
+Expected : unsat
+Got      : sat (105ms)
+
+File #24 : ./string_only_constraints/minicsv/unsat/symcc-unsat-3.smt2
+Expected : unsat
+Got      : sat (72ms)
+
+File #25 : ./string_only_constraints/minicsv/unsat/symcc-unsat-30.smt2
+Expected : unsat
+Got      : sat (108ms)
+
+File #26 : ./string_only_constraints/minicsv/unsat/symcc-unsat-31.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #27 : ./string_only_constraints/minicsv/unsat/symcc-unsat-32.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #28 : ./string_only_constraints/minicsv/unsat/symcc-unsat-33.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #29 : ./string_only_constraints/minicsv/unsat/symcc-unsat-34.smt2
+Expected : unsat
+Got      : sat (109ms)
+
+File #30 : ./string_only_constraints/minicsv/unsat/symcc-unsat-35.smt2
+Expected : unsat
+Got      : sat (114ms)
+
+File #31 : ./string_only_constraints/minicsv/unsat/symcc-unsat-36.smt2
+Expected : unsat
+Got      : sat (114ms)
+
+File #32 : ./string_only_constraints/minicsv/unsat/symcc-unsat-37.smt2
+Expected : unsat
+Got      : sat (120ms)
+
+File #33 : ./string_only_constraints/minicsv/unsat/symcc-unsat-38.smt2
+Expected : unsat
+Got      : sat (139ms)
+
+File #34 : ./string_only_constraints/minicsv/unsat/symcc-unsat-39.smt2
+Expected : unsat
+Got      : sat (122ms)
+
+File #35 : ./string_only_constraints/minicsv/unsat/symcc-unsat-4.smt2
+Expected : unsat
+Got      : sat (71ms)
+
+File #36 : ./string_only_constraints/minicsv/unsat/symcc-unsat-40.smt2
+Expected : unsat
+Got      : sat (128ms)
+
+File #37 : ./string_only_constraints/minicsv/unsat/symcc-unsat-41.smt2
+Expected : unsat
+Got      : sat (130ms)
+
+File #38 : ./string_only_constraints/minicsv/unsat/symcc-unsat-42.smt2
+Expected : unsat
+Got      : sat (134ms)
+
+File #39 : ./string_only_constraints/minicsv/unsat/symcc-unsat-43.smt2
+Expected : unsat
+Got      : sat (137ms)
+
+File #40 : ./string_only_constraints/minicsv/unsat/symcc-unsat-44.smt2
+Expected : unsat
+Got      : sat (131ms)
+
+File #41 : ./string_only_constraints/minicsv/unsat/symcc-unsat-45.smt2
+Expected : unsat
+Got      : sat (130ms)
+
+File #42 : ./string_only_constraints/minicsv/unsat/symcc-unsat-46.smt2
+Expected : unsat
+Got      : sat (139ms)
+
+File #43 : ./string_only_constraints/minicsv/unsat/symcc-unsat-47.smt2
+Expected : unsat
+Got      : sat (162ms)
+
+File #44 : ./string_only_constraints/minicsv/unsat/symcc-unsat-48.smt2
+Expected : unsat
+Got      : sat (162ms)
+
+File #45 : ./string_only_constraints/minicsv/unsat/symcc-unsat-49.smt2
+Expected : unsat
+Got      : sat (167ms)
+
+File #46 : ./string_only_constraints/minicsv/unsat/symcc-unsat-50.smt2
+Expected : unsat
+Got      : sat (169ms)
+
+File #47 : ./string_only_constraints/minicsv/unsat/symcc-unsat-51.smt2
+Expected : unsat
+Got      : sat (169ms)
+
+File #48 : ./string_only_constraints/minicsv/unsat/symcc-unsat-52.smt2
+Expected : unsat
+Got      : sat (171ms)
+
+File #49 : ./string_only_constraints/minicsv/unsat/symcc-unsat-53.smt2
+Expected : unsat
+Got      : sat (172ms)
+
+File #50 : ./string_only_constraints/minicsv/unsat/symcc-unsat-54.smt2
+Expected : unsat
+Got      : sat (170ms)
+

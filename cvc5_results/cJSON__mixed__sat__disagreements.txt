@@ -1,0 +1,128 @@
+SOLVER DISAGREEMENTS — cJSON / mixed / sat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #3 : ./cJSON/sat/symcc-assertions-10.smt2
+Expected : sat
+Got      : unsat (69ms)
+
+File #4 : ./cJSON/sat/symcc-assertions-11.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #6 : ./cJSON/sat/symcc-assertions-13.smt2
+Expected : sat
+Got      : unsat (65ms)
+
+File #7 : ./cJSON/sat/symcc-assertions-14.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #8 : ./cJSON/sat/symcc-assertions-15.smt2
+Expected : sat
+Got      : unsat (308ms)
+
+File #9 : ./cJSON/sat/symcc-assertions-16.smt2
+Expected : sat
+Got      : unsat (71ms)
+
+File #12 : ./cJSON/sat/symcc-assertions-19.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #14 : ./cJSON/sat/symcc-assertions-20.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #16 : ./cJSON/sat/symcc-assertions-22.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #19 : ./cJSON/sat/symcc-assertions-25.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #20 : ./cJSON/sat/symcc-assertions-26.smt2
+Expected : sat
+Got      : unsat (71ms)
+
+File #21 : ./cJSON/sat/symcc-assertions-27.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #22 : ./cJSON/sat/symcc-assertions-28.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #23 : ./cJSON/sat/symcc-assertions-29.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #24 : ./cJSON/sat/symcc-assertions-3.smt2
+Expected : sat
+Got      : unsat (82ms)
+
+File #25 : ./cJSON/sat/symcc-assertions-30.smt2
+Expected : sat
+Got      : unsat (439ms)
+
+File #26 : ./cJSON/sat/symcc-assertions-31.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #27 : ./cJSON/sat/symcc-assertions-32.smt2
+Expected : sat
+Got      : unsat (65ms)
+
+File #28 : ./cJSON/sat/symcc-assertions-33.smt2
+Expected : sat
+Got      : unsat (256ms)
+
+File #29 : ./cJSON/sat/symcc-assertions-34.smt2
+Expected : sat
+Got      : unsat (78ms)
+
+File #30 : ./cJSON/sat/symcc-assertions-35.smt2
+Expected : sat
+Got      : unsat (292ms)
+
+File #31 : ./cJSON/sat/symcc-assertions-36.smt2
+Expected : sat
+Got      : unsat (699ms)
+
+File #32 : ./cJSON/sat/symcc-assertions-37.smt2
+Expected : sat
+Got      : unsat (721ms)
+
+File #33 : ./cJSON/sat/symcc-assertions-38.smt2
+Expected : sat
+Got      : unsat (74ms)
+
+File #34 : ./cJSON/sat/symcc-assertions-39.smt2
+Expected : sat
+Got      : unsat (281ms)
+
+File #36 : ./cJSON/sat/symcc-assertions-40.smt2
+Expected : sat
+Got      : unsat (76ms)
+
+File #37 : ./cJSON/sat/symcc-assertions-41.smt2
+Expected : sat
+Got      : unsat (205ms)
+
+File #38 : ./cJSON/sat/symcc-assertions-42.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #39 : ./cJSON/sat/symcc-assertions-5.smt2
+Expected : sat
+Got      : unsat (127ms)
+
+File #40 : ./cJSON/sat/symcc-assertions-6.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #43 : ./cJSON/sat/symcc-assertions-9.smt2
+Expected : sat
+Got      : unsat (66ms)
+
