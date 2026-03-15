@@ -1,5 +1,0 @@
-SOLVER DISAGREEMENTS — b64 / string only / unsat
-Files where solver result != folder label.
-(Timeouts/errors/unknowns excluded.)
-
-None — all definitive results matched the folder label.

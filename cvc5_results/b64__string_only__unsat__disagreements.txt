@@ -1,8 +1,0 @@
-SOLVER DISAGREEMENTS — b64 / string only / unsat
-Files where solver result != folder label.
-(Timeouts/errors/unknowns excluded.)
-
-File #1 : ./string_only_constraints/b64/unsat/symcc-unsat-0.smt2
-Expected : unsat
-Got      : sat (13157ms)
-

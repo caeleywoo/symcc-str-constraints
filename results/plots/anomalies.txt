@@ -1,0 +1,3729 @@
+ANOMALY REPORT
+======================================================================
+
+── PARTIAL_TIMEOUT  (436) ──
+  [b64/mixed/sat]  symcc-assertions-0.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/sat]  symcc-assertions-1.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/sat]  symcc-assertions-10.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-11.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-12.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-13.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-14.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-15.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-16.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-17.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-18.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-19.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-2.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-20.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-21.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-22.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-23.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-24.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-25.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-26.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-27.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-28.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-29.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-3.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/sat]  symcc-assertions-30.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-31.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-32.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-33.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-34.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-35.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-36.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-37.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-38.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-39.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-4.smt2
+    timeout: ['cvc5']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-40.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-41.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-42.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-43.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-44.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-45.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-46.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-47.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-48.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-49.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-5.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/sat]  symcc-assertions-6.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-7.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-8.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/sat]  symcc-assertions-9.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-0.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/unsat]  symcc-unsat-1.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/unsat]  symcc-unsat-10.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-11.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-12.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-13.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-14.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-15.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-16.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-17.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-18.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-19.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-2.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/mixed/unsat]  symcc-unsat-20.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-21.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-22.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-23.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-24.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-25.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-26.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-27.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-28.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-29.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-3.smt2
+    timeout: ['cvc5']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-30.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-31.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-32.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-33.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-34.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-35.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-36.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-37.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-38.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-39.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-4.smt2
+    timeout: ['cvc5']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-40.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-41.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-42.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-43.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-44.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-45.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-46.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-47.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-48.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-49.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-5.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-6.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-7.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-8.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/mixed/unsat]  symcc-unsat-9.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-0.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/sat]  symcc-assertions-10.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-100.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/sat]  symcc-assertions-101.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-102.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/sat]  symcc-assertions-103.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-104.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/sat]  symcc-assertions-105.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-106.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/sat]  symcc-assertions-107.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-108.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-109.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-11.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-110.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-111.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-112.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-113.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-114.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-115.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-116.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-117.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-118.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-119.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-12.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-120.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-121.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-122.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-123.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-124.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-125.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-126.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-127.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-128.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-129.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-13.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-130.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-131.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-132.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-133.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-134.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-135.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-136.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-137.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-138.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-139.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-140.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-141.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-142.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-143.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/sat]  symcc-assertions-144.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-0.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [b64/string_only/unsat]  symcc-unsat-10.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-100.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-101.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-102.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-103.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-104.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-105.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-106.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-107.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-108.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-109.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-11.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-110.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-111.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-112.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-113.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-114.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-115.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-116.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-117.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-118.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-119.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-12.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-120.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-121.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-122.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-123.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-124.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-125.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-126.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-127.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-128.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-129.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-13.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-130.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-131.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-132.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-133.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-134.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-135.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-136.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-137.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-138.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-139.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-140.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-141.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-142.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-143.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [b64/string_only/unsat]  symcc-unsat-144.smt2
+    timeout: ['cvc5', 'noodler']  solved: ['z3']
+  [cJSON/mixed/sat]  symcc-assertions-12.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-18.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-21.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-24.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-30.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-33.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-36.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-37.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-41.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/sat]  symcc-assertions-8.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-10.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-11.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-18.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-19.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-20.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-21.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-22.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-23.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-24.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-25.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-26.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-27.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-28.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-29.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-30.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-31.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-32.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-33.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-34.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-38.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-40.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-41.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/mixed/unsat]  symcc-unsat-9.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-12.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-18.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-21.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-24.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-30.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-33.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-36.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-37.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-41.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/sat]  symcc-assertions-8.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-10.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-11.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-12.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-18.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-19.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-20.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-21.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-22.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-23.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-24.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-25.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-26.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-27.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-28.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-29.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-30.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-31.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-32.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-33.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-34.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-38.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-40.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-41.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-9.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [cJSON/string_only/unsat]  symcc-unsat-reset-21.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [inih/mixed/sat]  symcc-assertions-10.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-11.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-12.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-13.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-14.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-15.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-16.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-17.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-18.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-19.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-20.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-21.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/sat]  symcc-assertions-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-38.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/mixed/sat]  symcc-assertions-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-40.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/mixed/sat]  symcc-assertions-41.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/mixed/sat]  symcc-assertions-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-43.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-44.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-45.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-46.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/sat]  symcc-assertions-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-10.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/unsat]  symcc-unsat-12.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/unsat]  symcc-unsat-16.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/unsat]  symcc-unsat-17.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/unsat]  symcc-unsat-18.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/mixed/unsat]  symcc-unsat-34.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-38.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-40.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-41.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/mixed/unsat]  symcc-unsat-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-43.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-44.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-45.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-46.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/mixed/unsat]  symcc-unsat-9.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-10.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-11.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-12.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-13.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-14.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-15.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-16.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-17.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-18.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-19.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-20.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-21.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/sat]  symcc-assertions-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-38.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/sat]  symcc-assertions-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-40.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/sat]  symcc-assertions-41.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/sat]  symcc-assertions-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-43.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-44.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-45.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-46.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-50.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-51.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-52.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/sat]  symcc-assertions-53.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/sat]  symcc-assertions-54.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-10.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/unsat]  symcc-unsat-12.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/unsat]  symcc-unsat-16.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/unsat]  symcc-unsat-17.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/unsat]  symcc-unsat-18.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [inih/string_only/unsat]  symcc-unsat-34.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-35.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-36.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-37.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-38.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-39.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-40.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-41.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/unsat]  symcc-unsat-42.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-43.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-44.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-45.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-46.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-50.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/unsat]  symcc-unsat-51.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-52.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [inih/string_only/unsat]  symcc-unsat-53.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [inih/string_only/unsat]  symcc-unsat-54.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'z3']
+  [minicsv/mixed/sat]  symcc-assertions-37.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/mixed/sat]  symcc-assertions-38.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/mixed/sat]  symcc-assertions-40.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/mixed/sat]  symcc-assertions-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/mixed/sat]  symcc-assertions-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/mixed/sat]  symcc-assertions-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/string_only/sat]  symcc-assertions-37.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/sat]  symcc-assertions-38.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/sat]  symcc-assertions-39.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/sat]  symcc-assertions-40.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/sat]  symcc-assertions-47.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/string_only/sat]  symcc-assertions-48.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/string_only/sat]  symcc-assertions-49.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/string_only/sat]  symcc-assertions-50.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [minicsv/string_only/sat]  symcc-assertions-53.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/sat]  symcc-assertions-54.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3', 'noodler']
+  [minicsv/string_only/unsat]  symcc-unsat-51.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-10.smt2
+    timeout: ['ostrich', 'z3', 'noodler']  solved: ['cvc5']
+  [yuarel/mixed/sat]  symcc-assertions-11.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/mixed/sat]  symcc-assertions-3.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-44.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5']
+  [yuarel/mixed/sat]  symcc-assertions-5.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-6.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-7.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-8.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/sat]  symcc-assertions-9.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-10.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-11.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-12.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/mixed/unsat]  symcc-unsat-13.smt2
+    timeout: ['ostrich', 'z3', 'noodler']  solved: ['cvc5']
+  [yuarel/mixed/unsat]  symcc-unsat-3.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-4.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-5.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-6.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/mixed/unsat]  symcc-unsat-7.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/mixed/unsat]  symcc-unsat-8.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/mixed/unsat]  symcc-unsat-9.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/string_only/sat]  symcc-assertions-10.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/string_only/sat]  symcc-assertions-11.smt2
+    timeout: ['ostrich', 'z3', 'noodler']  solved: ['cvc5']
+  [yuarel/string_only/sat]  symcc-assertions-12.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/string_only/sat]  symcc-assertions-3.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+  [yuarel/string_only/unsat]  symcc-unsat-10.smt2
+    timeout: ['z3', 'noodler']  solved: ['cvc5', 'ostrich']
+  [yuarel/string_only/unsat]  symcc-unsat-11.smt2
+    timeout: ['ostrich', 'noodler']  solved: ['cvc5', 'z3']
+  [yuarel/string_only/unsat]  symcc-unsat-12.smt2
+    timeout: ['ostrich', 'z3', 'noodler']  solved: ['cvc5']
+  [yuarel/string_only/unsat]  symcc-unsat-13.smt2
+    timeout: ['ostrich', 'z3', 'noodler']  solved: ['cvc5']
+  [yuarel/string_only/unsat]  symcc-unsat-3.smt2
+    timeout: ['ostrich']  solved: ['cvc5', 'z3']
+  [yuarel/string_only/unsat]  symcc-unsat-4.smt2
+    timeout: ['noodler']  solved: ['cvc5', 'ostrich', 'z3']
+
+── EXTREME_RATIO  (1425) ──
+  [b64/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 24× faster (cvc5=85133ms, z3=3484ms)
+  [b64/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 31× faster (cvc5=121177ms, z3=3968ms)
+  [b64/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 29× faster (cvc5=168576ms, z3=5905ms)
+  [b64/mixed/sat]  symcc-assertions-5.smt2
+    z3 is 33× faster (cvc5=36414ms, z3=1108ms)
+  [b64/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 27× faster (cvc5=88680ms, z3=3264ms)
+  [b64/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 30× faster (cvc5=99331ms, z3=3259ms)
+  [b64/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 28× faster (cvc5=97093ms, z3=3502ms)
+  [b64/string_only/sat]  symcc-assertions-100.smt2
+    z3 is 12× faster (cvc5=46213ms, z3=3776ms)
+  [b64/string_only/sat]  symcc-assertions-102.smt2
+    z3 is 10× faster (cvc5=31278ms, z3=3026ms)
+  [cJSON/mixed/sat]  symcc-assertions-0.smt2
+    cvc5 is 13× faster (cvc5=105ms, ostrich=1343ms)
+  [cJSON/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 30× faster (ostrich=1343ms, z3=45ms)
+  [cJSON/mixed/sat]  symcc-assertions-0.smt2
+    noodler is 15× faster (ostrich=1343ms, noodler=87ms)
+  [cJSON/mixed/sat]  symcc-assertions-1.smt2
+    cvc5 is 63× faster (cvc5=77ms, ostrich=4823ms)
+  [cJSON/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 53× faster (ostrich=4823ms, z3=91ms)
+  [cJSON/mixed/sat]  symcc-assertions-1.smt2
+    noodler is 54× faster (ostrich=4823ms, noodler=89ms)
+  [cJSON/mixed/sat]  symcc-assertions-10.smt2
+    cvc5 is 21× faster (cvc5=69ms, ostrich=1451ms)
+  [cJSON/mixed/sat]  symcc-assertions-10.smt2
+    z3 is 132× faster (ostrich=1451ms, z3=11ms)
+  [cJSON/mixed/sat]  symcc-assertions-10.smt2
+    noodler is 18× faster (ostrich=1451ms, noodler=80ms)
+  [cJSON/mixed/sat]  symcc-assertions-11.smt2
+    cvc5 is 19× faster (cvc5=67ms, ostrich=1269ms)
+  [cJSON/mixed/sat]  symcc-assertions-11.smt2
+    z3 is 127× faster (ostrich=1269ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-11.smt2
+    noodler is 17× faster (ostrich=1269ms, noodler=74ms)
+  [cJSON/mixed/sat]  symcc-assertions-12.smt2
+    cvc5 is 44× faster (cvc5=115ms, ostrich=5076ms)
+  [cJSON/mixed/sat]  symcc-assertions-12.smt2
+    z3 is 16× faster (ostrich=5076ms, z3=310ms)
+  [cJSON/mixed/sat]  symcc-assertions-13.smt2
+    cvc5 is 23× faster (cvc5=65ms, ostrich=1504ms)
+  [cJSON/mixed/sat]  symcc-assertions-13.smt2
+    z3 is 167× faster (ostrich=1504ms, z3=9ms)
+  [cJSON/mixed/sat]  symcc-assertions-13.smt2
+    z3 is 35× faster (z3=9ms, noodler=317ms)
+  [cJSON/mixed/sat]  symcc-assertions-14.smt2
+    cvc5 is 34× faster (cvc5=68ms, ostrich=2329ms)
+  [cJSON/mixed/sat]  symcc-assertions-14.smt2
+    z3 is 212× faster (ostrich=2329ms, z3=11ms)
+  [cJSON/mixed/sat]  symcc-assertions-14.smt2
+    z3 is 29× faster (z3=11ms, noodler=320ms)
+  [cJSON/mixed/sat]  symcc-assertions-15.smt2
+    cvc5 is 56× faster (cvc5=308ms, ostrich=17238ms)
+  [cJSON/mixed/sat]  symcc-assertions-15.smt2
+    cvc5 is 139× faster (cvc5=308ms, noodler=42702ms)
+  [cJSON/mixed/sat]  symcc-assertions-15.smt2
+    z3 is 53× faster (ostrich=17238ms, z3=326ms)
+  [cJSON/mixed/sat]  symcc-assertions-15.smt2
+    z3 is 131× faster (z3=326ms, noodler=42702ms)
+  [cJSON/mixed/sat]  symcc-assertions-16.smt2
+    cvc5 is 32× faster (cvc5=71ms, ostrich=2242ms)
+  [cJSON/mixed/sat]  symcc-assertions-16.smt2
+    z3 is 224× faster (ostrich=2242ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-16.smt2
+    noodler is 13× faster (ostrich=2242ms, noodler=170ms)
+  [cJSON/mixed/sat]  symcc-assertions-16.smt2
+    z3 is 17× faster (z3=10ms, noodler=170ms)
+  [cJSON/mixed/sat]  symcc-assertions-17.smt2
+    cvc5 is 82× faster (cvc5=105ms, ostrich=8608ms)
+  [cJSON/mixed/sat]  symcc-assertions-17.smt2
+    cvc5 is 288× faster (cvc5=105ms, noodler=30271ms)
+  [cJSON/mixed/sat]  symcc-assertions-17.smt2
+    z3 is 19× faster (ostrich=8608ms, z3=447ms)
+  [cJSON/mixed/sat]  symcc-assertions-17.smt2
+    z3 is 68× faster (z3=447ms, noodler=30271ms)
+  [cJSON/mixed/sat]  symcc-assertions-18.smt2
+    cvc5 is 66× faster (cvc5=138ms, ostrich=9113ms)
+  [cJSON/mixed/sat]  symcc-assertions-18.smt2
+    cvc5 is 14× faster (cvc5=138ms, z3=1939ms)
+  [cJSON/mixed/sat]  symcc-assertions-19.smt2
+    cvc5 is 43× faster (cvc5=66ms, ostrich=2864ms)
+  [cJSON/mixed/sat]  symcc-assertions-19.smt2
+    z3 is 286× faster (ostrich=2864ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-19.smt2
+    noodler is 18× faster (ostrich=2864ms, noodler=160ms)
+  [cJSON/mixed/sat]  symcc-assertions-19.smt2
+    z3 is 16× faster (z3=10ms, noodler=160ms)
+  [cJSON/mixed/sat]  symcc-assertions-2.smt2
+    cvc5 is 162× faster (cvc5=80ms, ostrich=12942ms)
+  [cJSON/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 152× faster (ostrich=12942ms, z3=85ms)
+  [cJSON/mixed/sat]  symcc-assertions-2.smt2
+    noodler is 67× faster (ostrich=12942ms, noodler=192ms)
+  [cJSON/mixed/sat]  symcc-assertions-20.smt2
+    cvc5 is 83× faster (cvc5=66ms, ostrich=5499ms)
+  [cJSON/mixed/sat]  symcc-assertions-20.smt2
+    z3 is 550× faster (ostrich=5499ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-20.smt2
+    noodler is 34× faster (ostrich=5499ms, noodler=163ms)
+  [cJSON/mixed/sat]  symcc-assertions-20.smt2
+    z3 is 16× faster (z3=10ms, noodler=163ms)
+  [cJSON/mixed/sat]  symcc-assertions-21.smt2
+    cvc5 is 135× faster (cvc5=288ms, ostrich=38970ms)
+  [cJSON/mixed/sat]  symcc-assertions-21.smt2
+    z3 is 49× faster (ostrich=38970ms, z3=796ms)
+  [cJSON/mixed/sat]  symcc-assertions-22.smt2
+    cvc5 is 89× faster (cvc5=67ms, ostrich=5948ms)
+  [cJSON/mixed/sat]  symcc-assertions-22.smt2
+    z3 is 595× faster (ostrich=5948ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-22.smt2
+    noodler is 42× faster (ostrich=5948ms, noodler=141ms)
+  [cJSON/mixed/sat]  symcc-assertions-22.smt2
+    z3 is 14× faster (z3=10ms, noodler=141ms)
+  [cJSON/mixed/sat]  symcc-assertions-23.smt2
+    cvc5 is 163× faster (cvc5=129ms, ostrich=21034ms)
+  [cJSON/mixed/sat]  symcc-assertions-23.smt2
+    cvc5 is 470× faster (cvc5=129ms, noodler=60617ms)
+  [cJSON/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 17× faster (ostrich=21034ms, z3=1245ms)
+  [cJSON/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 49× faster (z3=1245ms, noodler=60617ms)
+  [cJSON/mixed/sat]  symcc-assertions-24.smt2
+    cvc5 is 102× faster (cvc5=174ms, ostrich=17759ms)
+  [cJSON/mixed/sat]  symcc-assertions-24.smt2
+    cvc5 is 10× faster (cvc5=174ms, z3=1767ms)
+  [cJSON/mixed/sat]  symcc-assertions-24.smt2
+    z3 is 10× faster (ostrich=17759ms, z3=1767ms)
+  [cJSON/mixed/sat]  symcc-assertions-25.smt2
+    cvc5 is 87× faster (cvc5=68ms, ostrich=5939ms)
+  [cJSON/mixed/sat]  symcc-assertions-25.smt2
+    z3 is 371× faster (ostrich=5939ms, z3=16ms)
+  [cJSON/mixed/sat]  symcc-assertions-25.smt2
+    noodler is 34× faster (ostrich=5939ms, noodler=175ms)
+  [cJSON/mixed/sat]  symcc-assertions-25.smt2
+    z3 is 11× faster (z3=16ms, noodler=175ms)
+  [cJSON/mixed/sat]  symcc-assertions-26.smt2
+    cvc5 is 97× faster (cvc5=71ms, ostrich=6882ms)
+  [cJSON/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 405× faster (ostrich=6882ms, z3=17ms)
+  [cJSON/mixed/sat]  symcc-assertions-26.smt2
+    noodler is 45× faster (ostrich=6882ms, noodler=153ms)
+  [cJSON/mixed/sat]  symcc-assertions-27.smt2
+    cvc5 is 177× faster (cvc5=68ms, ostrich=12037ms)
+  [cJSON/mixed/sat]  symcc-assertions-27.smt2
+    z3 is 860× faster (ostrich=12037ms, z3=14ms)
+  [cJSON/mixed/sat]  symcc-assertions-27.smt2
+    noodler is 82× faster (ostrich=12037ms, noodler=147ms)
+  [cJSON/mixed/sat]  symcc-assertions-27.smt2
+    z3 is 10× faster (z3=14ms, noodler=147ms)
+  [cJSON/mixed/sat]  symcc-assertions-28.smt2
+    cvc5 is 60× faster (cvc5=66ms, ostrich=3989ms)
+  [cJSON/mixed/sat]  symcc-assertions-28.smt2
+    z3 is 285× faster (ostrich=3989ms, z3=14ms)
+  [cJSON/mixed/sat]  symcc-assertions-28.smt2
+    noodler is 28× faster (ostrich=3989ms, noodler=141ms)
+  [cJSON/mixed/sat]  symcc-assertions-28.smt2
+    z3 is 10× faster (z3=14ms, noodler=141ms)
+  [cJSON/mixed/sat]  symcc-assertions-29.smt2
+    cvc5 is 135× faster (cvc5=66ms, ostrich=8903ms)
+  [cJSON/mixed/sat]  symcc-assertions-29.smt2
+    z3 is 636× faster (ostrich=8903ms, z3=14ms)
+  [cJSON/mixed/sat]  symcc-assertions-29.smt2
+    noodler is 57× faster (ostrich=8903ms, noodler=157ms)
+  [cJSON/mixed/sat]  symcc-assertions-29.smt2
+    z3 is 11× faster (z3=14ms, noodler=157ms)
+  [cJSON/mixed/sat]  symcc-assertions-3.smt2
+    cvc5 is 189× faster (cvc5=82ms, ostrich=15531ms)
+  [cJSON/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 1294× faster (ostrich=15531ms, z3=12ms)
+  [cJSON/mixed/sat]  symcc-assertions-3.smt2
+    noodler is 104× faster (ostrich=15531ms, noodler=149ms)
+  [cJSON/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 12× faster (z3=12ms, noodler=149ms)
+  [cJSON/mixed/sat]  symcc-assertions-30.smt2
+    cvc5 is 19× faster (cvc5=439ms, ostrich=8137ms)
+  [cJSON/mixed/sat]  symcc-assertions-31.smt2
+    cvc5 is 109× faster (cvc5=68ms, ostrich=7443ms)
+  [cJSON/mixed/sat]  symcc-assertions-31.smt2
+    z3 is 573× faster (ostrich=7443ms, z3=13ms)
+  [cJSON/mixed/sat]  symcc-assertions-31.smt2
+    noodler is 39× faster (ostrich=7443ms, noodler=190ms)
+  [cJSON/mixed/sat]  symcc-assertions-31.smt2
+    z3 is 15× faster (z3=13ms, noodler=190ms)
+  [cJSON/mixed/sat]  symcc-assertions-32.smt2
+    cvc5 is 94× faster (cvc5=65ms, ostrich=6097ms)
+  [cJSON/mixed/sat]  symcc-assertions-32.smt2
+    z3 is 610× faster (ostrich=6097ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-32.smt2
+    noodler is 43× faster (ostrich=6097ms, noodler=142ms)
+  [cJSON/mixed/sat]  symcc-assertions-32.smt2
+    z3 is 14× faster (z3=10ms, noodler=142ms)
+  [cJSON/mixed/sat]  symcc-assertions-33.smt2
+    cvc5 is 152× faster (cvc5=256ms, ostrich=38872ms)
+  [cJSON/mixed/sat]  symcc-assertions-33.smt2
+    z3 is 22× faster (ostrich=38872ms, z3=1779ms)
+  [cJSON/mixed/sat]  symcc-assertions-34.smt2
+    cvc5 is 101× faster (cvc5=78ms, ostrich=7896ms)
+  [cJSON/mixed/sat]  symcc-assertions-34.smt2
+    z3 is 658× faster (ostrich=7896ms, z3=12ms)
+  [cJSON/mixed/sat]  symcc-assertions-34.smt2
+    noodler is 50× faster (ostrich=7896ms, noodler=159ms)
+  [cJSON/mixed/sat]  symcc-assertions-34.smt2
+    z3 is 13× faster (z3=12ms, noodler=159ms)
+  [cJSON/mixed/sat]  symcc-assertions-35.smt2
+    cvc5 is 162× faster (cvc5=292ms, ostrich=47285ms)
+  [cJSON/mixed/sat]  symcc-assertions-35.smt2
+    z3 is 29× faster (ostrich=47285ms, z3=1620ms)
+  [cJSON/mixed/sat]  symcc-assertions-38.smt2
+    cvc5 is 105× faster (cvc5=74ms, ostrich=7799ms)
+  [cJSON/mixed/sat]  symcc-assertions-38.smt2
+    z3 is 557× faster (ostrich=7799ms, z3=14ms)
+  [cJSON/mixed/sat]  symcc-assertions-38.smt2
+    noodler is 57× faster (ostrich=7799ms, noodler=138ms)
+  [cJSON/mixed/sat]  symcc-assertions-39.smt2
+    cvc5 is 186× faster (cvc5=281ms, ostrich=52381ms)
+  [cJSON/mixed/sat]  symcc-assertions-39.smt2
+    z3 is 45× faster (ostrich=52381ms, z3=1173ms)
+  [cJSON/mixed/sat]  symcc-assertions-4.smt2
+    cvc5 is 147× faster (cvc5=97ms, ostrich=14306ms)
+  [cJSON/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 235× faster (ostrich=14306ms, z3=61ms)
+  [cJSON/mixed/sat]  symcc-assertions-4.smt2
+    noodler is 30× faster (ostrich=14306ms, noodler=479ms)
+  [cJSON/mixed/sat]  symcc-assertions-40.smt2
+    cvc5 is 114× faster (cvc5=76ms, ostrich=8652ms)
+  [cJSON/mixed/sat]  symcc-assertions-40.smt2
+    z3 is 865× faster (ostrich=8652ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-40.smt2
+    noodler is 54× faster (ostrich=8652ms, noodler=160ms)
+  [cJSON/mixed/sat]  symcc-assertions-40.smt2
+    z3 is 16× faster (z3=10ms, noodler=160ms)
+  [cJSON/mixed/sat]  symcc-assertions-41.smt2
+    cvc5 is 168× faster (cvc5=205ms, ostrich=34476ms)
+  [cJSON/mixed/sat]  symcc-assertions-41.smt2
+    z3 is 33× faster (ostrich=34476ms, z3=1059ms)
+  [cJSON/mixed/sat]  symcc-assertions-42.smt2
+    cvc5 is 66× faster (cvc5=67ms, ostrich=4389ms)
+  [cJSON/mixed/sat]  symcc-assertions-42.smt2
+    z3 is 439× faster (ostrich=4389ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-42.smt2
+    noodler is 32× faster (ostrich=4389ms, noodler=139ms)
+  [cJSON/mixed/sat]  symcc-assertions-42.smt2
+    z3 is 14× faster (z3=10ms, noodler=139ms)
+  [cJSON/mixed/sat]  symcc-assertions-5.smt2
+    cvc5 is 199× faster (cvc5=127ms, ostrich=25212ms)
+  [cJSON/mixed/sat]  symcc-assertions-5.smt2
+    z3 is 169× faster (ostrich=25212ms, z3=149ms)
+  [cJSON/mixed/sat]  symcc-assertions-5.smt2
+    noodler is 49× faster (ostrich=25212ms, noodler=513ms)
+  [cJSON/mixed/sat]  symcc-assertions-6.smt2
+    cvc5 is 50× faster (cvc5=67ms, ostrich=3370ms)
+  [cJSON/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 337× faster (ostrich=3370ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-6.smt2
+    noodler is 23× faster (ostrich=3370ms, noodler=148ms)
+  [cJSON/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 15× faster (z3=10ms, noodler=148ms)
+  [cJSON/mixed/sat]  symcc-assertions-7.smt2
+    cvc5 is 182× faster (cvc5=89ms, ostrich=16231ms)
+  [cJSON/mixed/sat]  symcc-assertions-7.smt2
+    cvc5 is 11× faster (cvc5=89ms, noodler=968ms)
+  [cJSON/mixed/sat]  symcc-assertions-7.smt2
+    z3 is 198× faster (ostrich=16231ms, z3=82ms)
+  [cJSON/mixed/sat]  symcc-assertions-7.smt2
+    noodler is 17× faster (ostrich=16231ms, noodler=968ms)
+  [cJSON/mixed/sat]  symcc-assertions-7.smt2
+    z3 is 12× faster (z3=82ms, noodler=968ms)
+  [cJSON/mixed/sat]  symcc-assertions-8.smt2
+    cvc5 is 468× faster (cvc5=99ms, ostrich=46285ms)
+  [cJSON/mixed/sat]  symcc-assertions-8.smt2
+    z3 is 133× faster (ostrich=46285ms, z3=348ms)
+  [cJSON/mixed/sat]  symcc-assertions-9.smt2
+    cvc5 is 75× faster (cvc5=66ms, ostrich=4978ms)
+  [cJSON/mixed/sat]  symcc-assertions-9.smt2
+    z3 is 498× faster (ostrich=4978ms, z3=10ms)
+  [cJSON/mixed/sat]  symcc-assertions-9.smt2
+    noodler is 33× faster (ostrich=4978ms, noodler=149ms)
+  [cJSON/mixed/sat]  symcc-assertions-9.smt2
+    z3 is 15× faster (z3=10ms, noodler=149ms)
+  [cJSON/mixed/unsat]  symcc-unsat-0.smt2
+    cvc5 is 54× faster (cvc5=67ms, ostrich=3643ms)
+  [cJSON/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 101× faster (ostrich=3643ms, z3=36ms)
+  [cJSON/mixed/unsat]  symcc-unsat-0.smt2
+    noodler is 25× faster (ostrich=3643ms, noodler=148ms)
+  [cJSON/mixed/unsat]  symcc-unsat-1.smt2
+    cvc5 is 138× faster (cvc5=75ms, ostrich=10321ms)
+  [cJSON/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 123× faster (ostrich=10321ms, z3=84ms)
+  [cJSON/mixed/unsat]  symcc-unsat-1.smt2
+    noodler is 58× faster (ostrich=10321ms, noodler=178ms)
+  [cJSON/mixed/unsat]  symcc-unsat-10.smt2
+    cvc5 is 183× faster (cvc5=218ms, ostrich=39830ms)
+  [cJSON/mixed/unsat]  symcc-unsat-10.smt2
+    z3 is 125× faster (ostrich=39830ms, z3=318ms)
+  [cJSON/mixed/unsat]  symcc-unsat-11.smt2
+    cvc5 is 250× faster (cvc5=231ms, ostrich=57865ms)
+  [cJSON/mixed/unsat]  symcc-unsat-11.smt2
+    z3 is 182× faster (ostrich=57865ms, z3=318ms)
+  [cJSON/mixed/unsat]  symcc-unsat-12.smt2
+    cvc5 is 191× faster (cvc5=121ms, ostrich=23150ms)
+  [cJSON/mixed/unsat]  symcc-unsat-12.smt2
+    cvc5 is 2478× faster (cvc5=121ms, noodler=299789ms)
+  [cJSON/mixed/unsat]  symcc-unsat-12.smt2
+    z3 is 36× faster (ostrich=23150ms, z3=648ms)
+  [cJSON/mixed/unsat]  symcc-unsat-12.smt2
+    ostrich is 13× faster (ostrich=23150ms, noodler=299789ms)
+  [cJSON/mixed/unsat]  symcc-unsat-12.smt2
+    z3 is 463× faster (z3=648ms, noodler=299789ms)
+  [cJSON/mixed/unsat]  symcc-unsat-13.smt2
+    cvc5 is 152× faster (cvc5=117ms, ostrich=17784ms)
+  [cJSON/mixed/unsat]  symcc-unsat-13.smt2
+    cvc5 is 2545× faster (cvc5=117ms, noodler=297820ms)
+  [cJSON/mixed/unsat]  symcc-unsat-13.smt2
+    z3 is 29× faster (ostrich=17784ms, z3=611ms)
+  [cJSON/mixed/unsat]  symcc-unsat-13.smt2
+    ostrich is 17× faster (ostrich=17784ms, noodler=297820ms)
+  [cJSON/mixed/unsat]  symcc-unsat-13.smt2
+    z3 is 487× faster (z3=611ms, noodler=297820ms)
+  [cJSON/mixed/unsat]  symcc-unsat-14.smt2
+    cvc5 is 144× faster (cvc5=113ms, ostrich=16276ms)
+  [cJSON/mixed/unsat]  symcc-unsat-14.smt2
+    cvc5 is 1162× faster (cvc5=113ms, noodler=131346ms)
+  [cJSON/mixed/unsat]  symcc-unsat-14.smt2
+    z3 is 38× faster (ostrich=16276ms, z3=429ms)
+  [cJSON/mixed/unsat]  symcc-unsat-14.smt2
+    z3 is 306× faster (z3=429ms, noodler=131346ms)
+  [cJSON/mixed/unsat]  symcc-unsat-15.smt2
+    cvc5 is 274× faster (cvc5=128ms, ostrich=35114ms)
+  [cJSON/mixed/unsat]  symcc-unsat-15.smt2
+    cvc5 is 1302× faster (cvc5=128ms, noodler=166609ms)
+  [cJSON/mixed/unsat]  symcc-unsat-15.smt2
+    z3 is 69× faster (ostrich=35114ms, z3=507ms)
+  [cJSON/mixed/unsat]  symcc-unsat-15.smt2
+    z3 is 329× faster (z3=507ms, noodler=166609ms)
+  [cJSON/mixed/unsat]  symcc-unsat-16.smt2
+    cvc5 is 226× faster (cvc5=126ms, ostrich=28493ms)
+  [cJSON/mixed/unsat]  symcc-unsat-16.smt2
+    cvc5 is 1306× faster (cvc5=126ms, noodler=164516ms)
+  [cJSON/mixed/unsat]  symcc-unsat-16.smt2
+    z3 is 57× faster (ostrich=28493ms, z3=502ms)
+  [cJSON/mixed/unsat]  symcc-unsat-16.smt2
+    z3 is 328× faster (z3=502ms, noodler=164516ms)
+  [cJSON/mixed/unsat]  symcc-unsat-17.smt2
+    cvc5 is 100× faster (cvc5=146ms, ostrich=14668ms)
+  [cJSON/mixed/unsat]  symcc-unsat-17.smt2
+    cvc5 is 361× faster (cvc5=146ms, noodler=52706ms)
+  [cJSON/mixed/unsat]  symcc-unsat-17.smt2
+    z3 is 22× faster (ostrich=14668ms, z3=671ms)
+  [cJSON/mixed/unsat]  symcc-unsat-17.smt2
+    z3 is 79× faster (z3=671ms, noodler=52706ms)
+  [cJSON/mixed/unsat]  symcc-unsat-18.smt2
+    cvc5 is 106× faster (cvc5=140ms, ostrich=14893ms)
+  [cJSON/mixed/unsat]  symcc-unsat-18.smt2
+    cvc5 is 10× faster (cvc5=140ms, z3=1452ms)
+  [cJSON/mixed/unsat]  symcc-unsat-18.smt2
+    z3 is 10× faster (ostrich=14893ms, z3=1452ms)
+  [cJSON/mixed/unsat]  symcc-unsat-19.smt2
+    cvc5 is 141× faster (cvc5=140ms, ostrich=19719ms)
+  [cJSON/mixed/unsat]  symcc-unsat-19.smt2
+    z3 is 24× faster (ostrich=19719ms, z3=837ms)
+  [cJSON/mixed/unsat]  symcc-unsat-2.smt2
+    cvc5 is 115× faster (cvc5=77ms, ostrich=8840ms)
+  [cJSON/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 99× faster (ostrich=8840ms, z3=89ms)
+  [cJSON/mixed/unsat]  symcc-unsat-2.smt2
+    noodler is 55× faster (ostrich=8840ms, noodler=161ms)
+  [cJSON/mixed/unsat]  symcc-unsat-20.smt2
+    cvc5 is 95× faster (cvc5=140ms, ostrich=13363ms)
+  [cJSON/mixed/unsat]  symcc-unsat-20.smt2
+    z3 is 16× faster (ostrich=13363ms, z3=838ms)
+  [cJSON/mixed/unsat]  symcc-unsat-21.smt2
+    cvc5 is 83× faster (cvc5=170ms, ostrich=14156ms)
+  [cJSON/mixed/unsat]  symcc-unsat-22.smt2
+    cvc5 is 74× faster (cvc5=172ms, ostrich=12768ms)
+  [cJSON/mixed/unsat]  symcc-unsat-23.smt2
+    cvc5 is 66× faster (cvc5=160ms, ostrich=10610ms)
+  [cJSON/mixed/unsat]  symcc-unsat-24.smt2
+    cvc5 is 117× faster (cvc5=173ms, ostrich=20268ms)
+  [cJSON/mixed/unsat]  symcc-unsat-24.smt2
+    cvc5 is 11× faster (cvc5=173ms, z3=1885ms)
+  [cJSON/mixed/unsat]  symcc-unsat-24.smt2
+    z3 is 11× faster (ostrich=20268ms, z3=1885ms)
+  [cJSON/mixed/unsat]  symcc-unsat-25.smt2
+    cvc5 is 107× faster (cvc5=174ms, ostrich=18640ms)
+  [cJSON/mixed/unsat]  symcc-unsat-25.smt2
+    z3 is 11× faster (ostrich=18640ms, z3=1665ms)
+  [cJSON/mixed/unsat]  symcc-unsat-26.smt2
+    cvc5 is 102× faster (cvc5=182ms, ostrich=18522ms)
+  [cJSON/mixed/unsat]  symcc-unsat-26.smt2
+    z3 is 11× faster (ostrich=18522ms, z3=1712ms)
+  [cJSON/mixed/unsat]  symcc-unsat-27.smt2
+    cvc5 is 103× faster (cvc5=179ms, ostrich=18356ms)
+  [cJSON/mixed/unsat]  symcc-unsat-27.smt2
+    z3 is 11× faster (ostrich=18356ms, z3=1674ms)
+  [cJSON/mixed/unsat]  symcc-unsat-28.smt2
+    cvc5 is 58× faster (cvc5=179ms, ostrich=10408ms)
+  [cJSON/mixed/unsat]  symcc-unsat-29.smt2
+    cvc5 is 75× faster (cvc5=185ms, ostrich=13831ms)
+  [cJSON/mixed/unsat]  symcc-unsat-29.smt2
+    cvc5 is 11× faster (cvc5=185ms, z3=1999ms)
+  [cJSON/mixed/unsat]  symcc-unsat-3.smt2
+    cvc5 is 137× faster (cvc5=84ms, ostrich=11521ms)
+  [cJSON/mixed/unsat]  symcc-unsat-3.smt2
+    z3 is 195× faster (ostrich=11521ms, z3=59ms)
+  [cJSON/mixed/unsat]  symcc-unsat-3.smt2
+    noodler is 23× faster (ostrich=11521ms, noodler=508ms)
+  [cJSON/mixed/unsat]  symcc-unsat-30.smt2
+    cvc5 is 75× faster (cvc5=191ms, ostrich=14401ms)
+  [cJSON/mixed/unsat]  symcc-unsat-31.smt2
+    cvc5 is 87× faster (cvc5=208ms, ostrich=18017ms)
+  [cJSON/mixed/unsat]  symcc-unsat-31.smt2
+    cvc5 is 24× faster (cvc5=208ms, z3=4956ms)
+  [cJSON/mixed/unsat]  symcc-unsat-32.smt2
+    cvc5 is 92× faster (cvc5=217ms, ostrich=19882ms)
+  [cJSON/mixed/unsat]  symcc-unsat-32.smt2
+    cvc5 is 23× faster (cvc5=217ms, z3=4971ms)
+  [cJSON/mixed/unsat]  symcc-unsat-33.smt2
+    cvc5 is 62× faster (cvc5=191ms, ostrich=11764ms)
+  [cJSON/mixed/unsat]  symcc-unsat-33.smt2
+    cvc5 is 12× faster (cvc5=191ms, z3=2343ms)
+  [cJSON/mixed/unsat]  symcc-unsat-34.smt2
+    cvc5 is 49× faster (cvc5=284ms, ostrich=13965ms)
+  [cJSON/mixed/unsat]  symcc-unsat-35.smt2
+    cvc5 is 101× faster (cvc5=195ms, ostrich=19642ms)
+  [cJSON/mixed/unsat]  symcc-unsat-35.smt2
+    z3 is 10× faster (ostrich=19642ms, z3=1936ms)
+  [cJSON/mixed/unsat]  symcc-unsat-36.smt2
+    cvc5 is 131× faster (cvc5=238ms, ostrich=31248ms)
+  [cJSON/mixed/unsat]  symcc-unsat-36.smt2
+    cvc5 is 401× faster (cvc5=238ms, z3=95421ms)
+  [cJSON/mixed/unsat]  symcc-unsat-37.smt2
+    cvc5 is 113× faster (cvc5=194ms, ostrich=21928ms)
+  [cJSON/mixed/unsat]  symcc-unsat-37.smt2
+    cvc5 is 10× faster (cvc5=194ms, z3=1967ms)
+  [cJSON/mixed/unsat]  symcc-unsat-37.smt2
+    z3 is 11× faster (ostrich=21928ms, z3=1967ms)
+  [cJSON/mixed/unsat]  symcc-unsat-38.smt2
+    cvc5 is 128× faster (cvc5=201ms, ostrich=25761ms)
+  [cJSON/mixed/unsat]  symcc-unsat-38.smt2
+    cvc5 is 10× faster (cvc5=201ms, z3=2039ms)
+  [cJSON/mixed/unsat]  symcc-unsat-38.smt2
+    z3 is 13× faster (ostrich=25761ms, z3=2039ms)
+  [cJSON/mixed/unsat]  symcc-unsat-39.smt2
+    cvc5 is 82× faster (cvc5=216ms, ostrich=17789ms)
+  [cJSON/mixed/unsat]  symcc-unsat-39.smt2
+    cvc5 is 10× faster (cvc5=216ms, z3=2199ms)
+  [cJSON/mixed/unsat]  symcc-unsat-4.smt2
+    cvc5 is 185× faster (cvc5=88ms, ostrich=16311ms)
+  [cJSON/mixed/unsat]  symcc-unsat-4.smt2
+    z3 is 163× faster (ostrich=16311ms, z3=100ms)
+  [cJSON/mixed/unsat]  symcc-unsat-4.smt2
+    noodler is 36× faster (ostrich=16311ms, noodler=453ms)
+  [cJSON/mixed/unsat]  symcc-unsat-40.smt2
+    cvc5 is 105× faster (cvc5=200ms, ostrich=21042ms)
+  [cJSON/mixed/unsat]  symcc-unsat-40.smt2
+    cvc5 is 11× faster (cvc5=200ms, z3=2114ms)
+  [cJSON/mixed/unsat]  symcc-unsat-41.smt2
+    cvc5 is 118× faster (cvc5=191ms, ostrich=22517ms)
+  [cJSON/mixed/unsat]  symcc-unsat-41.smt2
+    cvc5 is 13× faster (cvc5=191ms, z3=2413ms)
+  [cJSON/mixed/unsat]  symcc-unsat-42.smt2
+    cvc5 is 127× faster (cvc5=192ms, ostrich=24347ms)
+  [cJSON/mixed/unsat]  symcc-unsat-42.smt2
+    cvc5 is 13× faster (cvc5=192ms, z3=2425ms)
+  [cJSON/mixed/unsat]  symcc-unsat-42.smt2
+    z3 is 10× faster (ostrich=24347ms, z3=2425ms)
+  [cJSON/mixed/unsat]  symcc-unsat-5.smt2
+    cvc5 is 248× faster (cvc5=95ms, ostrich=23600ms)
+  [cJSON/mixed/unsat]  symcc-unsat-5.smt2
+    z3 is 152× faster (ostrich=23600ms, z3=155ms)
+  [cJSON/mixed/unsat]  symcc-unsat-5.smt2
+    noodler is 31× faster (ostrich=23600ms, noodler=756ms)
+  [cJSON/mixed/unsat]  symcc-unsat-6.smt2
+    cvc5 is 244× faster (cvc5=95ms, ostrich=23221ms)
+  [cJSON/mixed/unsat]  symcc-unsat-6.smt2
+    z3 is 150× faster (ostrich=23221ms, z3=155ms)
+  [cJSON/mixed/unsat]  symcc-unsat-6.smt2
+    noodler is 29× faster (ostrich=23221ms, noodler=801ms)
+  [cJSON/mixed/unsat]  symcc-unsat-7.smt2
+    cvc5 is 250× faster (cvc5=98ms, ostrich=24498ms)
+  [cJSON/mixed/unsat]  symcc-unsat-7.smt2
+    cvc5 is 11× faster (cvc5=98ms, noodler=1033ms)
+  [cJSON/mixed/unsat]  symcc-unsat-7.smt2
+    z3 is 142× faster (ostrich=24498ms, z3=172ms)
+  [cJSON/mixed/unsat]  symcc-unsat-7.smt2
+    noodler is 24× faster (ostrich=24498ms, noodler=1033ms)
+  [cJSON/mixed/unsat]  symcc-unsat-8.smt2
+    cvc5 is 180× faster (cvc5=226ms, ostrich=40640ms)
+  [cJSON/mixed/unsat]  symcc-unsat-8.smt2
+    cvc5 is 604× faster (cvc5=226ms, noodler=136599ms)
+  [cJSON/mixed/unsat]  symcc-unsat-8.smt2
+    z3 is 106× faster (ostrich=40640ms, z3=382ms)
+  [cJSON/mixed/unsat]  symcc-unsat-8.smt2
+    z3 is 358× faster (z3=382ms, noodler=136599ms)
+  [cJSON/mixed/unsat]  symcc-unsat-9.smt2
+    cvc5 is 125× faster (cvc5=220ms, ostrich=27450ms)
+  [cJSON/mixed/unsat]  symcc-unsat-9.smt2
+    z3 is 70× faster (ostrich=27450ms, z3=393ms)
+  [cJSON/string_only/sat]  symcc-assertions-0.smt2
+    cvc5 is 75× faster (cvc5=70ms, ostrich=5246ms)
+  [cJSON/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 138× faster (ostrich=5246ms, z3=38ms)
+  [cJSON/string_only/sat]  symcc-assertions-0.smt2
+    noodler is 29× faster (ostrich=5246ms, noodler=182ms)
+  [cJSON/string_only/sat]  symcc-assertions-1.smt2
+    cvc5 is 61× faster (cvc5=77ms, ostrich=4716ms)
+  [cJSON/string_only/sat]  symcc-assertions-1.smt2
+    z3 is 51× faster (ostrich=4716ms, z3=93ms)
+  [cJSON/string_only/sat]  symcc-assertions-1.smt2
+    noodler is 28× faster (ostrich=4716ms, noodler=166ms)
+  [cJSON/string_only/sat]  symcc-assertions-10.smt2
+    cvc5 is 40× faster (cvc5=68ms, ostrich=2740ms)
+  [cJSON/string_only/sat]  symcc-assertions-10.smt2
+    z3 is 228× faster (ostrich=2740ms, z3=12ms)
+  [cJSON/string_only/sat]  symcc-assertions-10.smt2
+    noodler is 18× faster (ostrich=2740ms, noodler=154ms)
+  [cJSON/string_only/sat]  symcc-assertions-10.smt2
+    z3 is 13× faster (z3=12ms, noodler=154ms)
+  [cJSON/string_only/sat]  symcc-assertions-11.smt2
+    cvc5 is 35× faster (cvc5=67ms, ostrich=2369ms)
+  [cJSON/string_only/sat]  symcc-assertions-11.smt2
+    z3 is 263× faster (ostrich=2369ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-11.smt2
+    noodler is 13× faster (ostrich=2369ms, noodler=189ms)
+  [cJSON/string_only/sat]  symcc-assertions-11.smt2
+    z3 is 21× faster (z3=9ms, noodler=189ms)
+  [cJSON/string_only/sat]  symcc-assertions-12.smt2
+    cvc5 is 57× faster (cvc5=119ms, ostrich=6754ms)
+  [cJSON/string_only/sat]  symcc-assertions-12.smt2
+    z3 is 26× faster (ostrich=6754ms, z3=259ms)
+  [cJSON/string_only/sat]  symcc-assertions-13.smt2
+    cvc5 is 36× faster (cvc5=70ms, ostrich=2497ms)
+  [cJSON/string_only/sat]  symcc-assertions-13.smt2
+    z3 is 277× faster (ostrich=2497ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-13.smt2
+    noodler is 12× faster (ostrich=2497ms, noodler=201ms)
+  [cJSON/string_only/sat]  symcc-assertions-13.smt2
+    z3 is 22× faster (z3=9ms, noodler=201ms)
+  [cJSON/string_only/sat]  symcc-assertions-14.smt2
+    cvc5 is 32× faster (cvc5=75ms, ostrich=2363ms)
+  [cJSON/string_only/sat]  symcc-assertions-14.smt2
+    z3 is 236× faster (ostrich=2363ms, z3=10ms)
+  [cJSON/string_only/sat]  symcc-assertions-14.smt2
+    noodler is 14× faster (ostrich=2363ms, noodler=173ms)
+  [cJSON/string_only/sat]  symcc-assertions-14.smt2
+    z3 is 17× faster (z3=10ms, noodler=173ms)
+  [cJSON/string_only/sat]  symcc-assertions-15.smt2
+    cvc5 is 52× faster (cvc5=306ms, ostrich=15788ms)
+  [cJSON/string_only/sat]  symcc-assertions-15.smt2
+    cvc5 is 123× faster (cvc5=306ms, noodler=37717ms)
+  [cJSON/string_only/sat]  symcc-assertions-15.smt2
+    z3 is 64× faster (ostrich=15788ms, z3=246ms)
+  [cJSON/string_only/sat]  symcc-assertions-15.smt2
+    z3 is 153× faster (z3=246ms, noodler=37717ms)
+  [cJSON/string_only/sat]  symcc-assertions-16.smt2
+    cvc5 is 54× faster (cvc5=80ms, ostrich=4293ms)
+  [cJSON/string_only/sat]  symcc-assertions-16.smt2
+    z3 is 10× faster (cvc5=80ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-16.smt2
+    z3 is 537× faster (ostrich=4293ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-16.smt2
+    noodler is 18× faster (ostrich=4293ms, noodler=233ms)
+  [cJSON/string_only/sat]  symcc-assertions-16.smt2
+    z3 is 29× faster (z3=8ms, noodler=233ms)
+  [cJSON/string_only/sat]  symcc-assertions-17.smt2
+    cvc5 is 134× faster (cvc5=119ms, ostrich=15896ms)
+  [cJSON/string_only/sat]  symcc-assertions-17.smt2
+    cvc5 is 269× faster (cvc5=119ms, noodler=32018ms)
+  [cJSON/string_only/sat]  symcc-assertions-17.smt2
+    z3 is 46× faster (ostrich=15896ms, z3=348ms)
+  [cJSON/string_only/sat]  symcc-assertions-17.smt2
+    z3 is 92× faster (z3=348ms, noodler=32018ms)
+  [cJSON/string_only/sat]  symcc-assertions-18.smt2
+    cvc5 is 135× faster (cvc5=143ms, ostrich=19304ms)
+  [cJSON/string_only/sat]  symcc-assertions-18.smt2
+    cvc5 is 10× faster (cvc5=143ms, z3=1464ms)
+  [cJSON/string_only/sat]  symcc-assertions-18.smt2
+    z3 is 13× faster (ostrich=19304ms, z3=1464ms)
+  [cJSON/string_only/sat]  symcc-assertions-19.smt2
+    cvc5 is 83× faster (cvc5=72ms, ostrich=5960ms)
+  [cJSON/string_only/sat]  symcc-assertions-19.smt2
+    z3 is 662× faster (ostrich=5960ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-19.smt2
+    noodler is 33× faster (ostrich=5960ms, noodler=179ms)
+  [cJSON/string_only/sat]  symcc-assertions-19.smt2
+    z3 is 20× faster (z3=9ms, noodler=179ms)
+  [cJSON/string_only/sat]  symcc-assertions-2.smt2
+    cvc5 is 47× faster (cvc5=86ms, ostrich=4068ms)
+  [cJSON/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 62× faster (ostrich=4068ms, z3=66ms)
+  [cJSON/string_only/sat]  symcc-assertions-2.smt2
+    noodler is 14× faster (ostrich=4068ms, noodler=293ms)
+  [cJSON/string_only/sat]  symcc-assertions-20.smt2
+    cvc5 is 31× faster (cvc5=69ms, ostrich=2147ms)
+  [cJSON/string_only/sat]  symcc-assertions-20.smt2
+    z3 is 239× faster (ostrich=2147ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-20.smt2
+    z3 is 24× faster (z3=9ms, noodler=218ms)
+  [cJSON/string_only/sat]  symcc-assertions-21.smt2
+    cvc5 is 41× faster (cvc5=301ms, ostrich=12462ms)
+  [cJSON/string_only/sat]  symcc-assertions-21.smt2
+    z3 is 22× faster (ostrich=12462ms, z3=576ms)
+  [cJSON/string_only/sat]  symcc-assertions-22.smt2
+    cvc5 is 23× faster (cvc5=70ms, ostrich=1613ms)
+  [cJSON/string_only/sat]  symcc-assertions-22.smt2
+    z3 is 202× faster (ostrich=1613ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-22.smt2
+    noodler is 12× faster (ostrich=1613ms, noodler=131ms)
+  [cJSON/string_only/sat]  symcc-assertions-22.smt2
+    z3 is 16× faster (z3=8ms, noodler=131ms)
+  [cJSON/string_only/sat]  symcc-assertions-23.smt2
+    cvc5 is 59× faster (cvc5=120ms, ostrich=7096ms)
+  [cJSON/string_only/sat]  symcc-assertions-23.smt2
+    cvc5 is 472× faster (cvc5=120ms, noodler=56603ms)
+  [cJSON/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 62× faster (z3=912ms, noodler=56603ms)
+  [cJSON/string_only/sat]  symcc-assertions-24.smt2
+    cvc5 is 36× faster (cvc5=171ms, ostrich=6207ms)
+  [cJSON/string_only/sat]  symcc-assertions-25.smt2
+    cvc5 is 43× faster (cvc5=72ms, ostrich=3126ms)
+  [cJSON/string_only/sat]  symcc-assertions-25.smt2
+    z3 is 391× faster (ostrich=3126ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-25.smt2
+    noodler is 15× faster (ostrich=3126ms, noodler=215ms)
+  [cJSON/string_only/sat]  symcc-assertions-25.smt2
+    z3 is 27× faster (z3=8ms, noodler=215ms)
+  [cJSON/string_only/sat]  symcc-assertions-26.smt2
+    cvc5 is 37× faster (cvc5=71ms, ostrich=2598ms)
+  [cJSON/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 289× faster (ostrich=2598ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-26.smt2
+    noodler is 12× faster (ostrich=2598ms, noodler=225ms)
+  [cJSON/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 25× faster (z3=9ms, noodler=225ms)
+  [cJSON/string_only/sat]  symcc-assertions-27.smt2
+    cvc5 is 50× faster (cvc5=68ms, ostrich=3390ms)
+  [cJSON/string_only/sat]  symcc-assertions-27.smt2
+    z3 is 377× faster (ostrich=3390ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-27.smt2
+    noodler is 16× faster (ostrich=3390ms, noodler=212ms)
+  [cJSON/string_only/sat]  symcc-assertions-27.smt2
+    z3 is 24× faster (z3=9ms, noodler=212ms)
+  [cJSON/string_only/sat]  symcc-assertions-28.smt2
+    cvc5 is 27× faster (cvc5=65ms, ostrich=1772ms)
+  [cJSON/string_only/sat]  symcc-assertions-28.smt2
+    z3 is 222× faster (ostrich=1772ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-28.smt2
+    z3 is 28× faster (z3=8ms, noodler=223ms)
+  [cJSON/string_only/sat]  symcc-assertions-29.smt2
+    cvc5 is 35× faster (cvc5=70ms, ostrich=2480ms)
+  [cJSON/string_only/sat]  symcc-assertions-29.smt2
+    z3 is 276× faster (ostrich=2480ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-29.smt2
+    noodler is 12× faster (ostrich=2480ms, noodler=214ms)
+  [cJSON/string_only/sat]  symcc-assertions-29.smt2
+    z3 is 24× faster (z3=9ms, noodler=214ms)
+  [cJSON/string_only/sat]  symcc-assertions-3.smt2
+    cvc5 is 79× faster (cvc5=86ms, ostrich=6760ms)
+  [cJSON/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 751× faster (ostrich=6760ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-3.smt2
+    noodler is 35× faster (ostrich=6760ms, noodler=195ms)
+  [cJSON/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 22× faster (z3=9ms, noodler=195ms)
+  [cJSON/string_only/sat]  symcc-assertions-31.smt2
+    cvc5 is 33× faster (cvc5=68ms, ostrich=2214ms)
+  [cJSON/string_only/sat]  symcc-assertions-31.smt2
+    z3 is 246× faster (ostrich=2214ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-31.smt2
+    noodler is 19× faster (ostrich=2214ms, noodler=116ms)
+  [cJSON/string_only/sat]  symcc-assertions-31.smt2
+    z3 is 13× faster (z3=9ms, noodler=116ms)
+  [cJSON/string_only/sat]  symcc-assertions-32.smt2
+    cvc5 is 35× faster (cvc5=69ms, ostrich=2419ms)
+  [cJSON/string_only/sat]  symcc-assertions-32.smt2
+    z3 is 302× faster (ostrich=2419ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-32.smt2
+    noodler is 23× faster (ostrich=2419ms, noodler=103ms)
+  [cJSON/string_only/sat]  symcc-assertions-32.smt2
+    z3 is 13× faster (z3=8ms, noodler=103ms)
+  [cJSON/string_only/sat]  symcc-assertions-33.smt2
+    cvc5 is 52× faster (cvc5=254ms, ostrich=13131ms)
+  [cJSON/string_only/sat]  symcc-assertions-33.smt2
+    z3 is 11× faster (ostrich=13131ms, z3=1218ms)
+  [cJSON/string_only/sat]  symcc-assertions-34.smt2
+    cvc5 is 29× faster (cvc5=72ms, ostrich=2085ms)
+  [cJSON/string_only/sat]  symcc-assertions-34.smt2
+    z3 is 190× faster (ostrich=2085ms, z3=11ms)
+  [cJSON/string_only/sat]  symcc-assertions-34.smt2
+    noodler is 21× faster (ostrich=2085ms, noodler=97ms)
+  [cJSON/string_only/sat]  symcc-assertions-35.smt2
+    cvc5 is 48× faster (cvc5=261ms, ostrich=12436ms)
+  [cJSON/string_only/sat]  symcc-assertions-35.smt2
+    z3 is 11× faster (ostrich=12436ms, z3=1176ms)
+  [cJSON/string_only/sat]  symcc-assertions-38.smt2
+    cvc5 is 38× faster (cvc5=69ms, ostrich=2649ms)
+  [cJSON/string_only/sat]  symcc-assertions-38.smt2
+    z3 is 331× faster (ostrich=2649ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-38.smt2
+    noodler is 25× faster (ostrich=2649ms, noodler=107ms)
+  [cJSON/string_only/sat]  symcc-assertions-38.smt2
+    z3 is 13× faster (z3=8ms, noodler=107ms)
+  [cJSON/string_only/sat]  symcc-assertions-39.smt2
+    cvc5 is 72× faster (cvc5=254ms, ostrich=18292ms)
+  [cJSON/string_only/sat]  symcc-assertions-39.smt2
+    z3 is 22× faster (ostrich=18292ms, z3=844ms)
+  [cJSON/string_only/sat]  symcc-assertions-4.smt2
+    cvc5 is 73× faster (cvc5=88ms, ostrich=6386ms)
+  [cJSON/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 139× faster (ostrich=6386ms, z3=46ms)
+  [cJSON/string_only/sat]  symcc-assertions-4.smt2
+    noodler is 18× faster (ostrich=6386ms, noodler=362ms)
+  [cJSON/string_only/sat]  symcc-assertions-40.smt2
+    cvc5 is 51× faster (cvc5=73ms, ostrich=3734ms)
+  [cJSON/string_only/sat]  symcc-assertions-40.smt2
+    z3 is 467× faster (ostrich=3734ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-40.smt2
+    noodler is 38× faster (ostrich=3734ms, noodler=97ms)
+  [cJSON/string_only/sat]  symcc-assertions-40.smt2
+    z3 is 12× faster (z3=8ms, noodler=97ms)
+  [cJSON/string_only/sat]  symcc-assertions-41.smt2
+    cvc5 is 81× faster (cvc5=204ms, ostrich=16601ms)
+  [cJSON/string_only/sat]  symcc-assertions-41.smt2
+    z3 is 21× faster (ostrich=16601ms, z3=774ms)
+  [cJSON/string_only/sat]  symcc-assertions-42.smt2
+    cvc5 is 49× faster (cvc5=71ms, ostrich=3454ms)
+  [cJSON/string_only/sat]  symcc-assertions-42.smt2
+    z3 is 432× faster (ostrich=3454ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-42.smt2
+    noodler is 39× faster (ostrich=3454ms, noodler=88ms)
+  [cJSON/string_only/sat]  symcc-assertions-42.smt2
+    z3 is 11× faster (z3=8ms, noodler=88ms)
+  [cJSON/string_only/sat]  symcc-assertions-5.smt2
+    cvc5 is 81× faster (cvc5=133ms, ostrich=10796ms)
+  [cJSON/string_only/sat]  symcc-assertions-5.smt2
+    z3 is 94× faster (ostrich=10796ms, z3=115ms)
+  [cJSON/string_only/sat]  symcc-assertions-5.smt2
+    noodler is 29× faster (ostrich=10796ms, noodler=368ms)
+  [cJSON/string_only/sat]  symcc-assertions-6.smt2
+    cvc5 is 26× faster (cvc5=73ms, ostrich=1918ms)
+  [cJSON/string_only/sat]  symcc-assertions-6.smt2
+    z3 is 240× faster (ostrich=1918ms, z3=8ms)
+  [cJSON/string_only/sat]  symcc-assertions-6.smt2
+    noodler is 21× faster (ostrich=1918ms, noodler=93ms)
+  [cJSON/string_only/sat]  symcc-assertions-6.smt2
+    z3 is 12× faster (z3=8ms, noodler=93ms)
+  [cJSON/string_only/sat]  symcc-assertions-7.smt2
+    cvc5 is 77× faster (cvc5=94ms, ostrich=7202ms)
+  [cJSON/string_only/sat]  symcc-assertions-7.smt2
+    z3 is 111× faster (ostrich=7202ms, z3=65ms)
+  [cJSON/string_only/sat]  symcc-assertions-7.smt2
+    noodler is 10× faster (ostrich=7202ms, noodler=706ms)
+  [cJSON/string_only/sat]  symcc-assertions-7.smt2
+    z3 is 11× faster (z3=65ms, noodler=706ms)
+  [cJSON/string_only/sat]  symcc-assertions-8.smt2
+    cvc5 is 222× faster (cvc5=106ms, ostrich=23584ms)
+  [cJSON/string_only/sat]  symcc-assertions-8.smt2
+    z3 is 85× faster (ostrich=23584ms, z3=279ms)
+  [cJSON/string_only/sat]  symcc-assertions-9.smt2
+    cvc5 is 33× faster (cvc5=66ms, ostrich=2210ms)
+  [cJSON/string_only/sat]  symcc-assertions-9.smt2
+    z3 is 246× faster (ostrich=2210ms, z3=9ms)
+  [cJSON/string_only/sat]  symcc-assertions-9.smt2
+    noodler is 19× faster (ostrich=2210ms, noodler=115ms)
+  [cJSON/string_only/sat]  symcc-assertions-9.smt2
+    z3 is 13× faster (z3=9ms, noodler=115ms)
+  [cJSON/string_only/unsat]  symcc-unsat-0.smt2
+    cvc5 is 29× faster (cvc5=72ms, ostrich=2063ms)
+  [cJSON/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 71× faster (ostrich=2063ms, z3=29ms)
+  [cJSON/string_only/unsat]  symcc-unsat-0.smt2
+    noodler is 10× faster (ostrich=2063ms, noodler=203ms)
+  [cJSON/string_only/unsat]  symcc-unsat-1.smt2
+    cvc5 is 76× faster (cvc5=74ms, ostrich=5642ms)
+  [cJSON/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 84× faster (ostrich=5642ms, z3=67ms)
+  [cJSON/string_only/unsat]  symcc-unsat-1.smt2
+    noodler is 27× faster (ostrich=5642ms, noodler=210ms)
+  [cJSON/string_only/unsat]  symcc-unsat-10.smt2
+    cvc5 is 70× faster (cvc5=221ms, ostrich=15576ms)
+  [cJSON/string_only/unsat]  symcc-unsat-10.smt2
+    z3 is 61× faster (ostrich=15576ms, z3=254ms)
+  [cJSON/string_only/unsat]  symcc-unsat-11.smt2
+    cvc5 is 61× faster (cvc5=214ms, ostrich=13026ms)
+  [cJSON/string_only/unsat]  symcc-unsat-11.smt2
+    z3 is 34× faster (ostrich=13026ms, z3=382ms)
+  [cJSON/string_only/unsat]  symcc-unsat-12.smt2
+    cvc5 is 43× faster (cvc5=116ms, ostrich=4980ms)
+  [cJSON/string_only/unsat]  symcc-unsat-12.smt2
+    z3 is 11× faster (ostrich=4980ms, z3=453ms)
+  [cJSON/string_only/unsat]  symcc-unsat-13.smt2
+    cvc5 is 40× faster (cvc5=116ms, ostrich=4607ms)
+  [cJSON/string_only/unsat]  symcc-unsat-13.smt2
+    cvc5 is 2358× faster (cvc5=116ms, noodler=273560ms)
+  [cJSON/string_only/unsat]  symcc-unsat-13.smt2
+    z3 is 10× faster (ostrich=4607ms, z3=448ms)
+  [cJSON/string_only/unsat]  symcc-unsat-13.smt2
+    ostrich is 59× faster (ostrich=4607ms, noodler=273560ms)
+  [cJSON/string_only/unsat]  symcc-unsat-13.smt2
+    z3 is 611× faster (z3=448ms, noodler=273560ms)
+  [cJSON/string_only/unsat]  symcc-unsat-14.smt2
+    cvc5 is 43× faster (cvc5=113ms, ostrich=4852ms)
+  [cJSON/string_only/unsat]  symcc-unsat-14.smt2
+    cvc5 is 1618× faster (cvc5=113ms, noodler=182791ms)
+  [cJSON/string_only/unsat]  symcc-unsat-14.smt2
+    ostrich is 38× faster (ostrich=4852ms, noodler=182791ms)
+  [cJSON/string_only/unsat]  symcc-unsat-14.smt2
+    z3 is 176× faster (z3=1038ms, noodler=182791ms)
+  [cJSON/string_only/unsat]  symcc-unsat-15.smt2
+    cvc5 is 75× faster (cvc5=140ms, ostrich=10499ms)
+  [cJSON/string_only/unsat]  symcc-unsat-15.smt2
+    cvc5 is 1004× faster (cvc5=140ms, noodler=140573ms)
+  [cJSON/string_only/unsat]  symcc-unsat-15.smt2
+    z3 is 24× faster (ostrich=10499ms, z3=433ms)
+  [cJSON/string_only/unsat]  symcc-unsat-15.smt2
+    ostrich is 13× faster (ostrich=10499ms, noodler=140573ms)
+  [cJSON/string_only/unsat]  symcc-unsat-15.smt2
+    z3 is 325× faster (z3=433ms, noodler=140573ms)
+  [cJSON/string_only/unsat]  symcc-unsat-16.smt2
+    cvc5 is 82× faster (cvc5=128ms, ostrich=10560ms)
+  [cJSON/string_only/unsat]  symcc-unsat-16.smt2
+    cvc5 is 1133× faster (cvc5=128ms, noodler=145048ms)
+  [cJSON/string_only/unsat]  symcc-unsat-16.smt2
+    z3 is 20× faster (ostrich=10560ms, z3=529ms)
+  [cJSON/string_only/unsat]  symcc-unsat-16.smt2
+    ostrich is 14× faster (ostrich=10560ms, noodler=145048ms)
+  [cJSON/string_only/unsat]  symcc-unsat-16.smt2
+    z3 is 274× faster (z3=529ms, noodler=145048ms)
+  [cJSON/string_only/unsat]  symcc-unsat-17.smt2
+    cvc5 is 42× faster (cvc5=128ms, ostrich=5361ms)
+  [cJSON/string_only/unsat]  symcc-unsat-17.smt2
+    cvc5 is 364× faster (cvc5=128ms, noodler=46609ms)
+  [cJSON/string_only/unsat]  symcc-unsat-17.smt2
+    z3 is 11× faster (ostrich=5361ms, z3=510ms)
+  [cJSON/string_only/unsat]  symcc-unsat-17.smt2
+    z3 is 91× faster (z3=510ms, noodler=46609ms)
+  [cJSON/string_only/unsat]  symcc-unsat-18.smt2
+    cvc5 is 38× faster (cvc5=140ms, ostrich=5289ms)
+  [cJSON/string_only/unsat]  symcc-unsat-19.smt2
+    cvc5 is 36× faster (cvc5=146ms, ostrich=5255ms)
+  [cJSON/string_only/unsat]  symcc-unsat-2.smt2
+    cvc5 is 49× faster (cvc5=83ms, ostrich=4034ms)
+  [cJSON/string_only/unsat]  symcc-unsat-2.smt2
+    z3 is 59× faster (ostrich=4034ms, z3=68ms)
+  [cJSON/string_only/unsat]  symcc-unsat-2.smt2
+    noodler is 36× faster (ostrich=4034ms, noodler=112ms)
+  [cJSON/string_only/unsat]  symcc-unsat-20.smt2
+    cvc5 is 40× faster (cvc5=143ms, ostrich=5656ms)
+  [cJSON/string_only/unsat]  symcc-unsat-21.smt2
+    cvc5 is 40× faster (cvc5=160ms, ostrich=6453ms)
+  [cJSON/string_only/unsat]  symcc-unsat-22.smt2
+    cvc5 is 50× faster (cvc5=156ms, ostrich=7867ms)
+  [cJSON/string_only/unsat]  symcc-unsat-23.smt2
+    cvc5 is 36× faster (cvc5=164ms, ostrich=5838ms)
+  [cJSON/string_only/unsat]  symcc-unsat-24.smt2
+    cvc5 is 38× faster (cvc5=171ms, ostrich=6580ms)
+  [cJSON/string_only/unsat]  symcc-unsat-25.smt2
+    cvc5 is 35× faster (cvc5=183ms, ostrich=6346ms)
+  [cJSON/string_only/unsat]  symcc-unsat-26.smt2
+    cvc5 is 34× faster (cvc5=173ms, ostrich=5911ms)
+  [cJSON/string_only/unsat]  symcc-unsat-27.smt2
+    cvc5 is 40× faster (cvc5=170ms, ostrich=6787ms)
+  [cJSON/string_only/unsat]  symcc-unsat-28.smt2
+    cvc5 is 36× faster (cvc5=170ms, ostrich=6101ms)
+  [cJSON/string_only/unsat]  symcc-unsat-29.smt2
+    cvc5 is 42× faster (cvc5=178ms, ostrich=7432ms)
+  [cJSON/string_only/unsat]  symcc-unsat-3.smt2
+    cvc5 is 32× faster (cvc5=90ms, ostrich=2853ms)
+  [cJSON/string_only/unsat]  symcc-unsat-3.smt2
+    z3 is 65× faster (ostrich=2853ms, z3=44ms)
+  [cJSON/string_only/unsat]  symcc-unsat-30.smt2
+    cvc5 is 34× faster (cvc5=190ms, ostrich=6392ms)
+  [cJSON/string_only/unsat]  symcc-unsat-31.smt2
+    cvc5 is 37× faster (cvc5=188ms, ostrich=6922ms)
+  [cJSON/string_only/unsat]  symcc-unsat-31.smt2
+    cvc5 is 19× faster (cvc5=188ms, z3=3535ms)
+  [cJSON/string_only/unsat]  symcc-unsat-32.smt2
+    cvc5 is 26× faster (cvc5=189ms, ostrich=4879ms)
+  [cJSON/string_only/unsat]  symcc-unsat-32.smt2
+    cvc5 is 19× faster (cvc5=189ms, z3=3525ms)
+  [cJSON/string_only/unsat]  symcc-unsat-33.smt2
+    cvc5 is 19× faster (cvc5=189ms, ostrich=3632ms)
+  [cJSON/string_only/unsat]  symcc-unsat-34.smt2
+    cvc5 is 19× faster (cvc5=191ms, ostrich=3703ms)
+  [cJSON/string_only/unsat]  symcc-unsat-35.smt2
+    cvc5 is 22× faster (cvc5=192ms, ostrich=4270ms)
+  [cJSON/string_only/unsat]  symcc-unsat-36.smt2
+    cvc5 is 21× faster (cvc5=191ms, ostrich=4027ms)
+  [cJSON/string_only/unsat]  symcc-unsat-36.smt2
+    cvc5 is 368× faster (cvc5=191ms, z3=70220ms)
+  [cJSON/string_only/unsat]  symcc-unsat-36.smt2
+    ostrich is 17× faster (ostrich=4027ms, z3=70220ms)
+  [cJSON/string_only/unsat]  symcc-unsat-37.smt2
+    cvc5 is 19× faster (cvc5=190ms, ostrich=3676ms)
+  [cJSON/string_only/unsat]  symcc-unsat-38.smt2
+    cvc5 is 20× faster (cvc5=200ms, ostrich=3941ms)
+  [cJSON/string_only/unsat]  symcc-unsat-39.smt2
+    cvc5 is 19× faster (cvc5=190ms, ostrich=3701ms)
+  [cJSON/string_only/unsat]  symcc-unsat-4.smt2
+    cvc5 is 38× faster (cvc5=85ms, ostrich=3272ms)
+  [cJSON/string_only/unsat]  symcc-unsat-4.smt2
+    z3 is 42× faster (ostrich=3272ms, z3=77ms)
+  [cJSON/string_only/unsat]  symcc-unsat-4.smt2
+    noodler is 12× faster (ostrich=3272ms, noodler=275ms)
+  [cJSON/string_only/unsat]  symcc-unsat-40.smt2
+    cvc5 is 21× faster (cvc5=189ms, ostrich=4042ms)
+  [cJSON/string_only/unsat]  symcc-unsat-41.smt2
+    cvc5 is 20× faster (cvc5=196ms, ostrich=3950ms)
+  [cJSON/string_only/unsat]  symcc-unsat-42.smt2
+    cvc5 is 20× faster (cvc5=190ms, ostrich=3755ms)
+  [cJSON/string_only/unsat]  symcc-unsat-5.smt2
+    cvc5 is 131× faster (cvc5=94ms, ostrich=12314ms)
+  [cJSON/string_only/unsat]  symcc-unsat-5.smt2
+    z3 is 108× faster (ostrich=12314ms, z3=114ms)
+  [cJSON/string_only/unsat]  symcc-unsat-5.smt2
+    noodler is 23× faster (ostrich=12314ms, noodler=530ms)
+  [cJSON/string_only/unsat]  symcc-unsat-6.smt2
+    cvc5 is 190× faster (cvc5=90ms, ostrich=17081ms)
+  [cJSON/string_only/unsat]  symcc-unsat-6.smt2
+    z3 is 150× faster (ostrich=17081ms, z3=114ms)
+  [cJSON/string_only/unsat]  symcc-unsat-6.smt2
+    noodler is 32× faster (ostrich=17081ms, noodler=531ms)
+  [cJSON/string_only/unsat]  symcc-unsat-7.smt2
+    cvc5 is 185× faster (cvc5=102ms, ostrich=18837ms)
+  [cJSON/string_only/unsat]  symcc-unsat-7.smt2
+    z3 is 148× faster (ostrich=18837ms, z3=127ms)
+  [cJSON/string_only/unsat]  symcc-unsat-7.smt2
+    noodler is 26× faster (ostrich=18837ms, noodler=711ms)
+  [cJSON/string_only/unsat]  symcc-unsat-8.smt2
+    cvc5 is 94× faster (cvc5=211ms, ostrich=19797ms)
+  [cJSON/string_only/unsat]  symcc-unsat-8.smt2
+    cvc5 is 430× faster (cvc5=211ms, noodler=90775ms)
+  [cJSON/string_only/unsat]  symcc-unsat-8.smt2
+    z3 is 70× faster (ostrich=19797ms, z3=281ms)
+  [cJSON/string_only/unsat]  symcc-unsat-8.smt2
+    z3 is 323× faster (z3=281ms, noodler=90775ms)
+  [cJSON/string_only/unsat]  symcc-unsat-9.smt2
+    cvc5 is 88× faster (cvc5=213ms, ostrich=18753ms)
+  [cJSON/string_only/unsat]  symcc-unsat-9.smt2
+    z3 is 53× faster (ostrich=18753ms, z3=352ms)
+  [cJSON/string_only/unsat]  symcc-unsat-reset-21.smt2
+    cvc5 is 60× faster (cvc5=160ms, ostrich=9565ms)
+  [inih/mixed/sat]  symcc-assertions-0.smt2
+    cvc5 is 37× faster (cvc5=108ms, ostrich=4028ms)
+  [inih/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 336× faster (ostrich=4028ms, z3=12ms)
+  [inih/mixed/sat]  symcc-assertions-0.smt2
+    noodler is 47× faster (ostrich=4028ms, noodler=85ms)
+  [inih/mixed/sat]  symcc-assertions-1.smt2
+    cvc5 is 115× faster (cvc5=69ms, ostrich=7928ms)
+  [inih/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 610× faster (ostrich=7928ms, z3=13ms)
+  [inih/mixed/sat]  symcc-assertions-1.smt2
+    noodler is 78× faster (ostrich=7928ms, noodler=101ms)
+  [inih/mixed/sat]  symcc-assertions-2.smt2
+    cvc5 is 90× faster (cvc5=71ms, ostrich=6419ms)
+  [inih/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 149× faster (ostrich=6419ms, z3=43ms)
+  [inih/mixed/sat]  symcc-assertions-2.smt2
+    noodler is 64× faster (ostrich=6419ms, noodler=101ms)
+  [inih/mixed/sat]  symcc-assertions-27.smt2
+    cvc5 is 62× faster (cvc5=311ms, noodler=19315ms)
+  [inih/mixed/sat]  symcc-assertions-27.smt2
+    z3 is 65× faster (z3=299ms, noodler=19315ms)
+  [inih/mixed/sat]  symcc-assertions-28.smt2
+    cvc5 is 59× faster (cvc5=314ms, noodler=18565ms)
+  [inih/mixed/sat]  symcc-assertions-28.smt2
+    z3 is 79× faster (z3=235ms, noodler=18565ms)
+  [inih/mixed/sat]  symcc-assertions-29.smt2
+    cvc5 is 73× faster (cvc5=313ms, noodler=22765ms)
+  [inih/mixed/sat]  symcc-assertions-29.smt2
+    z3 is 92× faster (z3=247ms, noodler=22765ms)
+  [inih/mixed/sat]  symcc-assertions-3.smt2
+    cvc5 is 107× faster (cvc5=67ms, ostrich=7144ms)
+  [inih/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 223× faster (ostrich=7144ms, z3=32ms)
+  [inih/mixed/sat]  symcc-assertions-3.smt2
+    noodler is 49× faster (ostrich=7144ms, noodler=147ms)
+  [inih/mixed/sat]  symcc-assertions-30.smt2
+    cvc5 is 77× faster (cvc5=314ms, noodler=24317ms)
+  [inih/mixed/sat]  symcc-assertions-30.smt2
+    z3 is 92× faster (z3=265ms, noodler=24317ms)
+  [inih/mixed/sat]  symcc-assertions-31.smt2
+    cvc5 is 85× faster (cvc5=319ms, noodler=27151ms)
+  [inih/mixed/sat]  symcc-assertions-31.smt2
+    z3 is 85× faster (z3=318ms, noodler=27151ms)
+  [inih/mixed/sat]  symcc-assertions-32.smt2
+    cvc5 is 21× faster (cvc5=312ms, noodler=6438ms)
+  [inih/mixed/sat]  symcc-assertions-32.smt2
+    z3 is 17× faster (z3=380ms, noodler=6438ms)
+  [inih/mixed/sat]  symcc-assertions-4.smt2
+    cvc5 is 258× faster (cvc5=78ms, ostrich=20105ms)
+  [inih/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 330× faster (ostrich=20105ms, z3=61ms)
+  [inih/mixed/sat]  symcc-assertions-4.smt2
+    noodler is 111× faster (ostrich=20105ms, noodler=181ms)
+  [inih/mixed/sat]  symcc-assertions-5.smt2
+    cvc5 is 275× faster (cvc5=78ms, ostrich=21466ms)
+  [inih/mixed/sat]  symcc-assertions-5.smt2
+    z3 is 613× faster (ostrich=21466ms, z3=35ms)
+  [inih/mixed/sat]  symcc-assertions-5.smt2
+    noodler is 134× faster (ostrich=21466ms, noodler=160ms)
+  [inih/mixed/sat]  symcc-assertions-6.smt2
+    cvc5 is 229× faster (cvc5=78ms, ostrich=17885ms)
+  [inih/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 497× faster (ostrich=17885ms, z3=36ms)
+  [inih/mixed/sat]  symcc-assertions-6.smt2
+    noodler is 112× faster (ostrich=17885ms, noodler=160ms)
+  [inih/mixed/sat]  symcc-assertions-7.smt2
+    cvc5 is 102× faster (cvc5=77ms, ostrich=7820ms)
+  [inih/mixed/sat]  symcc-assertions-7.smt2
+    z3 is 196× faster (ostrich=7820ms, z3=40ms)
+  [inih/mixed/sat]  symcc-assertions-7.smt2
+    noodler is 34× faster (ostrich=7820ms, noodler=230ms)
+  [inih/mixed/sat]  symcc-assertions-8.smt2
+    cvc5 is 191× faster (cvc5=75ms, ostrich=14326ms)
+  [inih/mixed/sat]  symcc-assertions-8.smt2
+    z3 is 251× faster (ostrich=14326ms, z3=57ms)
+  [inih/mixed/sat]  symcc-assertions-8.smt2
+    noodler is 67× faster (ostrich=14326ms, noodler=213ms)
+  [inih/mixed/sat]  symcc-assertions-9.smt2
+    cvc5 is 94× faster (cvc5=73ms, ostrich=6890ms)
+  [inih/mixed/sat]  symcc-assertions-9.smt2
+    z3 is 186× faster (ostrich=6890ms, z3=37ms)
+  [inih/mixed/sat]  symcc-assertions-9.smt2
+    noodler is 42× faster (ostrich=6890ms, noodler=163ms)
+  [inih/mixed/unsat]  symcc-unsat-0.smt2
+    cvc5 is 53× faster (cvc5=72ms, ostrich=3845ms)
+  [inih/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 427× faster (ostrich=3845ms, z3=9ms)
+  [inih/mixed/unsat]  symcc-unsat-0.smt2
+    noodler is 29× faster (ostrich=3845ms, noodler=133ms)
+  [inih/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 15× faster (z3=9ms, noodler=133ms)
+  [inih/mixed/unsat]  symcc-unsat-1.smt2
+    cvc5 is 63× faster (cvc5=73ms, ostrich=4601ms)
+  [inih/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 511× faster (ostrich=4601ms, z3=9ms)
+  [inih/mixed/unsat]  symcc-unsat-1.smt2
+    noodler is 33× faster (ostrich=4601ms, noodler=138ms)
+  [inih/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 15× faster (z3=9ms, noodler=138ms)
+  [inih/mixed/unsat]  symcc-unsat-11.smt2
+    cvc5 is 166× faster (cvc5=87ms, ostrich=14467ms)
+  [inih/mixed/unsat]  symcc-unsat-11.smt2
+    z3 is 237× faster (ostrich=14467ms, z3=61ms)
+  [inih/mixed/unsat]  symcc-unsat-11.smt2
+    noodler is 84× faster (ostrich=14467ms, noodler=173ms)
+  [inih/mixed/unsat]  symcc-unsat-13.smt2
+    cvc5 is 151× faster (cvc5=86ms, ostrich=13009ms)
+  [inih/mixed/unsat]  symcc-unsat-13.smt2
+    z3 is 228× faster (ostrich=13009ms, z3=57ms)
+  [inih/mixed/unsat]  symcc-unsat-13.smt2
+    noodler is 81× faster (ostrich=13009ms, noodler=160ms)
+  [inih/mixed/unsat]  symcc-unsat-14.smt2
+    cvc5 is 169× faster (cvc5=87ms, ostrich=14729ms)
+  [inih/mixed/unsat]  symcc-unsat-14.smt2
+    z3 is 307× faster (ostrich=14729ms, z3=48ms)
+  [inih/mixed/unsat]  symcc-unsat-14.smt2
+    noodler is 91× faster (ostrich=14729ms, noodler=161ms)
+  [inih/mixed/unsat]  symcc-unsat-15.smt2
+    cvc5 is 178× faster (cvc5=86ms, ostrich=15322ms)
+  [inih/mixed/unsat]  symcc-unsat-15.smt2
+    z3 is 210× faster (ostrich=15322ms, z3=73ms)
+  [inih/mixed/unsat]  symcc-unsat-15.smt2
+    noodler is 83× faster (ostrich=15322ms, noodler=185ms)
+  [inih/mixed/unsat]  symcc-unsat-19.smt2
+    cvc5 is 105× faster (cvc5=80ms, ostrich=8421ms)
+  [inih/mixed/unsat]  symcc-unsat-19.smt2
+    z3 is 117× faster (ostrich=8421ms, z3=72ms)
+  [inih/mixed/unsat]  symcc-unsat-19.smt2
+    noodler is 46× faster (ostrich=8421ms, noodler=184ms)
+  [inih/mixed/unsat]  symcc-unsat-2.smt2
+    cvc5 is 91× faster (cvc5=69ms, ostrich=6310ms)
+  [inih/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 274× faster (ostrich=6310ms, z3=23ms)
+  [inih/mixed/unsat]  symcc-unsat-2.smt2
+    noodler is 38× faster (ostrich=6310ms, noodler=165ms)
+  [inih/mixed/unsat]  symcc-unsat-20.smt2
+    cvc5 is 129× faster (cvc5=82ms, ostrich=10550ms)
+  [inih/mixed/unsat]  symcc-unsat-20.smt2
+    z3 is 132× faster (ostrich=10550ms, z3=80ms)
+  [inih/mixed/unsat]  symcc-unsat-20.smt2
+    noodler is 61× faster (ostrich=10550ms, noodler=174ms)
+  [inih/mixed/unsat]  symcc-unsat-21.smt2
+    cvc5 is 128× faster (cvc5=82ms, ostrich=10499ms)
+  [inih/mixed/unsat]  symcc-unsat-21.smt2
+    z3 is 138× faster (ostrich=10499ms, z3=76ms)
+  [inih/mixed/unsat]  symcc-unsat-21.smt2
+    noodler is 65× faster (ostrich=10499ms, noodler=162ms)
+  [inih/mixed/unsat]  symcc-unsat-27.smt2
+    cvc5 is 74× faster (cvc5=324ms, noodler=23868ms)
+  [inih/mixed/unsat]  symcc-unsat-27.smt2
+    z3 is 75× faster (z3=318ms, noodler=23868ms)
+  [inih/mixed/unsat]  symcc-unsat-28.smt2
+    cvc5 is 67× faster (cvc5=346ms, noodler=23197ms)
+  [inih/mixed/unsat]  symcc-unsat-28.smt2
+    z3 is 81× faster (z3=287ms, noodler=23197ms)
+  [inih/mixed/unsat]  symcc-unsat-29.smt2
+    cvc5 is 70× faster (cvc5=341ms, noodler=23705ms)
+  [inih/mixed/unsat]  symcc-unsat-29.smt2
+    z3 is 100× faster (z3=236ms, noodler=23705ms)
+  [inih/mixed/unsat]  symcc-unsat-3.smt2
+    cvc5 is 93× faster (cvc5=75ms, ostrich=6967ms)
+  [inih/mixed/unsat]  symcc-unsat-3.smt2
+    z3 is 179× faster (ostrich=6967ms, z3=39ms)
+  [inih/mixed/unsat]  symcc-unsat-3.smt2
+    noodler is 44× faster (ostrich=6967ms, noodler=157ms)
+  [inih/mixed/unsat]  symcc-unsat-30.smt2
+    cvc5 is 70× faster (cvc5=329ms, noodler=22928ms)
+  [inih/mixed/unsat]  symcc-unsat-30.smt2
+    z3 is 103× faster (z3=222ms, noodler=22928ms)
+  [inih/mixed/unsat]  symcc-unsat-31.smt2
+    cvc5 is 72× faster (cvc5=324ms, noodler=23310ms)
+  [inih/mixed/unsat]  symcc-unsat-31.smt2
+    z3 is 117× faster (z3=200ms, noodler=23310ms)
+  [inih/mixed/unsat]  symcc-unsat-4.smt2
+    cvc5 is 115× faster (cvc5=79ms, ostrich=9084ms)
+  [inih/mixed/unsat]  symcc-unsat-4.smt2
+    z3 is 123× faster (ostrich=9084ms, z3=74ms)
+  [inih/mixed/unsat]  symcc-unsat-4.smt2
+    noodler is 51× faster (ostrich=9084ms, noodler=179ms)
+  [inih/mixed/unsat]  symcc-unsat-5.smt2
+    cvc5 is 138× faster (cvc5=76ms, ostrich=10478ms)
+  [inih/mixed/unsat]  symcc-unsat-5.smt2
+    z3 is 228× faster (ostrich=10478ms, z3=46ms)
+  [inih/mixed/unsat]  symcc-unsat-5.smt2
+    noodler is 58× faster (ostrich=10478ms, noodler=182ms)
+  [inih/mixed/unsat]  symcc-unsat-6.smt2
+    cvc5 is 94× faster (cvc5=77ms, ostrich=7260ms)
+  [inih/mixed/unsat]  symcc-unsat-6.smt2
+    z3 is 123× faster (ostrich=7260ms, z3=59ms)
+  [inih/mixed/unsat]  symcc-unsat-6.smt2
+    noodler is 40× faster (ostrich=7260ms, noodler=181ms)
+  [inih/mixed/unsat]  symcc-unsat-7.smt2
+    cvc5 is 150× faster (cvc5=76ms, ostrich=11363ms)
+  [inih/mixed/unsat]  symcc-unsat-7.smt2
+    z3 is 175× faster (ostrich=11363ms, z3=65ms)
+  [inih/mixed/unsat]  symcc-unsat-7.smt2
+    noodler is 63× faster (ostrich=11363ms, noodler=179ms)
+  [inih/mixed/unsat]  symcc-unsat-8.smt2
+    cvc5 is 104× faster (cvc5=79ms, ostrich=8248ms)
+  [inih/mixed/unsat]  symcc-unsat-8.smt2
+    z3 is 229× faster (ostrich=8248ms, z3=36ms)
+  [inih/mixed/unsat]  symcc-unsat-8.smt2
+    noodler is 43× faster (ostrich=8248ms, noodler=190ms)
+  [inih/string_only/sat]  symcc-assertions-0.smt2
+    cvc5 is 38× faster (cvc5=70ms, ostrich=2638ms)
+  [inih/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 293× faster (ostrich=2638ms, z3=9ms)
+  [inih/string_only/sat]  symcc-assertions-0.smt2
+    noodler is 15× faster (ostrich=2638ms, noodler=171ms)
+  [inih/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 19× faster (z3=9ms, noodler=171ms)
+  [inih/string_only/sat]  symcc-assertions-1.smt2
+    cvc5 is 27× faster (cvc5=71ms, ostrich=1904ms)
+  [inih/string_only/sat]  symcc-assertions-1.smt2
+    z3 is 159× faster (ostrich=1904ms, z3=12ms)
+  [inih/string_only/sat]  symcc-assertions-1.smt2
+    noodler is 11× faster (ostrich=1904ms, noodler=176ms)
+  [inih/string_only/sat]  symcc-assertions-1.smt2
+    z3 is 15× faster (z3=12ms, noodler=176ms)
+  [inih/string_only/sat]  symcc-assertions-2.smt2
+    cvc5 is 35× faster (cvc5=72ms, ostrich=2537ms)
+  [inih/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 77× faster (ostrich=2537ms, z3=33ms)
+  [inih/string_only/sat]  symcc-assertions-2.smt2
+    noodler is 15× faster (ostrich=2537ms, noodler=173ms)
+  [inih/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 15× faster (z3=10ms, noodler=149ms)
+  [inih/string_only/sat]  symcc-assertions-27.smt2
+    cvc5 is 77× faster (cvc5=317ms, noodler=24407ms)
+  [inih/string_only/sat]  symcc-assertions-27.smt2
+    z3 is 110× faster (z3=221ms, noodler=24407ms)
+  [inih/string_only/sat]  symcc-assertions-28.smt2
+    cvc5 is 75× faster (cvc5=318ms, noodler=23963ms)
+  [inih/string_only/sat]  symcc-assertions-28.smt2
+    z3 is 137× faster (z3=175ms, noodler=23963ms)
+  [inih/string_only/sat]  symcc-assertions-29.smt2
+    cvc5 is 76× faster (cvc5=319ms, noodler=24330ms)
+  [inih/string_only/sat]  symcc-assertions-29.smt2
+    z3 is 132× faster (z3=184ms, noodler=24330ms)
+  [inih/string_only/sat]  symcc-assertions-3.smt2
+    cvc5 is 36× faster (cvc5=70ms, ostrich=2529ms)
+  [inih/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 105× faster (ostrich=2529ms, z3=24ms)
+  [inih/string_only/sat]  symcc-assertions-3.smt2
+    noodler is 14× faster (ostrich=2529ms, noodler=187ms)
+  [inih/string_only/sat]  symcc-assertions-30.smt2
+    cvc5 is 75× faster (cvc5=318ms, noodler=23778ms)
+  [inih/string_only/sat]  symcc-assertions-30.smt2
+    z3 is 120× faster (z3=198ms, noodler=23778ms)
+  [inih/string_only/sat]  symcc-assertions-31.smt2
+    cvc5 is 77× faster (cvc5=328ms, noodler=25297ms)
+  [inih/string_only/sat]  symcc-assertions-31.smt2
+    z3 is 106× faster (z3=239ms, noodler=25297ms)
+  [inih/string_only/sat]  symcc-assertions-32.smt2
+    cvc5 is 22× faster (cvc5=319ms, noodler=6988ms)
+  [inih/string_only/sat]  symcc-assertions-32.smt2
+    z3 is 25× faster (z3=276ms, noodler=6988ms)
+  [inih/string_only/sat]  symcc-assertions-34.smt2
+    z3 is 14× faster (z3=12ms, noodler=163ms)
+  [inih/string_only/sat]  symcc-assertions-4.smt2
+    cvc5 is 123× faster (cvc5=76ms, ostrich=9363ms)
+  [inih/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 208× faster (ostrich=9363ms, z3=45ms)
+  [inih/string_only/sat]  symcc-assertions-4.smt2
+    noodler is 49× faster (ostrich=9363ms, noodler=192ms)
+  [inih/string_only/unsat]  symcc-unsat-0.smt2
+    cvc5 is 20× faster (cvc5=70ms, ostrich=1411ms)
+  [inih/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 157× faster (ostrich=1411ms, z3=9ms)
+  [inih/string_only/unsat]  symcc-unsat-0.smt2
+    noodler is 14× faster (ostrich=1411ms, noodler=103ms)
+  [inih/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 11× faster (z3=9ms, noodler=103ms)
+  [inih/string_only/unsat]  symcc-unsat-1.smt2
+    cvc5 is 35× faster (cvc5=68ms, ostrich=2405ms)
+  [inih/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 267× faster (ostrich=2405ms, z3=9ms)
+  [inih/string_only/unsat]  symcc-unsat-1.smt2
+    noodler is 19× faster (ostrich=2405ms, noodler=124ms)
+  [inih/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 14× faster (z3=9ms, noodler=124ms)
+  [inih/string_only/unsat]  symcc-unsat-11.smt2
+    cvc5 is 114× faster (cvc5=87ms, ostrich=9904ms)
+  [inih/string_only/unsat]  symcc-unsat-11.smt2
+    z3 is 162× faster (ostrich=9904ms, z3=61ms)
+  [inih/string_only/unsat]  symcc-unsat-11.smt2
+    noodler is 74× faster (ostrich=9904ms, noodler=134ms)
+  [inih/string_only/unsat]  symcc-unsat-13.smt2
+    cvc5 is 114× faster (cvc5=87ms, ostrich=9913ms)
+  [inih/string_only/unsat]  symcc-unsat-13.smt2
+    z3 is 165× faster (ostrich=9913ms, z3=60ms)
+  [inih/string_only/unsat]  symcc-unsat-13.smt2
+    noodler is 73× faster (ostrich=9913ms, noodler=135ms)
+  [inih/string_only/unsat]  symcc-unsat-14.smt2
+    cvc5 is 104× faster (cvc5=88ms, ostrich=9126ms)
+  [inih/string_only/unsat]  symcc-unsat-14.smt2
+    z3 is 194× faster (ostrich=9126ms, z3=47ms)
+  [inih/string_only/unsat]  symcc-unsat-14.smt2
+    noodler is 83× faster (ostrich=9126ms, noodler=110ms)
+  [inih/string_only/unsat]  symcc-unsat-15.smt2
+    cvc5 is 116× faster (cvc5=87ms, ostrich=10059ms)
+  [inih/string_only/unsat]  symcc-unsat-15.smt2
+    z3 is 142× faster (ostrich=10059ms, z3=71ms)
+  [inih/string_only/unsat]  symcc-unsat-15.smt2
+    noodler is 76× faster (ostrich=10059ms, noodler=132ms)
+  [inih/string_only/unsat]  symcc-unsat-19.smt2
+    cvc5 is 53× faster (cvc5=82ms, ostrich=4322ms)
+  [inih/string_only/unsat]  symcc-unsat-19.smt2
+    z3 is 59× faster (ostrich=4322ms, z3=73ms)
+  [inih/string_only/unsat]  symcc-unsat-19.smt2
+    noodler is 33× faster (ostrich=4322ms, noodler=131ms)
+  [inih/string_only/unsat]  symcc-unsat-2.smt2
+    cvc5 is 41× faster (cvc5=70ms, ostrich=2880ms)
+  [inih/string_only/unsat]  symcc-unsat-2.smt2
+    z3 is 125× faster (ostrich=2880ms, z3=23ms)
+  [inih/string_only/unsat]  symcc-unsat-2.smt2
+    noodler is 27× faster (ostrich=2880ms, noodler=107ms)
+  [inih/string_only/unsat]  symcc-unsat-20.smt2
+    cvc5 is 61× faster (cvc5=82ms, ostrich=4991ms)
+  [inih/string_only/unsat]  symcc-unsat-20.smt2
+    z3 is 62× faster (ostrich=4991ms, z3=80ms)
+  [inih/string_only/unsat]  symcc-unsat-20.smt2
+    noodler is 41× faster (ostrich=4991ms, noodler=123ms)
+  [inih/string_only/unsat]  symcc-unsat-21.smt2
+    cvc5 is 66× faster (cvc5=82ms, ostrich=5372ms)
+  [inih/string_only/unsat]  symcc-unsat-21.smt2
+    z3 is 72× faster (ostrich=5372ms, z3=75ms)
+  [inih/string_only/unsat]  symcc-unsat-21.smt2
+    noodler is 46× faster (ostrich=5372ms, noodler=116ms)
+  [inih/string_only/unsat]  symcc-unsat-27.smt2
+    cvc5 is 62× faster (cvc5=323ms, noodler=19913ms)
+  [inih/string_only/unsat]  symcc-unsat-27.smt2
+    z3 is 64× faster (z3=310ms, noodler=19913ms)
+  [inih/string_only/unsat]  symcc-unsat-28.smt2
+    cvc5 is 60× faster (cvc5=331ms, noodler=19809ms)
+  [inih/string_only/unsat]  symcc-unsat-28.smt2
+    z3 is 69× faster (z3=287ms, noodler=19809ms)
+  [inih/string_only/unsat]  symcc-unsat-29.smt2
+    cvc5 is 66× faster (cvc5=330ms, noodler=21701ms)
+  [inih/string_only/unsat]  symcc-unsat-29.smt2
+    z3 is 92× faster (z3=236ms, noodler=21701ms)
+  [inih/string_only/unsat]  symcc-unsat-3.smt2
+    cvc5 is 34× faster (cvc5=73ms, ostrich=2516ms)
+  [inih/string_only/unsat]  symcc-unsat-3.smt2
+    z3 is 63× faster (ostrich=2516ms, z3=40ms)
+  [inih/string_only/unsat]  symcc-unsat-3.smt2
+    noodler is 21× faster (ostrich=2516ms, noodler=118ms)
+  [inih/string_only/unsat]  symcc-unsat-30.smt2
+    cvc5 is 68× faster (cvc5=322ms, noodler=21813ms)
+  [inih/string_only/unsat]  symcc-unsat-30.smt2
+    z3 is 98× faster (z3=223ms, noodler=21813ms)
+  [inih/string_only/unsat]  symcc-unsat-31.smt2
+    cvc5 is 63× faster (cvc5=318ms, noodler=20030ms)
+  [inih/string_only/unsat]  symcc-unsat-31.smt2
+    z3 is 102× faster (z3=197ms, noodler=20030ms)
+  [inih/string_only/unsat]  symcc-unsat-4.smt2
+    cvc5 is 58× faster (cvc5=77ms, ostrich=4449ms)
+  [inih/string_only/unsat]  symcc-unsat-4.smt2
+    z3 is 63× faster (ostrich=4449ms, z3=71ms)
+  [inih/string_only/unsat]  symcc-unsat-4.smt2
+    noodler is 37× faster (ostrich=4449ms, noodler=119ms)
+  [minicsv/mixed/sat]  symcc-assertions-0.smt2
+    cvc5 is 22× faster (cvc5=128ms, ostrich=2869ms)
+  [minicsv/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 11× faster (cvc5=128ms, z3=12ms)
+  [minicsv/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 239× faster (ostrich=2869ms, z3=12ms)
+  [minicsv/mixed/sat]  symcc-assertions-0.smt2
+    noodler is 23× faster (ostrich=2869ms, noodler=125ms)
+  [minicsv/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 10× faster (z3=12ms, noodler=125ms)
+  [minicsv/mixed/sat]  symcc-assertions-1.smt2
+    cvc5 is 60× faster (cvc5=71ms, ostrich=4256ms)
+  [minicsv/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 10× faster (cvc5=71ms, z3=7ms)
+  [minicsv/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 608× faster (ostrich=4256ms, z3=7ms)
+  [minicsv/mixed/sat]  symcc-assertions-1.smt2
+    noodler is 46× faster (ostrich=4256ms, noodler=93ms)
+  [minicsv/mixed/sat]  symcc-assertions-1.smt2
+    z3 is 13× faster (z3=7ms, noodler=93ms)
+  [minicsv/mixed/sat]  symcc-assertions-10.smt2
+    cvc5 is 293× faster (cvc5=70ms, ostrich=20492ms)
+  [minicsv/mixed/sat]  symcc-assertions-10.smt2
+    z3 is 1138× faster (ostrich=20492ms, z3=18ms)
+  [minicsv/mixed/sat]  symcc-assertions-10.smt2
+    noodler is 124× faster (ostrich=20492ms, noodler=165ms)
+  [minicsv/mixed/sat]  symcc-assertions-11.smt2
+    cvc5 is 101× faster (cvc5=75ms, ostrich=7589ms)
+  [minicsv/mixed/sat]  symcc-assertions-11.smt2
+    z3 is 271× faster (ostrich=7589ms, z3=28ms)
+  [minicsv/mixed/sat]  symcc-assertions-11.smt2
+    noodler is 61× faster (ostrich=7589ms, noodler=124ms)
+  [minicsv/mixed/sat]  symcc-assertions-12.smt2
+    cvc5 is 127× faster (cvc5=74ms, ostrich=9432ms)
+  [minicsv/mixed/sat]  symcc-assertions-12.smt2
+    z3 is 410× faster (ostrich=9432ms, z3=23ms)
+  [minicsv/mixed/sat]  symcc-assertions-12.smt2
+    noodler is 72× faster (ostrich=9432ms, noodler=131ms)
+  [minicsv/mixed/sat]  symcc-assertions-13.smt2
+    cvc5 is 130× faster (cvc5=73ms, ostrich=9494ms)
+  [minicsv/mixed/sat]  symcc-assertions-13.smt2
+    z3 is 380× faster (ostrich=9494ms, z3=25ms)
+  [minicsv/mixed/sat]  symcc-assertions-13.smt2
+    noodler is 73× faster (ostrich=9494ms, noodler=130ms)
+  [minicsv/mixed/sat]  symcc-assertions-14.smt2
+    cvc5 is 98× faster (cvc5=73ms, ostrich=7139ms)
+  [minicsv/mixed/sat]  symcc-assertions-14.smt2
+    z3 is 286× faster (ostrich=7139ms, z3=25ms)
+  [minicsv/mixed/sat]  symcc-assertions-14.smt2
+    noodler is 56× faster (ostrich=7139ms, noodler=127ms)
+  [minicsv/mixed/sat]  symcc-assertions-15.smt2
+    cvc5 is 101× faster (cvc5=74ms, ostrich=7448ms)
+  [minicsv/mixed/sat]  symcc-assertions-15.smt2
+    z3 is 298× faster (ostrich=7448ms, z3=25ms)
+  [minicsv/mixed/sat]  symcc-assertions-15.smt2
+    noodler is 58× faster (ostrich=7448ms, noodler=129ms)
+  [minicsv/mixed/sat]  symcc-assertions-16.smt2
+    cvc5 is 83× faster (cvc5=80ms, ostrich=6602ms)
+  [minicsv/mixed/sat]  symcc-assertions-16.smt2
+    z3 is 200× faster (ostrich=6602ms, z3=33ms)
+  [minicsv/mixed/sat]  symcc-assertions-16.smt2
+    noodler is 51× faster (ostrich=6602ms, noodler=130ms)
+  [minicsv/mixed/sat]  symcc-assertions-17.smt2
+    cvc5 is 119× faster (cvc5=77ms, ostrich=9127ms)
+  [minicsv/mixed/sat]  symcc-assertions-17.smt2
+    z3 is 304× faster (ostrich=9127ms, z3=30ms)
+  [minicsv/mixed/sat]  symcc-assertions-17.smt2
+    noodler is 66× faster (ostrich=9127ms, noodler=138ms)
+  [minicsv/mixed/sat]  symcc-assertions-18.smt2
+    cvc5 is 110× faster (cvc5=80ms, ostrich=8782ms)
+  [minicsv/mixed/sat]  symcc-assertions-18.smt2
+    z3 is 293× faster (ostrich=8782ms, z3=30ms)
+  [minicsv/mixed/sat]  symcc-assertions-18.smt2
+    noodler is 66× faster (ostrich=8782ms, noodler=134ms)
+  [minicsv/mixed/sat]  symcc-assertions-19.smt2
+    cvc5 is 95× faster (cvc5=80ms, ostrich=7591ms)
+  [minicsv/mixed/sat]  symcc-assertions-19.smt2
+    z3 is 262× faster (ostrich=7591ms, z3=29ms)
+  [minicsv/mixed/sat]  symcc-assertions-19.smt2
+    noodler is 58× faster (ostrich=7591ms, noodler=131ms)
+  [minicsv/mixed/sat]  symcc-assertions-2.smt2
+    cvc5 is 72× faster (cvc5=68ms, ostrich=4896ms)
+  [minicsv/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 408× faster (ostrich=4896ms, z3=12ms)
+  [minicsv/mixed/sat]  symcc-assertions-2.smt2
+    noodler is 41× faster (ostrich=4896ms, noodler=118ms)
+  [minicsv/mixed/sat]  symcc-assertions-20.smt2
+    cvc5 is 81× faster (cvc5=79ms, ostrich=6380ms)
+  [minicsv/mixed/sat]  symcc-assertions-20.smt2
+    z3 is 213× faster (ostrich=6380ms, z3=30ms)
+  [minicsv/mixed/sat]  symcc-assertions-20.smt2
+    noodler is 51× faster (ostrich=6380ms, noodler=125ms)
+  [minicsv/mixed/sat]  symcc-assertions-21.smt2
+    cvc5 is 85× faster (cvc5=86ms, ostrich=7337ms)
+  [minicsv/mixed/sat]  symcc-assertions-21.smt2
+    z3 is 193× faster (ostrich=7337ms, z3=38ms)
+  [minicsv/mixed/sat]  symcc-assertions-21.smt2
+    noodler is 53× faster (ostrich=7337ms, noodler=138ms)
+  [minicsv/mixed/sat]  symcc-assertions-22.smt2
+    cvc5 is 97× faster (cvc5=95ms, ostrich=9230ms)
+  [minicsv/mixed/sat]  symcc-assertions-22.smt2
+    z3 is 220× faster (ostrich=9230ms, z3=42ms)
+  [minicsv/mixed/sat]  symcc-assertions-22.smt2
+    noodler is 68× faster (ostrich=9230ms, noodler=135ms)
+  [minicsv/mixed/sat]  symcc-assertions-23.smt2
+    cvc5 is 79× faster (cvc5=85ms, ostrich=6689ms)
+  [minicsv/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 65× faster (ostrich=6689ms, z3=103ms)
+  [minicsv/mixed/sat]  symcc-assertions-23.smt2
+    noodler is 48× faster (ostrich=6689ms, noodler=139ms)
+  [minicsv/mixed/sat]  symcc-assertions-24.smt2
+    cvc5 is 39× faster (cvc5=67ms, ostrich=2591ms)
+  [minicsv/mixed/sat]  symcc-assertions-24.smt2
+    z3 is 324× faster (ostrich=2591ms, z3=8ms)
+  [minicsv/mixed/sat]  symcc-assertions-24.smt2
+    noodler is 28× faster (ostrich=2591ms, noodler=92ms)
+  [minicsv/mixed/sat]  symcc-assertions-24.smt2
+    z3 is 12× faster (z3=8ms, noodler=92ms)
+  [minicsv/mixed/sat]  symcc-assertions-25.smt2
+    cvc5 is 43× faster (cvc5=66ms, ostrich=2808ms)
+  [minicsv/mixed/sat]  symcc-assertions-25.smt2
+    z3 is 351× faster (ostrich=2808ms, z3=8ms)
+  [minicsv/mixed/sat]  symcc-assertions-25.smt2
+    noodler is 28× faster (ostrich=2808ms, noodler=101ms)
+  [minicsv/mixed/sat]  symcc-assertions-25.smt2
+    z3 is 13× faster (z3=8ms, noodler=101ms)
+  [minicsv/mixed/sat]  symcc-assertions-26.smt2
+    cvc5 is 96× faster (cvc5=101ms, ostrich=9653ms)
+  [minicsv/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 205× faster (ostrich=9653ms, z3=47ms)
+  [minicsv/mixed/sat]  symcc-assertions-26.smt2
+    noodler is 20× faster (ostrich=9653ms, noodler=473ms)
+  [minicsv/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 10× faster (z3=47ms, noodler=473ms)
+  [minicsv/mixed/sat]  symcc-assertions-27.smt2
+    cvc5 is 95× faster (cvc5=101ms, ostrich=9576ms)
+  [minicsv/mixed/sat]  symcc-assertions-27.smt2
+    z3 is 228× faster (ostrich=9576ms, z3=42ms)
+  [minicsv/mixed/sat]  symcc-assertions-27.smt2
+    z3 is 24× faster (z3=42ms, noodler=997ms)
+  [minicsv/mixed/sat]  symcc-assertions-28.smt2
+    cvc5 is 94× faster (cvc5=101ms, ostrich=9468ms)
+  [minicsv/mixed/sat]  symcc-assertions-28.smt2
+    cvc5 is 10× faster (cvc5=101ms, noodler=1030ms)
+  [minicsv/mixed/sat]  symcc-assertions-28.smt2
+    z3 is 220× faster (ostrich=9468ms, z3=43ms)
+  [minicsv/mixed/sat]  symcc-assertions-28.smt2
+    z3 is 24× faster (z3=43ms, noodler=1030ms)
+  [minicsv/mixed/sat]  symcc-assertions-29.smt2
+    cvc5 is 108× faster (cvc5=101ms, ostrich=10882ms)
+  [minicsv/mixed/sat]  symcc-assertions-29.smt2
+    z3 is 253× faster (ostrich=10882ms, z3=43ms)
+  [minicsv/mixed/sat]  symcc-assertions-29.smt2
+    noodler is 11× faster (ostrich=10882ms, noodler=1000ms)
+  [minicsv/mixed/sat]  symcc-assertions-29.smt2
+    z3 is 23× faster (z3=43ms, noodler=1000ms)
+  [minicsv/mixed/sat]  symcc-assertions-3.smt2
+    cvc5 is 46× faster (cvc5=68ms, ostrich=3150ms)
+  [minicsv/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 286× faster (ostrich=3150ms, z3=11ms)
+  [minicsv/mixed/sat]  symcc-assertions-3.smt2
+    noodler is 26× faster (ostrich=3150ms, noodler=123ms)
+  [minicsv/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 11× faster (z3=11ms, noodler=123ms)
+  [minicsv/mixed/sat]  symcc-assertions-30.smt2
+    cvc5 is 69× faster (cvc5=102ms, ostrich=7073ms)
+  [minicsv/mixed/sat]  symcc-assertions-30.smt2
+    z3 is 168× faster (ostrich=7073ms, z3=42ms)
+  [minicsv/mixed/sat]  symcc-assertions-30.smt2
+    z3 is 24× faster (z3=42ms, noodler=1004ms)
+  [minicsv/mixed/sat]  symcc-assertions-31.smt2
+    cvc5 is 61× faster (cvc5=106ms, ostrich=6506ms)
+  [minicsv/mixed/sat]  symcc-assertions-31.smt2
+    z3 is 93× faster (ostrich=6506ms, z3=70ms)
+  [minicsv/mixed/sat]  symcc-assertions-31.smt2
+    noodler is 13× faster (ostrich=6506ms, noodler=504ms)
+  [minicsv/mixed/sat]  symcc-assertions-32.smt2
+    cvc5 is 190× faster (cvc5=109ms, ostrich=20666ms)
+  [minicsv/mixed/sat]  symcc-assertions-32.smt2
+    z3 is 318× faster (ostrich=20666ms, z3=65ms)
+  [minicsv/mixed/sat]  symcc-assertions-32.smt2
+    noodler is 41× faster (ostrich=20666ms, noodler=507ms)
+  [minicsv/mixed/sat]  symcc-assertions-33.smt2
+    cvc5 is 136× faster (cvc5=125ms, ostrich=17047ms)
+  [minicsv/mixed/sat]  symcc-assertions-33.smt2
+    z3 is 334× faster (ostrich=17047ms, z3=51ms)
+  [minicsv/mixed/sat]  symcc-assertions-33.smt2
+    noodler is 34× faster (ostrich=17047ms, noodler=505ms)
+  [minicsv/mixed/sat]  symcc-assertions-34.smt2
+    cvc5 is 128× faster (cvc5=119ms, ostrich=15264ms)
+  [minicsv/mixed/sat]  symcc-assertions-34.smt2
+    z3 is 218× faster (ostrich=15264ms, z3=70ms)
+  [minicsv/mixed/sat]  symcc-assertions-34.smt2
+    noodler is 29× faster (ostrich=15264ms, noodler=535ms)
+  [minicsv/mixed/sat]  symcc-assertions-35.smt2
+    cvc5 is 137× faster (cvc5=122ms, ostrich=16755ms)
+  [minicsv/mixed/sat]  symcc-assertions-35.smt2
+    z3 is 258× faster (ostrich=16755ms, z3=65ms)
+  [minicsv/mixed/sat]  symcc-assertions-35.smt2
+    noodler is 34× faster (ostrich=16755ms, noodler=496ms)
+  [minicsv/mixed/sat]  symcc-assertions-36.smt2
+    cvc5 is 70× faster (cvc5=132ms, ostrich=9212ms)
+  [minicsv/mixed/sat]  symcc-assertions-36.smt2
+    z3 is 115× faster (ostrich=9212ms, z3=80ms)
+  [minicsv/mixed/sat]  symcc-assertions-36.smt2
+    noodler is 17× faster (ostrich=9212ms, noodler=539ms)
+  [minicsv/mixed/sat]  symcc-assertions-39.smt2
+    cvc5 is 111× faster (cvc5=182ms, ostrich=20248ms)
+  [minicsv/mixed/sat]  symcc-assertions-39.smt2
+    z3 is 270× faster (ostrich=20248ms, z3=75ms)
+  [minicsv/mixed/sat]  symcc-assertions-39.smt2
+    noodler is 36× faster (ostrich=20248ms, noodler=570ms)
+  [minicsv/mixed/sat]  symcc-assertions-4.smt2
+    cvc5 is 60× faster (cvc5=75ms, ostrich=4487ms)
+  [minicsv/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 345× faster (ostrich=4487ms, z3=13ms)
+  [minicsv/mixed/sat]  symcc-assertions-4.smt2
+    noodler is 36× faster (ostrich=4487ms, noodler=123ms)
+  [minicsv/mixed/sat]  symcc-assertions-41.smt2
+    cvc5 is 96× faster (cvc5=137ms, ostrich=13162ms)
+  [minicsv/mixed/sat]  symcc-assertions-41.smt2
+    z3 is 150× faster (ostrich=13162ms, z3=88ms)
+  [minicsv/mixed/sat]  symcc-assertions-41.smt2
+    noodler is 22× faster (ostrich=13162ms, noodler=593ms)
+  [minicsv/mixed/sat]  symcc-assertions-42.smt2
+    cvc5 is 114× faster (cvc5=132ms, ostrich=14982ms)
+  [minicsv/mixed/sat]  symcc-assertions-42.smt2
+    z3 is 230× faster (ostrich=14982ms, z3=65ms)
+  [minicsv/mixed/sat]  symcc-assertions-42.smt2
+    noodler is 23× faster (ostrich=14982ms, noodler=655ms)
+  [minicsv/mixed/sat]  symcc-assertions-42.smt2
+    z3 is 10× faster (z3=65ms, noodler=655ms)
+  [minicsv/mixed/sat]  symcc-assertions-43.smt2
+    cvc5 is 208× faster (cvc5=137ms, ostrich=28529ms)
+  [minicsv/mixed/sat]  symcc-assertions-43.smt2
+    z3 is 288× faster (ostrich=28529ms, z3=99ms)
+  [minicsv/mixed/sat]  symcc-assertions-43.smt2
+    noodler is 46× faster (ostrich=28529ms, noodler=614ms)
+  [minicsv/mixed/sat]  symcc-assertions-44.smt2
+    cvc5 is 58× faster (cvc5=67ms, ostrich=3854ms)
+  [minicsv/mixed/sat]  symcc-assertions-44.smt2
+    z3 is 482× faster (ostrich=3854ms, z3=8ms)
+  [minicsv/mixed/sat]  symcc-assertions-44.smt2
+    noodler is 43× faster (ostrich=3854ms, noodler=89ms)
+  [minicsv/mixed/sat]  symcc-assertions-44.smt2
+    z3 is 11× faster (z3=8ms, noodler=89ms)
+  [minicsv/mixed/sat]  symcc-assertions-45.smt2
+    cvc5 is 44× faster (cvc5=68ms, ostrich=2961ms)
+  [minicsv/mixed/sat]  symcc-assertions-45.smt2
+    z3 is 370× faster (ostrich=2961ms, z3=8ms)
+  [minicsv/mixed/sat]  symcc-assertions-45.smt2
+    noodler is 32× faster (ostrich=2961ms, noodler=94ms)
+  [minicsv/mixed/sat]  symcc-assertions-45.smt2
+    z3 is 12× faster (z3=8ms, noodler=94ms)
+  [minicsv/mixed/sat]  symcc-assertions-46.smt2
+    cvc5 is 53× faster (cvc5=162ms, ostrich=8612ms)
+  [minicsv/mixed/sat]  symcc-assertions-46.smt2
+    cvc5 is 82× faster (cvc5=162ms, noodler=13210ms)
+  [minicsv/mixed/sat]  symcc-assertions-46.smt2
+    z3 is 109× faster (ostrich=8612ms, z3=79ms)
+  [minicsv/mixed/sat]  symcc-assertions-46.smt2
+    z3 is 167× faster (z3=79ms, noodler=13210ms)
+  [minicsv/mixed/sat]  symcc-assertions-47.smt2
+    cvc5 is 61× faster (cvc5=171ms, ostrich=10404ms)
+  [minicsv/mixed/sat]  symcc-assertions-47.smt2
+    z3 is 88× faster (ostrich=10404ms, z3=118ms)
+  [minicsv/mixed/sat]  symcc-assertions-48.smt2
+    cvc5 is 85× faster (cvc5=158ms, ostrich=13454ms)
+  [minicsv/mixed/sat]  symcc-assertions-48.smt2
+    z3 is 137× faster (ostrich=13454ms, z3=98ms)
+  [minicsv/mixed/sat]  symcc-assertions-49.smt2
+    cvc5 is 77× faster (cvc5=159ms, ostrich=12309ms)
+  [minicsv/mixed/sat]  symcc-assertions-49.smt2
+    z3 is 94× faster (ostrich=12309ms, z3=131ms)
+  [minicsv/mixed/sat]  symcc-assertions-5.smt2
+    cvc5 is 63× faster (cvc5=80ms, ostrich=5058ms)
+  [minicsv/mixed/sat]  symcc-assertions-5.smt2
+    z3 is 422× faster (ostrich=5058ms, z3=12ms)
+  [minicsv/mixed/sat]  symcc-assertions-5.smt2
+    noodler is 25× faster (ostrich=5058ms, noodler=199ms)
+  [minicsv/mixed/sat]  symcc-assertions-5.smt2
+    z3 is 17× faster (z3=12ms, noodler=199ms)
+  [minicsv/mixed/sat]  symcc-assertions-6.smt2
+    cvc5 is 293× faster (cvc5=76ms, ostrich=22240ms)
+  [minicsv/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 1171× faster (ostrich=22240ms, z3=19ms)
+  [minicsv/mixed/sat]  symcc-assertions-6.smt2
+    noodler is 117× faster (ostrich=22240ms, noodler=190ms)
+  [minicsv/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 10× faster (z3=19ms, noodler=190ms)
+  [minicsv/mixed/sat]  symcc-assertions-7.smt2
+    cvc5 is 360× faster (cvc5=73ms, ostrich=26280ms)
+  [minicsv/mixed/sat]  symcc-assertions-7.smt2
+    z3 is 1546× faster (ostrich=26280ms, z3=17ms)
+  [minicsv/mixed/sat]  symcc-assertions-7.smt2
+    noodler is 111× faster (ostrich=26280ms, noodler=237ms)
+  [minicsv/mixed/sat]  symcc-assertions-7.smt2
+    z3 is 14× faster (z3=17ms, noodler=237ms)
+  [minicsv/mixed/sat]  symcc-assertions-8.smt2
+    cvc5 is 333× faster (cvc5=73ms, ostrich=24280ms)
+  [minicsv/mixed/sat]  symcc-assertions-8.smt2
+    z3 is 1428× faster (ostrich=24280ms, z3=17ms)
+  [minicsv/mixed/sat]  symcc-assertions-8.smt2
+    noodler is 97× faster (ostrich=24280ms, noodler=251ms)
+  [minicsv/mixed/sat]  symcc-assertions-8.smt2
+    z3 is 15× faster (z3=17ms, noodler=251ms)
+  [minicsv/mixed/sat]  symcc-assertions-9.smt2
+    cvc5 is 321× faster (cvc5=75ms, ostrich=24052ms)
+  [minicsv/mixed/sat]  symcc-assertions-9.smt2
+    z3 is 1336× faster (ostrich=24052ms, z3=18ms)
+  [minicsv/mixed/sat]  symcc-assertions-9.smt2
+    noodler is 103× faster (ostrich=24052ms, noodler=234ms)
+  [minicsv/mixed/sat]  symcc-assertions-9.smt2
+    z3 is 13× faster (z3=18ms, noodler=234ms)
+  [minicsv/mixed/unsat]  symcc-unsat-0.smt2
+    cvc5 is 74× faster (cvc5=69ms, ostrich=5073ms)
+  [minicsv/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 507× faster (ostrich=5073ms, z3=10ms)
+  [minicsv/mixed/unsat]  symcc-unsat-0.smt2
+    noodler is 18× faster (ostrich=5073ms, noodler=279ms)
+  [minicsv/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 28× faster (z3=10ms, noodler=279ms)
+  [minicsv/mixed/unsat]  symcc-unsat-1.smt2
+    cvc5 is 60× faster (cvc5=66ms, ostrich=3946ms)
+  [minicsv/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 395× faster (ostrich=3946ms, z3=10ms)
+  [minicsv/mixed/unsat]  symcc-unsat-1.smt2
+    noodler is 15× faster (ostrich=3946ms, noodler=264ms)
+  [minicsv/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 26× faster (z3=10ms, noodler=264ms)
+  [minicsv/mixed/unsat]  symcc-unsat-10.smt2
+    cvc5 is 81× faster (cvc5=70ms, ostrich=5704ms)
+  [minicsv/mixed/unsat]  symcc-unsat-10.smt2
+    z3 is 150× faster (ostrich=5704ms, z3=38ms)
+  [minicsv/mixed/unsat]  symcc-unsat-10.smt2
+    noodler is 24× faster (ostrich=5704ms, noodler=233ms)
+  [minicsv/mixed/unsat]  symcc-unsat-11.smt2
+    cvc5 is 84× faster (cvc5=74ms, ostrich=6231ms)
+  [minicsv/mixed/unsat]  symcc-unsat-11.smt2
+    z3 is 160× faster (ostrich=6231ms, z3=39ms)
+  [minicsv/mixed/unsat]  symcc-unsat-11.smt2
+    noodler is 20× faster (ostrich=6231ms, noodler=314ms)
+  [minicsv/mixed/unsat]  symcc-unsat-12.smt2
+    cvc5 is 69× faster (cvc5=81ms, ostrich=5558ms)
+  [minicsv/mixed/unsat]  symcc-unsat-12.smt2
+    z3 is 113× faster (ostrich=5558ms, z3=49ms)
+  [minicsv/mixed/unsat]  symcc-unsat-12.smt2
+    noodler is 27× faster (ostrich=5558ms, noodler=203ms)
+  [minicsv/mixed/unsat]  symcc-unsat-13.smt2
+    cvc5 is 74× faster (cvc5=77ms, ostrich=5675ms)
+  [minicsv/mixed/unsat]  symcc-unsat-13.smt2
+    z3 is 135× faster (ostrich=5675ms, z3=42ms)
+  [minicsv/mixed/unsat]  symcc-unsat-13.smt2
+    noodler is 29× faster (ostrich=5675ms, noodler=193ms)
+  [minicsv/mixed/unsat]  symcc-unsat-14.smt2
+    cvc5 is 88× faster (cvc5=75ms, ostrich=6573ms)
+  [minicsv/mixed/unsat]  symcc-unsat-14.smt2
+    z3 is 160× faster (ostrich=6573ms, z3=41ms)
+  [minicsv/mixed/unsat]  symcc-unsat-14.smt2
+    noodler is 33× faster (ostrich=6573ms, noodler=201ms)
+  [minicsv/mixed/unsat]  symcc-unsat-15.smt2
+    cvc5 is 78× faster (cvc5=77ms, ostrich=5988ms)
+  [minicsv/mixed/unsat]  symcc-unsat-15.smt2
+    z3 is 71× faster (ostrich=5988ms, z3=84ms)
+  [minicsv/mixed/unsat]  symcc-unsat-15.smt2
+    noodler is 28× faster (ostrich=5988ms, noodler=212ms)
+  [minicsv/mixed/unsat]  symcc-unsat-16.smt2
+    cvc5 is 77× faster (cvc5=80ms, ostrich=6182ms)
+  [minicsv/mixed/unsat]  symcc-unsat-16.smt2
+    z3 is 16× faster (ostrich=6182ms, z3=376ms)
+  [minicsv/mixed/unsat]  symcc-unsat-16.smt2
+    noodler is 23× faster (ostrich=6182ms, noodler=273ms)
+  [minicsv/mixed/unsat]  symcc-unsat-17.smt2
+    cvc5 is 98× faster (cvc5=78ms, ostrich=7637ms)
+  [minicsv/mixed/unsat]  symcc-unsat-17.smt2
+    z3 is 53× faster (ostrich=7637ms, z3=143ms)
+  [minicsv/mixed/unsat]  symcc-unsat-17.smt2
+    noodler is 43× faster (ostrich=7637ms, noodler=178ms)
+  [minicsv/mixed/unsat]  symcc-unsat-18.smt2
+    cvc5 is 92× faster (cvc5=79ms, ostrich=7299ms)
+  [minicsv/mixed/unsat]  symcc-unsat-18.smt2
+    z3 is 56× faster (ostrich=7299ms, z3=130ms)
+  [minicsv/mixed/unsat]  symcc-unsat-18.smt2
+    noodler is 39× faster (ostrich=7299ms, noodler=187ms)
+  [minicsv/mixed/unsat]  symcc-unsat-19.smt2
+    cvc5 is 95× faster (cvc5=85ms, ostrich=8101ms)
+  [minicsv/mixed/unsat]  symcc-unsat-19.smt2
+    z3 is 142× faster (ostrich=8101ms, z3=57ms)
+  [minicsv/mixed/unsat]  symcc-unsat-19.smt2
+    noodler is 39× faster (ostrich=8101ms, noodler=207ms)
+  [minicsv/mixed/unsat]  symcc-unsat-2.smt2
+    cvc5 is 51× faster (cvc5=69ms, ostrich=3509ms)
+  [minicsv/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 292× faster (ostrich=3509ms, z3=12ms)
+  [minicsv/mixed/unsat]  symcc-unsat-2.smt2
+    noodler is 22× faster (ostrich=3509ms, noodler=161ms)
+  [minicsv/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 13× faster (z3=12ms, noodler=161ms)
+  [minicsv/mixed/unsat]  symcc-unsat-20.smt2
+    cvc5 is 78× faster (cvc5=82ms, ostrich=6414ms)
+  [minicsv/mixed/unsat]  symcc-unsat-20.smt2
+    z3 is 14× faster (ostrich=6414ms, z3=454ms)
+  [minicsv/mixed/unsat]  symcc-unsat-20.smt2
+    noodler is 31× faster (ostrich=6414ms, noodler=204ms)
+  [minicsv/mixed/unsat]  symcc-unsat-21.smt2
+    cvc5 is 72× faster (cvc5=98ms, ostrich=7069ms)
+  [minicsv/mixed/unsat]  symcc-unsat-21.smt2
+    z3 is 14× faster (ostrich=7069ms, z3=493ms)
+  [minicsv/mixed/unsat]  symcc-unsat-21.smt2
+    noodler is 17× faster (ostrich=7069ms, noodler=425ms)
+  [minicsv/mixed/unsat]  symcc-unsat-22.smt2
+    cvc5 is 110× faster (cvc5=87ms, ostrich=9594ms)
+  [minicsv/mixed/unsat]  symcc-unsat-22.smt2
+    z3 is 39× faster (ostrich=9594ms, z3=243ms)
+  [minicsv/mixed/unsat]  symcc-unsat-22.smt2
+    noodler is 47× faster (ostrich=9594ms, noodler=205ms)
+  [minicsv/mixed/unsat]  symcc-unsat-23.smt2
+    cvc5 is 91× faster (cvc5=92ms, ostrich=8414ms)
+  [minicsv/mixed/unsat]  symcc-unsat-23.smt2
+    z3 is 200× faster (ostrich=8414ms, z3=42ms)
+  [minicsv/mixed/unsat]  symcc-unsat-23.smt2
+    noodler is 38× faster (ostrich=8414ms, noodler=220ms)
+  [minicsv/mixed/unsat]  symcc-unsat-24.smt2
+    cvc5 is 88× faster (cvc5=93ms, ostrich=8224ms)
+  [minicsv/mixed/unsat]  symcc-unsat-24.smt2
+    z3 is 196× faster (ostrich=8224ms, z3=42ms)
+  [minicsv/mixed/unsat]  symcc-unsat-24.smt2
+    noodler is 42× faster (ostrich=8224ms, noodler=195ms)
+  [minicsv/mixed/unsat]  symcc-unsat-25.smt2
+    cvc5 is 65× faster (cvc5=91ms, ostrich=5950ms)
+  [minicsv/mixed/unsat]  symcc-unsat-25.smt2
+    z3 is 145× faster (ostrich=5950ms, z3=41ms)
+  [minicsv/mixed/unsat]  symcc-unsat-25.smt2
+    noodler is 31× faster (ostrich=5950ms, noodler=195ms)
+  [minicsv/mixed/unsat]  symcc-unsat-26.smt2
+    cvc5 is 74× faster (cvc5=95ms, ostrich=7062ms)
+  [minicsv/mixed/unsat]  symcc-unsat-26.smt2
+    cvc5 is 17× faster (cvc5=95ms, noodler=1605ms)
+  [minicsv/mixed/unsat]  symcc-unsat-26.smt2
+    z3 is 101× faster (ostrich=7062ms, z3=70ms)
+  [minicsv/mixed/unsat]  symcc-unsat-26.smt2
+    z3 is 23× faster (z3=70ms, noodler=1605ms)
+  [minicsv/mixed/unsat]  symcc-unsat-27.smt2
+    cvc5 is 72× faster (cvc5=107ms, ostrich=7679ms)
+  [minicsv/mixed/unsat]  symcc-unsat-27.smt2
+    z3 is 88× faster (ostrich=7679ms, z3=87ms)
+  [minicsv/mixed/unsat]  symcc-unsat-27.smt2
+    noodler is 14× faster (ostrich=7679ms, noodler=563ms)
+  [minicsv/mixed/unsat]  symcc-unsat-28.smt2
+    cvc5 is 53× faster (cvc5=105ms, ostrich=5552ms)
+  [minicsv/mixed/unsat]  symcc-unsat-28.smt2
+    z3 is 79× faster (ostrich=5552ms, z3=70ms)
+  [minicsv/mixed/unsat]  symcc-unsat-29.smt2
+    cvc5 is 59× faster (cvc5=107ms, ostrich=6298ms)
+  [minicsv/mixed/unsat]  symcc-unsat-29.smt2
+    z3 is 94× faster (ostrich=6298ms, z3=67ms)
+  [minicsv/mixed/unsat]  symcc-unsat-3.smt2
+    cvc5 is 58× faster (cvc5=73ms, ostrich=4245ms)
+  [minicsv/mixed/unsat]  symcc-unsat-3.smt2
+    z3 is 386× faster (ostrich=4245ms, z3=11ms)
+  [minicsv/mixed/unsat]  symcc-unsat-3.smt2
+    noodler is 23× faster (ostrich=4245ms, noodler=181ms)
+  [minicsv/mixed/unsat]  symcc-unsat-3.smt2
+    z3 is 16× faster (z3=11ms, noodler=181ms)
+  [minicsv/mixed/unsat]  symcc-unsat-30.smt2
+    cvc5 is 85× faster (cvc5=106ms, ostrich=9027ms)
+  [minicsv/mixed/unsat]  symcc-unsat-30.smt2
+    z3 is 146× faster (ostrich=9027ms, z3=62ms)
+  [minicsv/mixed/unsat]  symcc-unsat-30.smt2
+    noodler is 13× faster (ostrich=9027ms, noodler=681ms)
+  [minicsv/mixed/unsat]  symcc-unsat-30.smt2
+    z3 is 11× faster (z3=62ms, noodler=681ms)
+  [minicsv/mixed/unsat]  symcc-unsat-31.smt2
+    cvc5 is 73× faster (cvc5=109ms, ostrich=7937ms)
+  [minicsv/mixed/unsat]  symcc-unsat-31.smt2
+    cvc5 is 12× faster (cvc5=109ms, noodler=1344ms)
+  [minicsv/mixed/unsat]  symcc-unsat-31.smt2
+    z3 is 75× faster (ostrich=7937ms, z3=106ms)
+  [minicsv/mixed/unsat]  symcc-unsat-31.smt2
+    z3 is 13× faster (z3=106ms, noodler=1344ms)
+  [minicsv/mixed/unsat]  symcc-unsat-32.smt2
+    cvc5 is 67× faster (cvc5=110ms, ostrich=7390ms)
+  [minicsv/mixed/unsat]  symcc-unsat-32.smt2
+    z3 is 103× faster (ostrich=7390ms, z3=72ms)
+  [minicsv/mixed/unsat]  symcc-unsat-32.smt2
+    noodler is 12× faster (ostrich=7390ms, noodler=626ms)
+  [minicsv/mixed/unsat]  symcc-unsat-33.smt2
+    cvc5 is 87× faster (cvc5=110ms, ostrich=9523ms)
+  [minicsv/mixed/unsat]  symcc-unsat-33.smt2
+    z3 is 79× faster (ostrich=9523ms, z3=120ms)
+  [minicsv/mixed/unsat]  symcc-unsat-33.smt2
+    noodler is 16× faster (ostrich=9523ms, noodler=608ms)
+  [minicsv/mixed/unsat]  symcc-unsat-34.smt2
+    cvc5 is 86× faster (cvc5=116ms, ostrich=9954ms)
+  [minicsv/mixed/unsat]  symcc-unsat-34.smt2
+    z3 is 95× faster (ostrich=9954ms, z3=105ms)
+  [minicsv/mixed/unsat]  symcc-unsat-34.smt2
+    noodler is 16× faster (ostrich=9954ms, noodler=642ms)
+  [minicsv/mixed/unsat]  symcc-unsat-35.smt2
+    cvc5 is 85× faster (cvc5=110ms, ostrich=9300ms)
+  [minicsv/mixed/unsat]  symcc-unsat-35.smt2
+    z3 is 129× faster (ostrich=9300ms, z3=72ms)
+  [minicsv/mixed/unsat]  symcc-unsat-35.smt2
+    noodler is 14× faster (ostrich=9300ms, noodler=678ms)
+  [minicsv/mixed/unsat]  symcc-unsat-36.smt2
+    cvc5 is 471× faster (cvc5=115ms, ostrich=54115ms)
+  [minicsv/mixed/unsat]  symcc-unsat-36.smt2
+    cvc5 is 17× faster (cvc5=115ms, noodler=1982ms)
+  [minicsv/mixed/unsat]  symcc-unsat-36.smt2
+    z3 is 536× faster (ostrich=54115ms, z3=101ms)
+  [minicsv/mixed/unsat]  symcc-unsat-36.smt2
+    noodler is 27× faster (ostrich=54115ms, noodler=1982ms)
+  [minicsv/mixed/unsat]  symcc-unsat-36.smt2
+    z3 is 20× faster (z3=101ms, noodler=1982ms)
+  [minicsv/mixed/unsat]  symcc-unsat-37.smt2
+    cvc5 is 79× faster (cvc5=121ms, ostrich=9617ms)
+  [minicsv/mixed/unsat]  symcc-unsat-37.smt2
+    z3 is 81× faster (ostrich=9617ms, z3=119ms)
+  [minicsv/mixed/unsat]  symcc-unsat-37.smt2
+    noodler is 14× faster (ostrich=9617ms, noodler=704ms)
+  [minicsv/mixed/unsat]  symcc-unsat-38.smt2
+    cvc5 is 78× faster (cvc5=121ms, ostrich=9435ms)
+  [minicsv/mixed/unsat]  symcc-unsat-38.smt2
+    z3 is 83× faster (ostrich=9435ms, z3=113ms)
+  [minicsv/mixed/unsat]  symcc-unsat-38.smt2
+    noodler is 14× faster (ostrich=9435ms, noodler=684ms)
+  [minicsv/mixed/unsat]  symcc-unsat-39.smt2
+    cvc5 is 103× faster (cvc5=122ms, ostrich=12562ms)
+  [minicsv/mixed/unsat]  symcc-unsat-39.smt2
+    z3 is 100× faster (ostrich=12562ms, z3=125ms)
+  [minicsv/mixed/unsat]  symcc-unsat-39.smt2
+    noodler is 20× faster (ostrich=12562ms, noodler=643ms)
+  [minicsv/mixed/unsat]  symcc-unsat-4.smt2
+    cvc5 is 65× faster (cvc5=75ms, ostrich=4910ms)
+  [minicsv/mixed/unsat]  symcc-unsat-4.smt2
+    z3 is 409× faster (ostrich=4910ms, z3=12ms)
+  [minicsv/mixed/unsat]  symcc-unsat-4.smt2
+    noodler is 29× faster (ostrich=4910ms, noodler=172ms)
+  [minicsv/mixed/unsat]  symcc-unsat-4.smt2
+    z3 is 14× faster (z3=12ms, noodler=172ms)
+  [minicsv/mixed/unsat]  symcc-unsat-40.smt2
+    cvc5 is 77× faster (cvc5=123ms, ostrich=9439ms)
+  [minicsv/mixed/unsat]  symcc-unsat-40.smt2
+    z3 is 91× faster (ostrich=9439ms, z3=104ms)
+  [minicsv/mixed/unsat]  symcc-unsat-40.smt2
+    noodler is 14× faster (ostrich=9439ms, noodler=670ms)
+  [minicsv/mixed/unsat]  symcc-unsat-41.smt2
+    cvc5 is 68× faster (cvc5=129ms, ostrich=8827ms)
+  [minicsv/mixed/unsat]  symcc-unsat-41.smt2
+    cvc5 is 13× faster (cvc5=129ms, noodler=1705ms)
+  [minicsv/mixed/unsat]  symcc-unsat-41.smt2
+    z3 is 38× faster (ostrich=8827ms, z3=231ms)
+  [minicsv/mixed/unsat]  symcc-unsat-42.smt2
+    cvc5 is 196× faster (cvc5=135ms, ostrich=26471ms)
+  [minicsv/mixed/unsat]  symcc-unsat-42.smt2
+    z3 is 288× faster (ostrich=26471ms, z3=92ms)
+  [minicsv/mixed/unsat]  symcc-unsat-42.smt2
+    noodler is 37× faster (ostrich=26471ms, noodler=715ms)
+  [minicsv/mixed/unsat]  symcc-unsat-43.smt2
+    cvc5 is 129× faster (cvc5=132ms, ostrich=17026ms)
+  [minicsv/mixed/unsat]  symcc-unsat-43.smt2
+    z3 is 216× faster (ostrich=17026ms, z3=79ms)
+  [minicsv/mixed/unsat]  symcc-unsat-43.smt2
+    noodler is 23× faster (ostrich=17026ms, noodler=742ms)
+  [minicsv/mixed/unsat]  symcc-unsat-44.smt2
+    cvc5 is 114× faster (cvc5=131ms, ostrich=14956ms)
+  [minicsv/mixed/unsat]  symcc-unsat-44.smt2
+    z3 is 192× faster (ostrich=14956ms, z3=78ms)
+  [minicsv/mixed/unsat]  symcc-unsat-44.smt2
+    noodler is 20× faster (ostrich=14956ms, noodler=756ms)
+  [minicsv/mixed/unsat]  symcc-unsat-45.smt2
+    cvc5 is 85× faster (cvc5=134ms, ostrich=11364ms)
+  [minicsv/mixed/unsat]  symcc-unsat-45.smt2
+    z3 is 150× faster (ostrich=11364ms, z3=76ms)
+  [minicsv/mixed/unsat]  symcc-unsat-45.smt2
+    noodler is 17× faster (ostrich=11364ms, noodler=655ms)
+  [minicsv/mixed/unsat]  symcc-unsat-46.smt2
+    cvc5 is 70× faster (cvc5=137ms, ostrich=9539ms)
+  [minicsv/mixed/unsat]  symcc-unsat-46.smt2
+    cvc5 is 2158× faster (cvc5=137ms, noodler=295642ms)
+  [minicsv/mixed/unsat]  symcc-unsat-46.smt2
+    z3 is 90× faster (ostrich=9539ms, z3=106ms)
+  [minicsv/mixed/unsat]  symcc-unsat-46.smt2
+    ostrich is 31× faster (ostrich=9539ms, noodler=295642ms)
+  [minicsv/mixed/unsat]  symcc-unsat-46.smt2
+    z3 is 2789× faster (z3=106ms, noodler=295642ms)
+  [minicsv/mixed/unsat]  symcc-unsat-47.smt2
+    cvc5 is 47× faster (cvc5=162ms, ostrich=7540ms)
+  [minicsv/mixed/unsat]  symcc-unsat-47.smt2
+    cvc5 is 101× faster (cvc5=162ms, noodler=16314ms)
+  [minicsv/mixed/unsat]  symcc-unsat-47.smt2
+    z3 is 53× faster (ostrich=7540ms, z3=141ms)
+  [minicsv/mixed/unsat]  symcc-unsat-47.smt2
+    z3 is 116× faster (z3=141ms, noodler=16314ms)
+  [minicsv/mixed/unsat]  symcc-unsat-48.smt2
+    cvc5 is 41× faster (cvc5=183ms, ostrich=7496ms)
+  [minicsv/mixed/unsat]  symcc-unsat-48.smt2
+    cvc5 is 89× faster (cvc5=183ms, noodler=16368ms)
+  [minicsv/mixed/unsat]  symcc-unsat-48.smt2
+    z3 is 59× faster (ostrich=7496ms, z3=127ms)
+  [minicsv/mixed/unsat]  symcc-unsat-48.smt2
+    z3 is 129× faster (z3=127ms, noodler=16368ms)
+  [minicsv/mixed/unsat]  symcc-unsat-49.smt2
+    cvc5 is 78× faster (cvc5=163ms, ostrich=12761ms)
+  [minicsv/mixed/unsat]  symcc-unsat-49.smt2
+    cvc5 is 98× faster (cvc5=163ms, noodler=15948ms)
+  [minicsv/mixed/unsat]  symcc-unsat-49.smt2
+    z3 is 100× faster (ostrich=12761ms, z3=127ms)
+  [minicsv/mixed/unsat]  symcc-unsat-49.smt2
+    z3 is 126× faster (z3=127ms, noodler=15948ms)
+  [minicsv/mixed/unsat]  symcc-unsat-5.smt2
+    cvc5 is 49× faster (cvc5=70ms, ostrich=3434ms)
+  [minicsv/mixed/unsat]  symcc-unsat-5.smt2
+    z3 is 286× faster (ostrich=3434ms, z3=12ms)
+  [minicsv/mixed/unsat]  symcc-unsat-5.smt2
+    noodler is 20× faster (ostrich=3434ms, noodler=173ms)
+  [minicsv/mixed/unsat]  symcc-unsat-5.smt2
+    z3 is 14× faster (z3=12ms, noodler=173ms)
+  [minicsv/mixed/unsat]  symcc-unsat-6.smt2
+    cvc5 is 47× faster (cvc5=72ms, ostrich=3370ms)
+  [minicsv/mixed/unsat]  symcc-unsat-6.smt2
+    z3 is 153× faster (ostrich=3370ms, z3=22ms)
+  [minicsv/mixed/unsat]  symcc-unsat-6.smt2
+    noodler is 13× faster (ostrich=3370ms, noodler=269ms)
+  [minicsv/mixed/unsat]  symcc-unsat-6.smt2
+    z3 is 12× faster (z3=22ms, noodler=269ms)
+  [minicsv/mixed/unsat]  symcc-unsat-7.smt2
+    cvc5 is 63× faster (cvc5=76ms, ostrich=4773ms)
+  [minicsv/mixed/unsat]  symcc-unsat-7.smt2
+    z3 is 184× faster (ostrich=4773ms, z3=26ms)
+  [minicsv/mixed/unsat]  symcc-unsat-7.smt2
+    noodler is 24× faster (ostrich=4773ms, noodler=200ms)
+  [minicsv/mixed/unsat]  symcc-unsat-8.smt2
+    cvc5 is 61× faster (cvc5=75ms, ostrich=4563ms)
+  [minicsv/mixed/unsat]  symcc-unsat-8.smt2
+    z3 is 254× faster (ostrich=4563ms, z3=18ms)
+  [minicsv/mixed/unsat]  symcc-unsat-8.smt2
+    noodler is 23× faster (ostrich=4563ms, noodler=195ms)
+  [minicsv/mixed/unsat]  symcc-unsat-8.smt2
+    z3 is 11× faster (z3=18ms, noodler=195ms)
+  [minicsv/mixed/unsat]  symcc-unsat-9.smt2
+    cvc5 is 71× faster (cvc5=73ms, ostrich=5211ms)
+  [minicsv/mixed/unsat]  symcc-unsat-9.smt2
+    z3 is 261× faster (ostrich=5211ms, z3=20ms)
+  [minicsv/mixed/unsat]  symcc-unsat-9.smt2
+    noodler is 28× faster (ostrich=5211ms, noodler=186ms)
+  [minicsv/string_only/sat]  symcc-assertions-0.smt2
+    cvc5 is 31× faster (cvc5=69ms, ostrich=2114ms)
+  [minicsv/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 192× faster (ostrich=2114ms, z3=11ms)
+  [minicsv/string_only/sat]  symcc-assertions-0.smt2
+    noodler is 11× faster (ostrich=2114ms, noodler=185ms)
+  [minicsv/string_only/sat]  symcc-assertions-0.smt2
+    z3 is 17× faster (z3=11ms, noodler=185ms)
+  [minicsv/string_only/sat]  symcc-assertions-1.smt2
+    cvc5 is 31× faster (cvc5=66ms, ostrich=2049ms)
+  [minicsv/string_only/sat]  symcc-assertions-1.smt2
+    z3 is 293× faster (ostrich=2049ms, z3=7ms)
+  [minicsv/string_only/sat]  symcc-assertions-1.smt2
+    noodler is 16× faster (ostrich=2049ms, noodler=127ms)
+  [minicsv/string_only/sat]  symcc-assertions-1.smt2
+    z3 is 18× faster (z3=7ms, noodler=127ms)
+  [minicsv/string_only/sat]  symcc-assertions-10.smt2
+    cvc5 is 232× faster (cvc5=72ms, ostrich=16723ms)
+  [minicsv/string_only/sat]  symcc-assertions-10.smt2
+    z3 is 929× faster (ostrich=16723ms, z3=18ms)
+  [minicsv/string_only/sat]  symcc-assertions-10.smt2
+    noodler is 73× faster (ostrich=16723ms, noodler=230ms)
+  [minicsv/string_only/sat]  symcc-assertions-10.smt2
+    z3 is 13× faster (z3=18ms, noodler=230ms)
+  [minicsv/string_only/sat]  symcc-assertions-11.smt2
+    cvc5 is 64× faster (cvc5=76ms, ostrich=4902ms)
+  [minicsv/string_only/sat]  symcc-assertions-11.smt2
+    z3 is 163× faster (ostrich=4902ms, z3=30ms)
+  [minicsv/string_only/sat]  symcc-assertions-11.smt2
+    noodler is 28× faster (ostrich=4902ms, noodler=173ms)
+  [minicsv/string_only/sat]  symcc-assertions-12.smt2
+    cvc5 is 63× faster (cvc5=87ms, ostrich=5445ms)
+  [minicsv/string_only/sat]  symcc-assertions-12.smt2
+    z3 is 227× faster (ostrich=5445ms, z3=24ms)
+  [minicsv/string_only/sat]  symcc-assertions-12.smt2
+    noodler is 30× faster (ostrich=5445ms, noodler=180ms)
+  [minicsv/string_only/sat]  symcc-assertions-13.smt2
+    cvc5 is 69× faster (cvc5=84ms, ostrich=5811ms)
+  [minicsv/string_only/sat]  symcc-assertions-13.smt2
+    z3 is 232× faster (ostrich=5811ms, z3=25ms)
+  [minicsv/string_only/sat]  symcc-assertions-13.smt2
+    noodler is 31× faster (ostrich=5811ms, noodler=186ms)
+  [minicsv/string_only/sat]  symcc-assertions-14.smt2
+    cvc5 is 73× faster (cvc5=83ms, ostrich=6044ms)
+  [minicsv/string_only/sat]  symcc-assertions-14.smt2
+    z3 is 252× faster (ostrich=6044ms, z3=24ms)
+  [minicsv/string_only/sat]  symcc-assertions-14.smt2
+    noodler is 33× faster (ostrich=6044ms, noodler=183ms)
+  [minicsv/string_only/sat]  symcc-assertions-15.smt2
+    cvc5 is 84× faster (cvc5=75ms, ostrich=6334ms)
+  [minicsv/string_only/sat]  symcc-assertions-15.smt2
+    z3 is 275× faster (ostrich=6334ms, z3=23ms)
+  [minicsv/string_only/sat]  symcc-assertions-15.smt2
+    noodler is 34× faster (ostrich=6334ms, noodler=185ms)
+  [minicsv/string_only/sat]  symcc-assertions-16.smt2
+    cvc5 is 44× faster (cvc5=84ms, ostrich=3661ms)
+  [minicsv/string_only/sat]  symcc-assertions-16.smt2
+    z3 is 105× faster (ostrich=3661ms, z3=35ms)
+  [minicsv/string_only/sat]  symcc-assertions-16.smt2
+    noodler is 18× faster (ostrich=3661ms, noodler=205ms)
+  [minicsv/string_only/sat]  symcc-assertions-17.smt2
+    cvc5 is 62× faster (cvc5=80ms, ostrich=4921ms)
+  [minicsv/string_only/sat]  symcc-assertions-17.smt2
+    z3 is 149× faster (ostrich=4921ms, z3=33ms)
+  [minicsv/string_only/sat]  symcc-assertions-17.smt2
+    noodler is 23× faster (ostrich=4921ms, noodler=210ms)
+  [minicsv/string_only/sat]  symcc-assertions-18.smt2
+    cvc5 is 64× faster (cvc5=80ms, ostrich=5082ms)
+  [minicsv/string_only/sat]  symcc-assertions-18.smt2
+    z3 is 154× faster (ostrich=5082ms, z3=33ms)
+  [minicsv/string_only/sat]  symcc-assertions-18.smt2
+    noodler is 24× faster (ostrich=5082ms, noodler=209ms)
+  [minicsv/string_only/sat]  symcc-assertions-19.smt2
+    cvc5 is 57× faster (cvc5=81ms, ostrich=4643ms)
+  [minicsv/string_only/sat]  symcc-assertions-19.smt2
+    z3 is 166× faster (ostrich=4643ms, z3=28ms)
+  [minicsv/string_only/sat]  symcc-assertions-19.smt2
+    noodler is 23× faster (ostrich=4643ms, noodler=202ms)
+  [minicsv/string_only/sat]  symcc-assertions-2.smt2
+    cvc5 is 37× faster (cvc5=70ms, ostrich=2613ms)
+  [minicsv/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 218× faster (ostrich=2613ms, z3=12ms)
+  [minicsv/string_only/sat]  symcc-assertions-2.smt2
+    noodler is 14× faster (ostrich=2613ms, noodler=187ms)
+  [minicsv/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 16× faster (z3=12ms, noodler=187ms)
+  [minicsv/string_only/sat]  symcc-assertions-20.smt2
+    cvc5 is 50× faster (cvc5=87ms, ostrich=4351ms)
+  [minicsv/string_only/sat]  symcc-assertions-20.smt2
+    z3 is 145× faster (ostrich=4351ms, z3=30ms)
+  [minicsv/string_only/sat]  symcc-assertions-20.smt2
+    noodler is 24× faster (ostrich=4351ms, noodler=179ms)
+  [minicsv/string_only/sat]  symcc-assertions-21.smt2
+    cvc5 is 52× faster (cvc5=104ms, ostrich=5358ms)
+  [minicsv/string_only/sat]  symcc-assertions-21.smt2
+    z3 is 131× faster (ostrich=5358ms, z3=41ms)
+  [minicsv/string_only/sat]  symcc-assertions-21.smt2
+    noodler is 26× faster (ostrich=5358ms, noodler=210ms)
+  [minicsv/string_only/sat]  symcc-assertions-22.smt2
+    cvc5 is 70× faster (cvc5=88ms, ostrich=6195ms)
+  [minicsv/string_only/sat]  symcc-assertions-22.smt2
+    z3 is 141× faster (ostrich=6195ms, z3=44ms)
+  [minicsv/string_only/sat]  symcc-assertions-22.smt2
+    noodler is 31× faster (ostrich=6195ms, noodler=201ms)
+  [minicsv/string_only/sat]  symcc-assertions-23.smt2
+    cvc5 is 49× faster (cvc5=97ms, ostrich=4786ms)
+  [minicsv/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 45× faster (ostrich=4786ms, z3=106ms)
+  [minicsv/string_only/sat]  symcc-assertions-23.smt2
+    noodler is 22× faster (ostrich=4786ms, noodler=220ms)
+  [minicsv/string_only/sat]  symcc-assertions-24.smt2
+    cvc5 is 31× faster (cvc5=69ms, ostrich=2125ms)
+  [minicsv/string_only/sat]  symcc-assertions-24.smt2
+    z3 is 266× faster (ostrich=2125ms, z3=8ms)
+  [minicsv/string_only/sat]  symcc-assertions-24.smt2
+    noodler is 15× faster (ostrich=2125ms, noodler=143ms)
+  [minicsv/string_only/sat]  symcc-assertions-24.smt2
+    z3 is 18× faster (z3=8ms, noodler=143ms)
+  [minicsv/string_only/sat]  symcc-assertions-25.smt2
+    cvc5 is 30× faster (cvc5=70ms, ostrich=2102ms)
+  [minicsv/string_only/sat]  symcc-assertions-25.smt2
+    z3 is 263× faster (ostrich=2102ms, z3=8ms)
+  [minicsv/string_only/sat]  symcc-assertions-25.smt2
+    noodler is 14× faster (ostrich=2102ms, noodler=145ms)
+  [minicsv/string_only/sat]  symcc-assertions-25.smt2
+    z3 is 18× faster (z3=8ms, noodler=145ms)
+  [minicsv/string_only/sat]  symcc-assertions-26.smt2
+    cvc5 is 49× faster (cvc5=109ms, ostrich=5292ms)
+  [minicsv/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 104× faster (ostrich=5292ms, z3=51ms)
+  [minicsv/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 12× faster (z3=51ms, noodler=613ms)
+  [minicsv/string_only/sat]  symcc-assertions-27.smt2
+    cvc5 is 50× faster (cvc5=107ms, ostrich=5305ms)
+  [minicsv/string_only/sat]  symcc-assertions-27.smt2
+    cvc5 is 11× faster (cvc5=107ms, noodler=1183ms)
+  [minicsv/string_only/sat]  symcc-assertions-27.smt2
+    z3 is 118× faster (ostrich=5305ms, z3=45ms)
+  [minicsv/string_only/sat]  symcc-assertions-27.smt2
+    z3 is 26× faster (z3=45ms, noodler=1183ms)
+  [minicsv/string_only/sat]  symcc-assertions-28.smt2
+    cvc5 is 60× faster (cvc5=109ms, ostrich=6515ms)
+  [minicsv/string_only/sat]  symcc-assertions-28.smt2
+    cvc5 is 12× faster (cvc5=109ms, noodler=1280ms)
+  [minicsv/string_only/sat]  symcc-assertions-28.smt2
+    z3 is 152× faster (ostrich=6515ms, z3=43ms)
+  [minicsv/string_only/sat]  symcc-assertions-28.smt2
+    z3 is 30× faster (z3=43ms, noodler=1280ms)
+  [minicsv/string_only/sat]  symcc-assertions-29.smt2
+    cvc5 is 64× faster (cvc5=110ms, ostrich=6989ms)
+  [minicsv/string_only/sat]  symcc-assertions-29.smt2
+    cvc5 is 11× faster (cvc5=110ms, noodler=1170ms)
+  [minicsv/string_only/sat]  symcc-assertions-29.smt2
+    z3 is 159× faster (ostrich=6989ms, z3=44ms)
+  [minicsv/string_only/sat]  symcc-assertions-29.smt2
+    z3 is 27× faster (z3=44ms, noodler=1170ms)
+  [minicsv/string_only/sat]  symcc-assertions-3.smt2
+    cvc5 is 28× faster (cvc5=72ms, ostrich=2018ms)
+  [minicsv/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 168× faster (ostrich=2018ms, z3=12ms)
+  [minicsv/string_only/sat]  symcc-assertions-3.smt2
+    noodler is 10× faster (ostrich=2018ms, noodler=199ms)
+  [minicsv/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 17× faster (z3=12ms, noodler=199ms)
+  [minicsv/string_only/sat]  symcc-assertions-30.smt2
+    cvc5 is 47× faster (cvc5=109ms, ostrich=5096ms)
+  [minicsv/string_only/sat]  symcc-assertions-30.smt2
+    cvc5 is 11× faster (cvc5=109ms, noodler=1163ms)
+  [minicsv/string_only/sat]  symcc-assertions-30.smt2
+    z3 is 111× faster (ostrich=5096ms, z3=46ms)
+  [minicsv/string_only/sat]  symcc-assertions-30.smt2
+    z3 is 25× faster (z3=46ms, noodler=1163ms)
+  [minicsv/string_only/sat]  symcc-assertions-31.smt2
+    cvc5 is 61× faster (cvc5=109ms, ostrich=6631ms)
+  [minicsv/string_only/sat]  symcc-assertions-31.smt2
+    z3 is 96× faster (ostrich=6631ms, z3=69ms)
+  [minicsv/string_only/sat]  symcc-assertions-31.smt2
+    noodler is 10× faster (ostrich=6631ms, noodler=644ms)
+  [minicsv/string_only/sat]  symcc-assertions-32.smt2
+    cvc5 is 123× faster (cvc5=111ms, ostrich=13683ms)
+  [minicsv/string_only/sat]  symcc-assertions-32.smt2
+    z3 is 207× faster (ostrich=13683ms, z3=66ms)
+  [minicsv/string_only/sat]  symcc-assertions-32.smt2
+    noodler is 22× faster (ostrich=13683ms, noodler=625ms)
+  [minicsv/string_only/sat]  symcc-assertions-33.smt2
+    cvc5 is 131× faster (cvc5=109ms, ostrich=14315ms)
+  [minicsv/string_only/sat]  symcc-assertions-33.smt2
+    z3 is 275× faster (ostrich=14315ms, z3=52ms)
+  [minicsv/string_only/sat]  symcc-assertions-33.smt2
+    noodler is 25× faster (ostrich=14315ms, noodler=582ms)
+  [minicsv/string_only/sat]  symcc-assertions-33.smt2
+    z3 is 11× faster (z3=52ms, noodler=582ms)
+  [minicsv/string_only/sat]  symcc-assertions-34.smt2
+    cvc5 is 134× faster (cvc5=110ms, ostrich=14706ms)
+  [minicsv/string_only/sat]  symcc-assertions-34.smt2
+    z3 is 210× faster (ostrich=14706ms, z3=70ms)
+  [minicsv/string_only/sat]  symcc-assertions-34.smt2
+    noodler is 22× faster (ostrich=14706ms, noodler=664ms)
+  [minicsv/string_only/sat]  symcc-assertions-35.smt2
+    cvc5 is 120× faster (cvc5=107ms, ostrich=12885ms)
+  [minicsv/string_only/sat]  symcc-assertions-35.smt2
+    z3 is 195× faster (ostrich=12885ms, z3=66ms)
+  [minicsv/string_only/sat]  symcc-assertions-35.smt2
+    noodler is 20× faster (ostrich=12885ms, noodler=643ms)
+  [minicsv/string_only/sat]  symcc-assertions-36.smt2
+    cvc5 is 58× faster (cvc5=116ms, ostrich=6763ms)
+  [minicsv/string_only/sat]  symcc-assertions-36.smt2
+    z3 is 81× faster (ostrich=6763ms, z3=84ms)
+  [minicsv/string_only/sat]  symcc-assertions-36.smt2
+    noodler is 11× faster (ostrich=6763ms, noodler=615ms)
+  [minicsv/string_only/sat]  symcc-assertions-4.smt2
+    cvc5 is 26× faster (cvc5=75ms, ostrich=1929ms)
+  [minicsv/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 161× faster (ostrich=1929ms, z3=12ms)
+  [minicsv/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 17× faster (z3=12ms, noodler=203ms)
+  [minicsv/string_only/sat]  symcc-assertions-41.smt2
+    cvc5 is 33× faster (cvc5=131ms, ostrich=4340ms)
+  [minicsv/string_only/sat]  symcc-assertions-41.smt2
+    z3 is 50× faster (ostrich=4340ms, z3=87ms)
+  [minicsv/string_only/sat]  symcc-assertions-42.smt2
+    cvc5 is 56× faster (cvc5=136ms, ostrich=7598ms)
+  [minicsv/string_only/sat]  symcc-assertions-42.smt2
+    z3 is 117× faster (ostrich=7598ms, z3=65ms)
+  [minicsv/string_only/sat]  symcc-assertions-42.smt2
+    noodler is 11× faster (ostrich=7598ms, noodler=697ms)
+  [minicsv/string_only/sat]  symcc-assertions-42.smt2
+    z3 is 11× faster (z3=65ms, noodler=697ms)
+  [minicsv/string_only/sat]  symcc-assertions-43.smt2
+    cvc5 is 151× faster (cvc5=134ms, ostrich=20201ms)
+  [minicsv/string_only/sat]  symcc-assertions-43.smt2
+    z3 is 202× faster (ostrich=20201ms, z3=100ms)
+  [minicsv/string_only/sat]  symcc-assertions-43.smt2
+    noodler is 30× faster (ostrich=20201ms, noodler=678ms)
+  [minicsv/string_only/sat]  symcc-assertions-44.smt2
+    cvc5 is 25× faster (cvc5=70ms, ostrich=1781ms)
+  [minicsv/string_only/sat]  symcc-assertions-44.smt2
+    z3 is 223× faster (ostrich=1781ms, z3=8ms)
+  [minicsv/string_only/sat]  symcc-assertions-44.smt2
+    noodler is 13× faster (ostrich=1781ms, noodler=132ms)
+  [minicsv/string_only/sat]  symcc-assertions-44.smt2
+    z3 is 16× faster (z3=8ms, noodler=132ms)
+  [minicsv/string_only/sat]  symcc-assertions-45.smt2
+    cvc5 is 26× faster (cvc5=67ms, ostrich=1726ms)
+  [minicsv/string_only/sat]  symcc-assertions-45.smt2
+    z3 is 216× faster (ostrich=1726ms, z3=8ms)
+  [minicsv/string_only/sat]  symcc-assertions-45.smt2
+    noodler is 11× faster (ostrich=1726ms, noodler=156ms)
+  [minicsv/string_only/sat]  symcc-assertions-45.smt2
+    z3 is 20× faster (z3=8ms, noodler=156ms)
+  [minicsv/string_only/sat]  symcc-assertions-46.smt2
+    cvc5 is 36× faster (cvc5=179ms, ostrich=6405ms)
+  [minicsv/string_only/sat]  symcc-assertions-46.smt2
+    cvc5 is 81× faster (cvc5=179ms, noodler=14583ms)
+  [minicsv/string_only/sat]  symcc-assertions-46.smt2
+    z3 is 80× faster (ostrich=6405ms, z3=80ms)
+  [minicsv/string_only/sat]  symcc-assertions-46.smt2
+    z3 is 182× faster (z3=80ms, noodler=14583ms)
+  [minicsv/string_only/sat]  symcc-assertions-47.smt2
+    cvc5 is 34× faster (cvc5=180ms, ostrich=6053ms)
+  [minicsv/string_only/sat]  symcc-assertions-47.smt2
+    z3 is 49× faster (ostrich=6053ms, z3=123ms)
+  [minicsv/string_only/sat]  symcc-assertions-48.smt2
+    cvc5 is 43× faster (cvc5=166ms, ostrich=7085ms)
+  [minicsv/string_only/sat]  symcc-assertions-48.smt2
+    z3 is 71× faster (ostrich=7085ms, z3=100ms)
+  [minicsv/string_only/sat]  symcc-assertions-49.smt2
+    cvc5 is 44× faster (cvc5=157ms, ostrich=6890ms)
+  [minicsv/string_only/sat]  symcc-assertions-49.smt2
+    z3 is 51× faster (ostrich=6890ms, z3=134ms)
+  [minicsv/string_only/sat]  symcc-assertions-50.smt2
+    cvc5 is 40× faster (cvc5=163ms, ostrich=6595ms)
+  [minicsv/string_only/sat]  symcc-assertions-50.smt2
+    z3 is 58× faster (ostrich=6595ms, z3=113ms)
+  [minicsv/string_only/sat]  symcc-assertions-51.smt2
+    cvc5 is 114× faster (cvc5=170ms, ostrich=19314ms)
+  [minicsv/string_only/sat]  symcc-assertions-51.smt2
+    cvc5 is 91× faster (cvc5=170ms, noodler=15503ms)
+  [minicsv/string_only/sat]  symcc-assertions-51.smt2
+    z3 is 203× faster (ostrich=19314ms, z3=95ms)
+  [minicsv/string_only/sat]  symcc-assertions-51.smt2
+    z3 is 163× faster (z3=95ms, noodler=15503ms)
+  [minicsv/string_only/sat]  symcc-assertions-52.smt2
+    cvc5 is 109× faster (cvc5=166ms, ostrich=18150ms)
+  [minicsv/string_only/sat]  symcc-assertions-52.smt2
+    cvc5 is 106× faster (cvc5=166ms, noodler=17530ms)
+  [minicsv/string_only/sat]  symcc-assertions-52.smt2
+    z3 is 154× faster (ostrich=18150ms, z3=118ms)
+  [minicsv/string_only/sat]  symcc-assertions-52.smt2
+    z3 is 149× faster (z3=118ms, noodler=17530ms)
+  [minicsv/string_only/sat]  symcc-assertions-53.smt2
+    cvc5 is 100× faster (cvc5=166ms, noodler=16588ms)
+  [minicsv/string_only/sat]  symcc-assertions-53.smt2
+    z3 is 141× faster (z3=118ms, noodler=16588ms)
+  [minicsv/string_only/sat]  symcc-assertions-54.smt2
+    cvc5 is 96× faster (cvc5=168ms, noodler=16120ms)
+  [minicsv/string_only/sat]  symcc-assertions-54.smt2
+    z3 is 126× faster (z3=128ms, noodler=16120ms)
+  [minicsv/string_only/unsat]  symcc-unsat-0.smt2
+    cvc5 is 47× faster (cvc5=69ms, ostrich=3259ms)
+  [minicsv/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 326× faster (ostrich=3259ms, z3=10ms)
+  [minicsv/string_only/unsat]  symcc-unsat-0.smt2
+    noodler is 12× faster (ostrich=3259ms, noodler=263ms)
+  [minicsv/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 26× faster (z3=10ms, noodler=263ms)
+  [minicsv/string_only/unsat]  symcc-unsat-1.smt2
+    cvc5 is 59× faster (cvc5=68ms, ostrich=4027ms)
+  [minicsv/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 403× faster (ostrich=4027ms, z3=10ms)
+  [minicsv/string_only/unsat]  symcc-unsat-1.smt2
+    noodler is 16× faster (ostrich=4027ms, noodler=257ms)
+  [minicsv/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 26× faster (z3=10ms, noodler=257ms)
+  [minicsv/string_only/unsat]  symcc-unsat-10.smt2
+    cvc5 is 57× faster (cvc5=73ms, ostrich=4186ms)
+  [minicsv/string_only/unsat]  symcc-unsat-10.smt2
+    z3 is 110× faster (ostrich=4186ms, z3=38ms)
+  [minicsv/string_only/unsat]  symcc-unsat-10.smt2
+    noodler is 23× faster (ostrich=4186ms, noodler=182ms)
+  [minicsv/string_only/unsat]  symcc-unsat-11.smt2
+    cvc5 is 55× faster (cvc5=75ms, ostrich=4104ms)
+  [minicsv/string_only/unsat]  symcc-unsat-11.smt2
+    z3 is 105× faster (ostrich=4104ms, z3=39ms)
+  [minicsv/string_only/unsat]  symcc-unsat-11.smt2
+    noodler is 15× faster (ostrich=4104ms, noodler=274ms)
+  [minicsv/string_only/unsat]  symcc-unsat-12.smt2
+    cvc5 is 63× faster (cvc5=77ms, ostrich=4852ms)
+  [minicsv/string_only/unsat]  symcc-unsat-12.smt2
+    z3 is 99× faster (ostrich=4852ms, z3=49ms)
+  [minicsv/string_only/unsat]  symcc-unsat-12.smt2
+    noodler is 25× faster (ostrich=4852ms, noodler=195ms)
+  [minicsv/string_only/unsat]  symcc-unsat-13.smt2
+    cvc5 is 58× faster (cvc5=78ms, ostrich=4502ms)
+  [minicsv/string_only/unsat]  symcc-unsat-13.smt2
+    z3 is 105× faster (ostrich=4502ms, z3=43ms)
+  [minicsv/string_only/unsat]  symcc-unsat-13.smt2
+    noodler is 21× faster (ostrich=4502ms, noodler=216ms)
+  [minicsv/string_only/unsat]  symcc-unsat-14.smt2
+    cvc5 is 58× faster (cvc5=76ms, ostrich=4417ms)
+  [minicsv/string_only/unsat]  symcc-unsat-14.smt2
+    z3 is 108× faster (ostrich=4417ms, z3=41ms)
+  [minicsv/string_only/unsat]  symcc-unsat-14.smt2
+    noodler is 23× faster (ostrich=4417ms, noodler=193ms)
+  [minicsv/string_only/unsat]  symcc-unsat-15.smt2
+    cvc5 is 56× faster (cvc5=79ms, ostrich=4392ms)
+  [minicsv/string_only/unsat]  symcc-unsat-15.smt2
+    z3 is 50× faster (ostrich=4392ms, z3=87ms)
+  [minicsv/string_only/unsat]  symcc-unsat-15.smt2
+    noodler is 24× faster (ostrich=4392ms, noodler=186ms)
+  [minicsv/string_only/unsat]  symcc-unsat-16.smt2
+    cvc5 is 55× faster (cvc5=79ms, ostrich=4384ms)
+  [minicsv/string_only/unsat]  symcc-unsat-16.smt2
+    z3 is 12× faster (ostrich=4384ms, z3=379ms)
+  [minicsv/string_only/unsat]  symcc-unsat-16.smt2
+    noodler is 16× faster (ostrich=4384ms, noodler=267ms)
+  [minicsv/string_only/unsat]  symcc-unsat-17.smt2
+    cvc5 is 68× faster (cvc5=81ms, ostrich=5511ms)
+  [minicsv/string_only/unsat]  symcc-unsat-17.smt2
+    z3 is 39× faster (ostrich=5511ms, z3=143ms)
+  [minicsv/string_only/unsat]  symcc-unsat-17.smt2
+    noodler is 30× faster (ostrich=5511ms, noodler=183ms)
+  [minicsv/string_only/unsat]  symcc-unsat-18.smt2
+    cvc5 is 58× faster (cvc5=81ms, ostrich=4735ms)
+  [minicsv/string_only/unsat]  symcc-unsat-18.smt2
+    z3 is 36× faster (ostrich=4735ms, z3=131ms)
+  [minicsv/string_only/unsat]  symcc-unsat-18.smt2
+    noodler is 22× faster (ostrich=4735ms, noodler=218ms)
+  [minicsv/string_only/unsat]  symcc-unsat-19.smt2
+    cvc5 is 53× faster (cvc5=81ms, ostrich=4319ms)
+  [minicsv/string_only/unsat]  symcc-unsat-19.smt2
+    z3 is 76× faster (ostrich=4319ms, z3=57ms)
+  [minicsv/string_only/unsat]  symcc-unsat-19.smt2
+    noodler is 20× faster (ostrich=4319ms, noodler=216ms)
+  [minicsv/string_only/unsat]  symcc-unsat-2.smt2
+    cvc5 is 44× faster (cvc5=71ms, ostrich=3122ms)
+  [minicsv/string_only/unsat]  symcc-unsat-2.smt2
+    z3 is 260× faster (ostrich=3122ms, z3=12ms)
+  [minicsv/string_only/unsat]  symcc-unsat-2.smt2
+    noodler is 17× faster (ostrich=3122ms, noodler=189ms)
+  [minicsv/string_only/unsat]  symcc-unsat-2.smt2
+    z3 is 16× faster (z3=12ms, noodler=189ms)
+  [minicsv/string_only/unsat]  symcc-unsat-20.smt2
+    cvc5 is 63× faster (cvc5=80ms, ostrich=5065ms)
+  [minicsv/string_only/unsat]  symcc-unsat-20.smt2
+    z3 is 11× faster (ostrich=5065ms, z3=456ms)
+  [minicsv/string_only/unsat]  symcc-unsat-20.smt2
+    noodler is 24× faster (ostrich=5065ms, noodler=209ms)
+  [minicsv/string_only/unsat]  symcc-unsat-21.smt2
+    cvc5 is 48× faster (cvc5=89ms, ostrich=4309ms)
+  [minicsv/string_only/unsat]  symcc-unsat-21.smt2
+    noodler is 11× faster (ostrich=4309ms, noodler=402ms)
+  [minicsv/string_only/unsat]  symcc-unsat-22.smt2
+    cvc5 is 59× faster (cvc5=91ms, ostrich=5405ms)
+  [minicsv/string_only/unsat]  symcc-unsat-22.smt2
+    z3 is 22× faster (ostrich=5405ms, z3=245ms)
+  [minicsv/string_only/unsat]  symcc-unsat-22.smt2
+    noodler is 25× faster (ostrich=5405ms, noodler=220ms)
+  [minicsv/string_only/unsat]  symcc-unsat-23.smt2
+    cvc5 is 73× faster (cvc5=90ms, ostrich=6563ms)
+  [minicsv/string_only/unsat]  symcc-unsat-23.smt2
+    z3 is 156× faster (ostrich=6563ms, z3=42ms)
+  [minicsv/string_only/unsat]  symcc-unsat-23.smt2
+    noodler is 33× faster (ostrich=6563ms, noodler=200ms)
+  [minicsv/string_only/unsat]  symcc-unsat-24.smt2
+    cvc5 is 72× faster (cvc5=91ms, ostrich=6584ms)
+  [minicsv/string_only/unsat]  symcc-unsat-24.smt2
+    z3 is 157× faster (ostrich=6584ms, z3=42ms)
+  [minicsv/string_only/unsat]  symcc-unsat-24.smt2
+    noodler is 29× faster (ostrich=6584ms, noodler=225ms)
+  [minicsv/string_only/unsat]  symcc-unsat-25.smt2
+    cvc5 is 71× faster (cvc5=91ms, ostrich=6496ms)
+  [minicsv/string_only/unsat]  symcc-unsat-25.smt2
+    z3 is 158× faster (ostrich=6496ms, z3=41ms)
+  [minicsv/string_only/unsat]  symcc-unsat-25.smt2
+    noodler is 30× faster (ostrich=6496ms, noodler=214ms)
+  [minicsv/string_only/unsat]  symcc-unsat-26.smt2
+    cvc5 is 56× faster (cvc5=95ms, ostrich=5309ms)
+  [minicsv/string_only/unsat]  symcc-unsat-26.smt2
+    cvc5 is 17× faster (cvc5=95ms, noodler=1612ms)
+  [minicsv/string_only/unsat]  symcc-unsat-26.smt2
+    z3 is 74× faster (ostrich=5309ms, z3=72ms)
+  [minicsv/string_only/unsat]  symcc-unsat-26.smt2
+    z3 is 22× faster (z3=72ms, noodler=1612ms)
+  [minicsv/string_only/unsat]  symcc-unsat-27.smt2
+    cvc5 is 58× faster (cvc5=107ms, ostrich=6226ms)
+  [minicsv/string_only/unsat]  symcc-unsat-27.smt2
+    z3 is 69× faster (ostrich=6226ms, z3=90ms)
+  [minicsv/string_only/unsat]  symcc-unsat-27.smt2
+    noodler is 10× faster (ostrich=6226ms, noodler=616ms)
+  [minicsv/string_only/unsat]  symcc-unsat-28.smt2
+    cvc5 is 52× faster (cvc5=109ms, ostrich=5669ms)
+  [minicsv/string_only/unsat]  symcc-unsat-28.smt2
+    z3 is 80× faster (ostrich=5669ms, z3=71ms)
+  [minicsv/string_only/unsat]  symcc-unsat-29.smt2
+    cvc5 is 54× faster (cvc5=105ms, ostrich=5620ms)
+  [minicsv/string_only/unsat]  symcc-unsat-29.smt2
+    z3 is 85× faster (ostrich=5620ms, z3=66ms)
+  [minicsv/string_only/unsat]  symcc-unsat-3.smt2
+    cvc5 is 49× faster (cvc5=72ms, ostrich=3518ms)
+  [minicsv/string_only/unsat]  symcc-unsat-3.smt2
+    z3 is 320× faster (ostrich=3518ms, z3=11ms)
+  [minicsv/string_only/unsat]  symcc-unsat-3.smt2
+    noodler is 15× faster (ostrich=3518ms, noodler=229ms)
+  [minicsv/string_only/unsat]  symcc-unsat-3.smt2
+    z3 is 21× faster (z3=11ms, noodler=229ms)
+  [minicsv/string_only/unsat]  symcc-unsat-30.smt2
+    cvc5 is 45× faster (cvc5=108ms, ostrich=4882ms)
+  [minicsv/string_only/unsat]  symcc-unsat-30.smt2
+    z3 is 75× faster (ostrich=4882ms, z3=65ms)
+  [minicsv/string_only/unsat]  symcc-unsat-30.smt2
+    z3 is 11× faster (z3=65ms, noodler=708ms)
+  [minicsv/string_only/unsat]  symcc-unsat-31.smt2
+    cvc5 is 54× faster (cvc5=110ms, ostrich=5987ms)
+  [minicsv/string_only/unsat]  symcc-unsat-31.smt2
+    cvc5 is 13× faster (cvc5=110ms, noodler=1392ms)
+  [minicsv/string_only/unsat]  symcc-unsat-31.smt2
+    z3 is 56× faster (ostrich=5987ms, z3=107ms)
+  [minicsv/string_only/unsat]  symcc-unsat-31.smt2
+    z3 is 13× faster (z3=107ms, noodler=1392ms)
+  [minicsv/string_only/unsat]  symcc-unsat-32.smt2
+    cvc5 is 63× faster (cvc5=110ms, ostrich=6964ms)
+  [minicsv/string_only/unsat]  symcc-unsat-32.smt2
+    z3 is 97× faster (ostrich=6964ms, z3=72ms)
+  [minicsv/string_only/unsat]  symcc-unsat-32.smt2
+    noodler is 10× faster (ostrich=6964ms, noodler=665ms)
+  [minicsv/string_only/unsat]  symcc-unsat-33.smt2
+    cvc5 is 61× faster (cvc5=110ms, ostrich=6729ms)
+  [minicsv/string_only/unsat]  symcc-unsat-33.smt2
+    z3 is 56× faster (ostrich=6729ms, z3=121ms)
+  [minicsv/string_only/unsat]  symcc-unsat-34.smt2
+    cvc5 is 71× faster (cvc5=109ms, ostrich=7707ms)
+  [minicsv/string_only/unsat]  symcc-unsat-34.smt2
+    z3 is 72× faster (ostrich=7707ms, z3=107ms)
+  [minicsv/string_only/unsat]  symcc-unsat-34.smt2
+    noodler is 11× faster (ostrich=7707ms, noodler=676ms)
+  [minicsv/string_only/unsat]  symcc-unsat-35.smt2
+    cvc5 is 72× faster (cvc5=114ms, ostrich=8226ms)
+  [minicsv/string_only/unsat]  symcc-unsat-35.smt2
+    z3 is 116× faster (ostrich=8226ms, z3=71ms)
+  [minicsv/string_only/unsat]  symcc-unsat-35.smt2
+    noodler is 13× faster (ostrich=8226ms, noodler=658ms)
+  [minicsv/string_only/unsat]  symcc-unsat-36.smt2
+    cvc5 is 468× faster (cvc5=114ms, ostrich=53328ms)
+  [minicsv/string_only/unsat]  symcc-unsat-36.smt2
+    cvc5 is 19× faster (cvc5=114ms, noodler=2172ms)
+  [minicsv/string_only/unsat]  symcc-unsat-36.smt2
+    z3 is 539× faster (ostrich=53328ms, z3=99ms)
+  [minicsv/string_only/unsat]  symcc-unsat-36.smt2
+    noodler is 25× faster (ostrich=53328ms, noodler=2172ms)
+  [minicsv/string_only/unsat]  symcc-unsat-36.smt2
+    z3 is 22× faster (z3=99ms, noodler=2172ms)
+  [minicsv/string_only/unsat]  symcc-unsat-37.smt2
+    cvc5 is 63× faster (cvc5=120ms, ostrich=7528ms)
+  [minicsv/string_only/unsat]  symcc-unsat-37.smt2
+    z3 is 63× faster (ostrich=7528ms, z3=120ms)
+  [minicsv/string_only/unsat]  symcc-unsat-37.smt2
+    noodler is 11× faster (ostrich=7528ms, noodler=664ms)
+  [minicsv/string_only/unsat]  symcc-unsat-38.smt2
+    cvc5 is 65× faster (cvc5=139ms, ostrich=9031ms)
+  [minicsv/string_only/unsat]  symcc-unsat-38.smt2
+    z3 is 79× faster (ostrich=9031ms, z3=115ms)
+  [minicsv/string_only/unsat]  symcc-unsat-38.smt2
+    noodler is 12× faster (ostrich=9031ms, noodler=740ms)
+  [minicsv/string_only/unsat]  symcc-unsat-39.smt2
+    cvc5 is 83× faster (cvc5=122ms, ostrich=10153ms)
+  [minicsv/string_only/unsat]  symcc-unsat-39.smt2
+    z3 is 82× faster (ostrich=10153ms, z3=124ms)
+  [minicsv/string_only/unsat]  symcc-unsat-39.smt2
+    noodler is 15× faster (ostrich=10153ms, noodler=696ms)
+  [minicsv/string_only/unsat]  symcc-unsat-4.smt2
+    cvc5 is 22× faster (cvc5=71ms, ostrich=1569ms)
+  [minicsv/string_only/unsat]  symcc-unsat-4.smt2
+    z3 is 131× faster (ostrich=1569ms, z3=12ms)
+  [minicsv/string_only/unsat]  symcc-unsat-4.smt2
+    z3 is 16× faster (z3=12ms, noodler=187ms)
+  [minicsv/string_only/unsat]  symcc-unsat-40.smt2
+    cvc5 is 84× faster (cvc5=128ms, ostrich=10730ms)
+  [minicsv/string_only/unsat]  symcc-unsat-40.smt2
+    z3 is 105× faster (ostrich=10730ms, z3=102ms)
+  [minicsv/string_only/unsat]  symcc-unsat-40.smt2
+    noodler is 14× faster (ostrich=10730ms, noodler=757ms)
+  [minicsv/string_only/unsat]  symcc-unsat-41.smt2
+    cvc5 is 53× faster (cvc5=130ms, ostrich=6855ms)
+  [minicsv/string_only/unsat]  symcc-unsat-41.smt2
+    cvc5 is 12× faster (cvc5=130ms, noodler=1617ms)
+  [minicsv/string_only/unsat]  symcc-unsat-41.smt2
+    z3 is 30× faster (ostrich=6855ms, z3=228ms)
+  [minicsv/string_only/unsat]  symcc-unsat-42.smt2
+    cvc5 is 97× faster (cvc5=134ms, ostrich=12951ms)
+  [minicsv/string_only/unsat]  symcc-unsat-42.smt2
+    z3 is 139× faster (ostrich=12951ms, z3=93ms)
+  [minicsv/string_only/unsat]  symcc-unsat-42.smt2
+    noodler is 18× faster (ostrich=12951ms, noodler=734ms)
+  [minicsv/string_only/unsat]  symcc-unsat-43.smt2
+    cvc5 is 40× faster (cvc5=137ms, ostrich=5435ms)
+  [minicsv/string_only/unsat]  symcc-unsat-43.smt2
+    z3 is 68× faster (ostrich=5435ms, z3=80ms)
+  [minicsv/string_only/unsat]  symcc-unsat-44.smt2
+    cvc5 is 42× faster (cvc5=131ms, ostrich=5553ms)
+  [minicsv/string_only/unsat]  symcc-unsat-44.smt2
+    z3 is 73× faster (ostrich=5553ms, z3=76ms)
+  [minicsv/string_only/unsat]  symcc-unsat-45.smt2
+    cvc5 is 42× faster (cvc5=130ms, ostrich=5428ms)
+  [minicsv/string_only/unsat]  symcc-unsat-45.smt2
+    z3 is 71× faster (ostrich=5428ms, z3=76ms)
+  [minicsv/string_only/unsat]  symcc-unsat-46.smt2
+    cvc5 is 23× faster (cvc5=139ms, ostrich=3193ms)
+  [minicsv/string_only/unsat]  symcc-unsat-46.smt2
+    cvc5 is 1906× faster (cvc5=139ms, noodler=264919ms)
+  [minicsv/string_only/unsat]  symcc-unsat-46.smt2
+    z3 is 30× faster (ostrich=3193ms, z3=105ms)
+  [minicsv/string_only/unsat]  symcc-unsat-46.smt2
+    ostrich is 83× faster (ostrich=3193ms, noodler=264919ms)
+  [minicsv/string_only/unsat]  symcc-unsat-46.smt2
+    z3 is 2523× faster (z3=105ms, noodler=264919ms)
+  [minicsv/string_only/unsat]  symcc-unsat-47.smt2
+    cvc5 is 21× faster (cvc5=162ms, ostrich=3445ms)
+  [minicsv/string_only/unsat]  symcc-unsat-47.smt2
+    cvc5 is 123× faster (cvc5=162ms, noodler=19948ms)
+  [minicsv/string_only/unsat]  symcc-unsat-47.smt2
+    z3 is 24× faster (ostrich=3445ms, z3=141ms)
+  [minicsv/string_only/unsat]  symcc-unsat-47.smt2
+    z3 is 141× faster (z3=141ms, noodler=19948ms)
+  [minicsv/string_only/unsat]  symcc-unsat-48.smt2
+    cvc5 is 24× faster (cvc5=162ms, ostrich=3817ms)
+  [minicsv/string_only/unsat]  symcc-unsat-48.smt2
+    cvc5 is 105× faster (cvc5=162ms, noodler=16971ms)
+  [minicsv/string_only/unsat]  symcc-unsat-48.smt2
+    z3 is 29× faster (ostrich=3817ms, z3=130ms)
+  [minicsv/string_only/unsat]  symcc-unsat-48.smt2
+    z3 is 131× faster (z3=130ms, noodler=16971ms)
+  [minicsv/string_only/unsat]  symcc-unsat-49.smt2
+    cvc5 is 20× faster (cvc5=167ms, ostrich=3322ms)
+  [minicsv/string_only/unsat]  symcc-unsat-49.smt2
+    cvc5 is 95× faster (cvc5=167ms, noodler=15884ms)
+  [minicsv/string_only/unsat]  symcc-unsat-49.smt2
+    z3 is 25× faster (ostrich=3322ms, z3=132ms)
+  [minicsv/string_only/unsat]  symcc-unsat-49.smt2
+    z3 is 120× faster (z3=132ms, noodler=15884ms)
+  [minicsv/string_only/unsat]  symcc-unsat-50.smt2
+    cvc5 is 22× faster (cvc5=169ms, ostrich=3761ms)
+  [minicsv/string_only/unsat]  symcc-unsat-50.smt2
+    cvc5 is 101× faster (cvc5=169ms, noodler=17038ms)
+  [minicsv/string_only/unsat]  symcc-unsat-50.smt2
+    z3 is 40× faster (ostrich=3761ms, z3=95ms)
+  [minicsv/string_only/unsat]  symcc-unsat-50.smt2
+    z3 is 179× faster (z3=95ms, noodler=17038ms)
+  [minicsv/string_only/unsat]  symcc-unsat-51.smt2
+    cvc5 is 21× faster (cvc5=169ms, ostrich=3517ms)
+  [minicsv/string_only/unsat]  symcc-unsat-51.smt2
+    z3 is 25× faster (ostrich=3517ms, z3=139ms)
+  [minicsv/string_only/unsat]  symcc-unsat-52.smt2
+    cvc5 is 34× faster (cvc5=171ms, ostrich=5777ms)
+  [minicsv/string_only/unsat]  symcc-unsat-52.smt2
+    cvc5 is 104× faster (cvc5=171ms, noodler=17819ms)
+  [minicsv/string_only/unsat]  symcc-unsat-52.smt2
+    z3 is 47× faster (ostrich=5777ms, z3=124ms)
+  [minicsv/string_only/unsat]  symcc-unsat-52.smt2
+    z3 is 144× faster (z3=124ms, noodler=17819ms)
+  [minicsv/string_only/unsat]  symcc-unsat-53.smt2
+    cvc5 is 32× faster (cvc5=172ms, ostrich=5525ms)
+  [minicsv/string_only/unsat]  symcc-unsat-53.smt2
+    cvc5 is 103× faster (cvc5=172ms, noodler=17727ms)
+  [minicsv/string_only/unsat]  symcc-unsat-53.smt2
+    z3 is 32× faster (ostrich=5525ms, z3=174ms)
+  [minicsv/string_only/unsat]  symcc-unsat-53.smt2
+    z3 is 102× faster (z3=174ms, noodler=17727ms)
+  [minicsv/string_only/unsat]  symcc-unsat-54.smt2
+    cvc5 is 26× faster (cvc5=170ms, ostrich=4456ms)
+  [minicsv/string_only/unsat]  symcc-unsat-54.smt2
+    cvc5 is 104× faster (cvc5=170ms, noodler=17760ms)
+  [minicsv/string_only/unsat]  symcc-unsat-54.smt2
+    z3 is 26× faster (ostrich=4456ms, z3=172ms)
+  [minicsv/string_only/unsat]  symcc-unsat-54.smt2
+    z3 is 103× faster (z3=172ms, noodler=17760ms)
+  [yuarel/mixed/sat]  symcc-assertions-0.smt2
+    cvc5 is 269× faster (cvc5=123ms, ostrich=33079ms)
+  [yuarel/mixed/sat]  symcc-assertions-0.smt2
+    cvc5 is 15× faster (cvc5=123ms, z3=1865ms)
+  [yuarel/mixed/sat]  symcc-assertions-0.smt2
+    z3 is 18× faster (ostrich=33079ms, z3=1865ms)
+  [yuarel/mixed/sat]  symcc-assertions-0.smt2
+    noodler is 211× faster (ostrich=33079ms, noodler=157ms)
+  [yuarel/mixed/sat]  symcc-assertions-0.smt2
+    noodler is 12× faster (z3=1865ms, noodler=157ms)
+  [yuarel/mixed/sat]  symcc-assertions-1.smt2
+    cvc5 is 32× faster (cvc5=68ms, ostrich=2166ms)
+  [yuarel/mixed/sat]  symcc-assertions-1.smt2
+    cvc5 is 28× faster (cvc5=68ms, z3=1871ms)
+  [yuarel/mixed/sat]  symcc-assertions-1.smt2
+    noodler is 10× faster (ostrich=2166ms, noodler=210ms)
+  [yuarel/mixed/sat]  symcc-assertions-11.smt2
+    cvc5 is 19× faster (cvc5=687ms, ostrich=12973ms)
+  [yuarel/mixed/sat]  symcc-assertions-13.smt2
+    cvc5 is 50× faster (cvc5=119ms, ostrich=5931ms)
+  [yuarel/mixed/sat]  symcc-assertions-13.smt2
+    z3 is 424× faster (ostrich=5931ms, z3=14ms)
+  [yuarel/mixed/sat]  symcc-assertions-13.smt2
+    noodler is 40× faster (ostrich=5931ms, noodler=150ms)
+  [yuarel/mixed/sat]  symcc-assertions-13.smt2
+    z3 is 11× faster (z3=14ms, noodler=150ms)
+  [yuarel/mixed/sat]  symcc-assertions-15.smt2
+    cvc5 is 25× faster (cvc5=102ms, ostrich=2513ms)
+  [yuarel/mixed/sat]  symcc-assertions-15.smt2
+    z3 is 168× faster (ostrich=2513ms, z3=15ms)
+  [yuarel/mixed/sat]  symcc-assertions-15.smt2
+    noodler is 15× faster (ostrich=2513ms, noodler=163ms)
+  [yuarel/mixed/sat]  symcc-assertions-15.smt2
+    z3 is 11× faster (z3=15ms, noodler=163ms)
+  [yuarel/mixed/sat]  symcc-assertions-18.smt2
+    cvc5 is 18× faster (cvc5=164ms, ostrich=2975ms)
+  [yuarel/mixed/sat]  symcc-assertions-18.smt2
+    z3 is 165× faster (ostrich=2975ms, z3=18ms)
+  [yuarel/mixed/sat]  symcc-assertions-18.smt2
+    noodler is 18× faster (ostrich=2975ms, noodler=164ms)
+  [yuarel/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 13× faster (cvc5=146ms, z3=11ms)
+  [yuarel/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 108× faster (ostrich=1188ms, z3=11ms)
+  [yuarel/mixed/sat]  symcc-assertions-2.smt2
+    z3 is 13× faster (z3=11ms, noodler=147ms)
+  [yuarel/mixed/sat]  symcc-assertions-22.smt2
+    cvc5 is 18× faster (cvc5=162ms, ostrich=2895ms)
+  [yuarel/mixed/sat]  symcc-assertions-22.smt2
+    z3 is 152× faster (ostrich=2895ms, z3=19ms)
+  [yuarel/mixed/sat]  symcc-assertions-22.smt2
+    noodler is 19× faster (ostrich=2895ms, noodler=154ms)
+  [yuarel/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 14× faster (cvc5=170ms, z3=12ms)
+  [yuarel/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 135× faster (ostrich=1620ms, z3=12ms)
+  [yuarel/mixed/sat]  symcc-assertions-23.smt2
+    noodler is 11× faster (ostrich=1620ms, noodler=148ms)
+  [yuarel/mixed/sat]  symcc-assertions-23.smt2
+    z3 is 12× faster (z3=12ms, noodler=148ms)
+  [yuarel/mixed/sat]  symcc-assertions-26.smt2
+    cvc5 is 20× faster (cvc5=159ms, ostrich=3200ms)
+  [yuarel/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 14× faster (cvc5=159ms, z3=11ms)
+  [yuarel/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 291× faster (ostrich=3200ms, z3=11ms)
+  [yuarel/mixed/sat]  symcc-assertions-26.smt2
+    noodler is 21× faster (ostrich=3200ms, noodler=152ms)
+  [yuarel/mixed/sat]  symcc-assertions-26.smt2
+    z3 is 14× faster (z3=11ms, noodler=152ms)
+  [yuarel/mixed/sat]  symcc-assertions-3.smt2
+    cvc5 is 218× faster (cvc5=167ms, ostrich=36447ms)
+  [yuarel/mixed/sat]  symcc-assertions-3.smt2
+    z3 is 53× faster (ostrich=36447ms, z3=682ms)
+  [yuarel/mixed/sat]  symcc-assertions-33.smt2
+    z3 is 12× faster (cvc5=163ms, z3=14ms)
+  [yuarel/mixed/sat]  symcc-assertions-33.smt2
+    z3 is 12× faster (z3=14ms, noodler=174ms)
+  [yuarel/mixed/sat]  symcc-assertions-34.smt2
+    z3 is 14× faster (cvc5=169ms, z3=12ms)
+  [yuarel/mixed/sat]  symcc-assertions-34.smt2
+    z3 is 13× faster (z3=12ms, noodler=154ms)
+  [yuarel/mixed/sat]  symcc-assertions-37.smt2
+    z3 is 24× faster (cvc5=385ms, z3=16ms)
+  [yuarel/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 20× faster (cvc5=184ms, z3=9ms)
+  [yuarel/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 149× faster (ostrich=1344ms, z3=9ms)
+  [yuarel/mixed/sat]  symcc-assertions-4.smt2
+    z3 is 18× faster (z3=9ms, noodler=158ms)
+  [yuarel/mixed/sat]  symcc-assertions-48.smt2
+    z3 is 11× faster (cvc5=233ms, z3=21ms)
+  [yuarel/mixed/sat]  symcc-assertions-5.smt2
+    cvc5 is 13× faster (cvc5=364ms, ostrich=4571ms)
+  [yuarel/mixed/sat]  symcc-assertions-5.smt2
+    cvc5 is 24× faster (cvc5=364ms, z3=8644ms)
+  [yuarel/mixed/sat]  symcc-assertions-6.smt2
+    cvc5 is 24× faster (cvc5=276ms, ostrich=6533ms)
+  [yuarel/mixed/sat]  symcc-assertions-6.smt2
+    z3 is 32× faster (ostrich=6533ms, z3=202ms)
+  [yuarel/mixed/sat]  symcc-assertions-8.smt2
+    cvc5 is 17× faster (cvc5=702ms, ostrich=12175ms)
+  [yuarel/mixed/sat]  symcc-assertions-8.smt2
+    cvc5 is 20× faster (cvc5=702ms, z3=13704ms)
+  [yuarel/mixed/sat]  symcc-assertions-9.smt2
+    cvc5 is 30× faster (cvc5=593ms, z3=17824ms)
+  [yuarel/mixed/unsat]  symcc-unsat-0.smt2
+    cvc5 is 32× faster (cvc5=72ms, ostrich=2275ms)
+  [yuarel/mixed/unsat]  symcc-unsat-0.smt2
+    z3 is 134× faster (ostrich=2275ms, z3=17ms)
+  [yuarel/mixed/unsat]  symcc-unsat-0.smt2
+    noodler is 15× faster (ostrich=2275ms, noodler=149ms)
+  [yuarel/mixed/unsat]  symcc-unsat-1.smt2
+    cvc5 is 38× faster (cvc5=77ms, ostrich=2906ms)
+  [yuarel/mixed/unsat]  symcc-unsat-1.smt2
+    z3 is 100× faster (ostrich=2906ms, z3=29ms)
+  [yuarel/mixed/unsat]  symcc-unsat-1.smt2
+    noodler is 14× faster (ostrich=2906ms, noodler=214ms)
+  [yuarel/mixed/unsat]  symcc-unsat-11.smt2
+    cvc5 is 46× faster (cvc5=598ms, z3=27730ms)
+  [yuarel/mixed/unsat]  symcc-unsat-2.smt2
+    cvc5 is 106× faster (cvc5=163ms, ostrich=17344ms)
+  [yuarel/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 867× faster (ostrich=17344ms, z3=20ms)
+  [yuarel/mixed/unsat]  symcc-unsat-2.smt2
+    noodler is 46× faster (ostrich=17344ms, noodler=375ms)
+  [yuarel/mixed/unsat]  symcc-unsat-2.smt2
+    z3 is 19× faster (z3=20ms, noodler=375ms)
+  [yuarel/mixed/unsat]  symcc-unsat-3.smt2
+    cvc5 is 44× faster (cvc5=277ms, ostrich=12326ms)
+  [yuarel/mixed/unsat]  symcc-unsat-3.smt2
+    z3 is 142× faster (ostrich=12326ms, z3=87ms)
+  [yuarel/mixed/unsat]  symcc-unsat-4.smt2
+    cvc5 is 69× faster (cvc5=316ms, ostrich=21837ms)
+  [yuarel/mixed/unsat]  symcc-unsat-4.smt2
+    z3 is 154× faster (ostrich=21837ms, z3=142ms)
+  [yuarel/mixed/unsat]  symcc-unsat-5.smt2
+    cvc5 is 155× faster (cvc5=243ms, ostrich=37708ms)
+  [yuarel/mixed/unsat]  symcc-unsat-5.smt2
+    z3 is 277× faster (ostrich=37708ms, z3=136ms)
+  [yuarel/mixed/unsat]  symcc-unsat-6.smt2
+    cvc5 is 156× faster (cvc5=364ms, ostrich=56642ms)
+  [yuarel/mixed/unsat]  symcc-unsat-6.smt2
+    cvc5 is 39× faster (cvc5=364ms, z3=14269ms)
+  [yuarel/mixed/unsat]  symcc-unsat-7.smt2
+    cvc5 is 39× faster (cvc5=475ms, ostrich=18700ms)
+  [yuarel/mixed/unsat]  symcc-unsat-8.smt2
+    cvc5 is 46× faster (cvc5=598ms, ostrich=27341ms)
+  [yuarel/mixed/unsat]  symcc-unsat-9.smt2
+    cvc5 is 57× faster (cvc5=921ms, ostrich=52429ms)
+  [yuarel/string_only/sat]  symcc-assertions-0.smt2
+    cvc5 is 130× faster (cvc5=89ms, ostrich=11610ms)
+  [yuarel/string_only/sat]  symcc-assertions-0.smt2
+    cvc5 is 21× faster (cvc5=89ms, z3=1895ms)
+  [yuarel/string_only/sat]  symcc-assertions-0.smt2
+    noodler is 69× faster (ostrich=11610ms, noodler=168ms)
+  [yuarel/string_only/sat]  symcc-assertions-0.smt2
+    noodler is 11× faster (z3=1895ms, noodler=168ms)
+  [yuarel/string_only/sat]  symcc-assertions-1.smt2
+    cvc5 is 47× faster (cvc5=90ms, ostrich=4243ms)
+  [yuarel/string_only/sat]  symcc-assertions-1.smt2
+    cvc5 is 21× faster (cvc5=90ms, z3=1874ms)
+  [yuarel/string_only/sat]  symcc-assertions-1.smt2
+    noodler is 23× faster (ostrich=4243ms, noodler=185ms)
+  [yuarel/string_only/sat]  symcc-assertions-1.smt2
+    noodler is 10× faster (z3=1874ms, noodler=185ms)
+  [yuarel/string_only/sat]  symcc-assertions-10.smt2
+    cvc5 is 119× faster (cvc5=1517ms, z3=180871ms)
+  [yuarel/string_only/sat]  symcc-assertions-10.smt2
+    ostrich is 14× faster (ostrich=12981ms, z3=180871ms)
+  [yuarel/string_only/sat]  symcc-assertions-13.smt2
+    cvc5 is 18× faster (cvc5=100ms, ostrich=1813ms)
+  [yuarel/string_only/sat]  symcc-assertions-13.smt2
+    z3 is 113× faster (ostrich=1813ms, z3=16ms)
+  [yuarel/string_only/sat]  symcc-assertions-13.smt2
+    noodler is 11× faster (ostrich=1813ms, noodler=164ms)
+  [yuarel/string_only/sat]  symcc-assertions-13.smt2
+    z3 is 10× faster (z3=16ms, noodler=164ms)
+  [yuarel/string_only/sat]  symcc-assertions-15.smt2
+    cvc5 is 17× faster (cvc5=128ms, ostrich=2123ms)
+  [yuarel/string_only/sat]  symcc-assertions-15.smt2
+    z3 is 142× faster (ostrich=2123ms, z3=15ms)
+  [yuarel/string_only/sat]  symcc-assertions-15.smt2
+    noodler is 12× faster (ostrich=2123ms, noodler=171ms)
+  [yuarel/string_only/sat]  symcc-assertions-15.smt2
+    z3 is 11× faster (z3=15ms, noodler=171ms)
+  [yuarel/string_only/sat]  symcc-assertions-18.smt2
+    cvc5 is 27× faster (cvc5=160ms, ostrich=4277ms)
+  [yuarel/string_only/sat]  symcc-assertions-18.smt2
+    z3 is 238× faster (ostrich=4277ms, z3=18ms)
+  [yuarel/string_only/sat]  symcc-assertions-18.smt2
+    noodler is 15× faster (ostrich=4277ms, noodler=281ms)
+  [yuarel/string_only/sat]  symcc-assertions-18.smt2
+    z3 is 16× faster (z3=18ms, noodler=281ms)
+  [yuarel/string_only/sat]  symcc-assertions-2.smt2
+    cvc5 is 14× faster (cvc5=156ms, ostrich=2165ms)
+  [yuarel/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 13× faster (cvc5=156ms, z3=12ms)
+  [yuarel/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 180× faster (ostrich=2165ms, z3=12ms)
+  [yuarel/string_only/sat]  symcc-assertions-2.smt2
+    noodler is 14× faster (ostrich=2165ms, noodler=158ms)
+  [yuarel/string_only/sat]  symcc-assertions-2.smt2
+    z3 is 13× faster (z3=12ms, noodler=158ms)
+  [yuarel/string_only/sat]  symcc-assertions-22.smt2
+    cvc5 is 28× faster (cvc5=170ms, ostrich=4745ms)
+  [yuarel/string_only/sat]  symcc-assertions-22.smt2
+    z3 is 250× faster (ostrich=4745ms, z3=19ms)
+  [yuarel/string_only/sat]  symcc-assertions-22.smt2
+    noodler is 28× faster (ostrich=4745ms, noodler=171ms)
+  [yuarel/string_only/sat]  symcc-assertions-23.smt2
+    cvc5 is 20× faster (cvc5=168ms, ostrich=3308ms)
+  [yuarel/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 15× faster (cvc5=168ms, z3=11ms)
+  [yuarel/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 301× faster (ostrich=3308ms, z3=11ms)
+  [yuarel/string_only/sat]  symcc-assertions-23.smt2
+    noodler is 21× faster (ostrich=3308ms, noodler=161ms)
+  [yuarel/string_only/sat]  symcc-assertions-23.smt2
+    z3 is 15× faster (z3=11ms, noodler=161ms)
+  [yuarel/string_only/sat]  symcc-assertions-26.smt2
+    cvc5 is 18× faster (cvc5=197ms, ostrich=3485ms)
+  [yuarel/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 15× faster (cvc5=197ms, z3=13ms)
+  [yuarel/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 268× faster (ostrich=3485ms, z3=13ms)
+  [yuarel/string_only/sat]  symcc-assertions-26.smt2
+    noodler is 21× faster (ostrich=3485ms, noodler=165ms)
+  [yuarel/string_only/sat]  symcc-assertions-26.smt2
+    z3 is 13× faster (z3=13ms, noodler=165ms)
+  [yuarel/string_only/sat]  symcc-assertions-3.smt2
+    cvc5 is 65× faster (cvc5=161ms, ostrich=10423ms)
+  [yuarel/string_only/sat]  symcc-assertions-3.smt2
+    z3 is 183× faster (ostrich=10423ms, z3=57ms)
+  [yuarel/string_only/sat]  symcc-assertions-33.smt2
+    z3 is 14× faster (cvc5=208ms, z3=15ms)
+  [yuarel/string_only/sat]  symcc-assertions-34.smt2
+    z3 is 19× faster (cvc5=226ms, z3=12ms)
+  [yuarel/string_only/sat]  symcc-assertions-34.smt2
+    z3 is 10× faster (z3=12ms, noodler=123ms)
+  [yuarel/string_only/sat]  symcc-assertions-37.smt2
+    z3 is 13× faster (cvc5=197ms, z3=15ms)
+  [yuarel/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 27× faster (cvc5=242ms, z3=9ms)
+  [yuarel/string_only/sat]  symcc-assertions-4.smt2
+    z3 is 249× faster (ostrich=2240ms, z3=9ms)
+  [yuarel/string_only/sat]  symcc-assertions-4.smt2
+    noodler is 26× faster (ostrich=2240ms, noodler=87ms)
+  [yuarel/string_only/sat]  symcc-assertions-48.smt2
+    z3 is 11× faster (cvc5=232ms, z3=22ms)
+  [yuarel/string_only/sat]  symcc-assertions-54.smt2
+    z3 is 13× faster (cvc5=1065ms, z3=79ms)
+  [yuarel/string_only/unsat]  symcc-unsat-0.smt2
+    cvc5 is 28× faster (cvc5=92ms, ostrich=2545ms)
+  [yuarel/string_only/unsat]  symcc-unsat-0.smt2
+    z3 is 141× faster (ostrich=2545ms, z3=18ms)
+  [yuarel/string_only/unsat]  symcc-unsat-0.smt2
+    noodler is 27× faster (ostrich=2545ms, noodler=93ms)
+  [yuarel/string_only/unsat]  symcc-unsat-1.smt2
+    cvc5 is 43× faster (cvc5=96ms, ostrich=4137ms)
+  [yuarel/string_only/unsat]  symcc-unsat-1.smt2
+    z3 is 138× faster (ostrich=4137ms, z3=30ms)
+  [yuarel/string_only/unsat]  symcc-unsat-1.smt2
+    noodler is 34× faster (ostrich=4137ms, noodler=123ms)
+  [yuarel/string_only/unsat]  symcc-unsat-10.smt2
+    cvc5 is 17× faster (cvc5=878ms, ostrich=15268ms)
+  [yuarel/string_only/unsat]  symcc-unsat-11.smt2
+    cvc5 is 81× faster (cvc5=560ms, z3=45308ms)
+  [yuarel/string_only/unsat]  symcc-unsat-2.smt2
+    cvc5 is 78× faster (cvc5=161ms, ostrich=12510ms)
+  [yuarel/string_only/unsat]  symcc-unsat-2.smt2
+    z3 is 431× faster (ostrich=12510ms, z3=29ms)
+  [yuarel/string_only/unsat]  symcc-unsat-2.smt2
+    noodler is 50× faster (ostrich=12510ms, noodler=250ms)
+  [yuarel/string_only/unsat]  symcc-unsat-4.smt2
+    cvc5 is 76× faster (cvc5=298ms, ostrich=22508ms)
+
