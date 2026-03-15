@@ -1,0 +1,128 @@
+SOLVER DISAGREEMENTS — cJSON / string only / sat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #3 : ./string_only_constraints/cJSON/sat/symcc-assertions-10.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #4 : ./string_only_constraints/cJSON/sat/symcc-assertions-11.smt2
+Expected : sat
+Got      : unsat (67ms)
+
+File #6 : ./string_only_constraints/cJSON/sat/symcc-assertions-13.smt2
+Expected : sat
+Got      : unsat (70ms)
+
+File #7 : ./string_only_constraints/cJSON/sat/symcc-assertions-14.smt2
+Expected : sat
+Got      : unsat (75ms)
+
+File #8 : ./string_only_constraints/cJSON/sat/symcc-assertions-15.smt2
+Expected : sat
+Got      : unsat (306ms)
+
+File #9 : ./string_only_constraints/cJSON/sat/symcc-assertions-16.smt2
+Expected : sat
+Got      : unsat (80ms)
+
+File #12 : ./string_only_constraints/cJSON/sat/symcc-assertions-19.smt2
+Expected : sat
+Got      : unsat (72ms)
+
+File #14 : ./string_only_constraints/cJSON/sat/symcc-assertions-20.smt2
+Expected : sat
+Got      : unsat (69ms)
+
+File #16 : ./string_only_constraints/cJSON/sat/symcc-assertions-22.smt2
+Expected : sat
+Got      : unsat (70ms)
+
+File #19 : ./string_only_constraints/cJSON/sat/symcc-assertions-25.smt2
+Expected : sat
+Got      : unsat (72ms)
+
+File #20 : ./string_only_constraints/cJSON/sat/symcc-assertions-26.smt2
+Expected : sat
+Got      : unsat (71ms)
+
+File #21 : ./string_only_constraints/cJSON/sat/symcc-assertions-27.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #22 : ./string_only_constraints/cJSON/sat/symcc-assertions-28.smt2
+Expected : sat
+Got      : unsat (65ms)
+
+File #23 : ./string_only_constraints/cJSON/sat/symcc-assertions-29.smt2
+Expected : sat
+Got      : unsat (70ms)
+
+File #24 : ./string_only_constraints/cJSON/sat/symcc-assertions-3.smt2
+Expected : sat
+Got      : unsat (86ms)
+
+File #25 : ./string_only_constraints/cJSON/sat/symcc-assertions-30.smt2
+Expected : sat
+Got      : unsat (453ms)
+
+File #26 : ./string_only_constraints/cJSON/sat/symcc-assertions-31.smt2
+Expected : sat
+Got      : unsat (68ms)
+
+File #27 : ./string_only_constraints/cJSON/sat/symcc-assertions-32.smt2
+Expected : sat
+Got      : unsat (69ms)
+
+File #28 : ./string_only_constraints/cJSON/sat/symcc-assertions-33.smt2
+Expected : sat
+Got      : unsat (254ms)
+
+File #29 : ./string_only_constraints/cJSON/sat/symcc-assertions-34.smt2
+Expected : sat
+Got      : unsat (72ms)
+
+File #30 : ./string_only_constraints/cJSON/sat/symcc-assertions-35.smt2
+Expected : sat
+Got      : unsat (261ms)
+
+File #31 : ./string_only_constraints/cJSON/sat/symcc-assertions-36.smt2
+Expected : sat
+Got      : unsat (647ms)
+
+File #32 : ./string_only_constraints/cJSON/sat/symcc-assertions-37.smt2
+Expected : sat
+Got      : unsat (656ms)
+
+File #33 : ./string_only_constraints/cJSON/sat/symcc-assertions-38.smt2
+Expected : sat
+Got      : unsat (69ms)
+
+File #34 : ./string_only_constraints/cJSON/sat/symcc-assertions-39.smt2
+Expected : sat
+Got      : unsat (254ms)
+
+File #36 : ./string_only_constraints/cJSON/sat/symcc-assertions-40.smt2
+Expected : sat
+Got      : unsat (73ms)
+
+File #37 : ./string_only_constraints/cJSON/sat/symcc-assertions-41.smt2
+Expected : sat
+Got      : unsat (204ms)
+
+File #38 : ./string_only_constraints/cJSON/sat/symcc-assertions-42.smt2
+Expected : sat
+Got      : unsat (71ms)
+
+File #39 : ./string_only_constraints/cJSON/sat/symcc-assertions-5.smt2
+Expected : sat
+Got      : unsat (133ms)
+
+File #40 : ./string_only_constraints/cJSON/sat/symcc-assertions-6.smt2
+Expected : sat
+Got      : unsat (73ms)
+
+File #43 : ./string_only_constraints/cJSON/sat/symcc-assertions-9.smt2
+Expected : sat
+Got      : unsat (66ms)
+

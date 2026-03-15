@@ -1,0 +1,204 @@
+SOLVER DISAGREEMENTS — minicsv / mixed / unsat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #1 : ./minicsv/unsat/symcc-unsat-0.smt2
+Expected : unsat
+Got      : sat (69ms)
+
+File #2 : ./minicsv/unsat/symcc-unsat-1.smt2
+Expected : unsat
+Got      : sat (66ms)
+
+File #3 : ./minicsv/unsat/symcc-unsat-10.smt2
+Expected : unsat
+Got      : sat (70ms)
+
+File #4 : ./minicsv/unsat/symcc-unsat-11.smt2
+Expected : unsat
+Got      : sat (74ms)
+
+File #5 : ./minicsv/unsat/symcc-unsat-12.smt2
+Expected : unsat
+Got      : sat (81ms)
+
+File #6 : ./minicsv/unsat/symcc-unsat-13.smt2
+Expected : unsat
+Got      : sat (77ms)
+
+File #7 : ./minicsv/unsat/symcc-unsat-14.smt2
+Expected : unsat
+Got      : sat (75ms)
+
+File #8 : ./minicsv/unsat/symcc-unsat-15.smt2
+Expected : unsat
+Got      : sat (77ms)
+
+File #9 : ./minicsv/unsat/symcc-unsat-16.smt2
+Expected : unsat
+Got      : sat (80ms)
+
+File #10 : ./minicsv/unsat/symcc-unsat-17.smt2
+Expected : unsat
+Got      : sat (78ms)
+
+File #11 : ./minicsv/unsat/symcc-unsat-18.smt2
+Expected : unsat
+Got      : sat (79ms)
+
+File #12 : ./minicsv/unsat/symcc-unsat-19.smt2
+Expected : unsat
+Got      : sat (85ms)
+
+File #13 : ./minicsv/unsat/symcc-unsat-2.smt2
+Expected : unsat
+Got      : sat (69ms)
+
+File #14 : ./minicsv/unsat/symcc-unsat-20.smt2
+Expected : unsat
+Got      : sat (82ms)
+
+File #15 : ./minicsv/unsat/symcc-unsat-21.smt2
+Expected : unsat
+Got      : sat (98ms)
+
+File #16 : ./minicsv/unsat/symcc-unsat-22.smt2
+Expected : unsat
+Got      : sat (87ms)
+
+File #17 : ./minicsv/unsat/symcc-unsat-23.smt2
+Expected : unsat
+Got      : sat (92ms)
+
+File #18 : ./minicsv/unsat/symcc-unsat-24.smt2
+Expected : unsat
+Got      : sat (93ms)
+
+File #19 : ./minicsv/unsat/symcc-unsat-25.smt2
+Expected : unsat
+Got      : sat (91ms)
+
+File #20 : ./minicsv/unsat/symcc-unsat-26.smt2
+Expected : unsat
+Got      : sat (95ms)
+
+File #21 : ./minicsv/unsat/symcc-unsat-27.smt2
+Expected : unsat
+Got      : sat (107ms)
+
+File #22 : ./minicsv/unsat/symcc-unsat-28.smt2
+Expected : unsat
+Got      : sat (105ms)
+
+File #23 : ./minicsv/unsat/symcc-unsat-29.smt2
+Expected : unsat
+Got      : sat (107ms)
+
+File #24 : ./minicsv/unsat/symcc-unsat-3.smt2
+Expected : unsat
+Got      : sat (73ms)
+
+File #25 : ./minicsv/unsat/symcc-unsat-30.smt2
+Expected : unsat
+Got      : sat (106ms)
+
+File #26 : ./minicsv/unsat/symcc-unsat-31.smt2
+Expected : unsat
+Got      : sat (109ms)
+
+File #27 : ./minicsv/unsat/symcc-unsat-32.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #28 : ./minicsv/unsat/symcc-unsat-33.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #29 : ./minicsv/unsat/symcc-unsat-34.smt2
+Expected : unsat
+Got      : sat (116ms)
+
+File #30 : ./minicsv/unsat/symcc-unsat-35.smt2
+Expected : unsat
+Got      : sat (110ms)
+
+File #31 : ./minicsv/unsat/symcc-unsat-36.smt2
+Expected : unsat
+Got      : sat (115ms)
+
+File #32 : ./minicsv/unsat/symcc-unsat-37.smt2
+Expected : unsat
+Got      : sat (121ms)
+
+File #33 : ./minicsv/unsat/symcc-unsat-38.smt2
+Expected : unsat
+Got      : sat (121ms)
+
+File #34 : ./minicsv/unsat/symcc-unsat-39.smt2
+Expected : unsat
+Got      : sat (122ms)
+
+File #35 : ./minicsv/unsat/symcc-unsat-4.smt2
+Expected : unsat
+Got      : sat (75ms)
+
+File #36 : ./minicsv/unsat/symcc-unsat-40.smt2
+Expected : unsat
+Got      : sat (123ms)
+
+File #37 : ./minicsv/unsat/symcc-unsat-41.smt2
+Expected : unsat
+Got      : sat (129ms)
+
+File #38 : ./minicsv/unsat/symcc-unsat-42.smt2
+Expected : unsat
+Got      : sat (135ms)
+
+File #39 : ./minicsv/unsat/symcc-unsat-43.smt2
+Expected : unsat
+Got      : sat (132ms)
+
+File #40 : ./minicsv/unsat/symcc-unsat-44.smt2
+Expected : unsat
+Got      : sat (131ms)
+
+File #41 : ./minicsv/unsat/symcc-unsat-45.smt2
+Expected : unsat
+Got      : sat (134ms)
+
+File #42 : ./minicsv/unsat/symcc-unsat-46.smt2
+Expected : unsat
+Got      : sat (137ms)
+
+File #43 : ./minicsv/unsat/symcc-unsat-47.smt2
+Expected : unsat
+Got      : sat (162ms)
+
+File #44 : ./minicsv/unsat/symcc-unsat-48.smt2
+Expected : unsat
+Got      : sat (183ms)
+
+File #45 : ./minicsv/unsat/symcc-unsat-49.smt2
+Expected : unsat
+Got      : sat (163ms)
+
+File #46 : ./minicsv/unsat/symcc-unsat-5.smt2
+Expected : unsat
+Got      : sat (70ms)
+
+File #47 : ./minicsv/unsat/symcc-unsat-6.smt2
+Expected : unsat
+Got      : sat (72ms)
+
+File #48 : ./minicsv/unsat/symcc-unsat-7.smt2
+Expected : unsat
+Got      : sat (76ms)
+
+File #49 : ./minicsv/unsat/symcc-unsat-8.smt2
+Expected : unsat
+Got      : sat (75ms)
+
+File #50 : ./minicsv/unsat/symcc-unsat-9.smt2
+Expected : unsat
+Got      : sat (73ms)
+

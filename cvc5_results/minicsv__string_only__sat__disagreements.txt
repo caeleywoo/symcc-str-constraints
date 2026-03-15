@@ -1,0 +1,24 @@
+SOLVER DISAGREEMENTS — minicsv / string only / sat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #2 : ./string_only_constraints/minicsv/sat/symcc-assertions-1.smt2
+Expected : sat
+Got      : unsat (66ms)
+
+File #18 : ./string_only_constraints/minicsv/sat/symcc-assertions-24.smt2
+Expected : sat
+Got      : unsat (69ms)
+
+File #19 : ./string_only_constraints/minicsv/sat/symcc-assertions-25.smt2
+Expected : sat
+Got      : unsat (70ms)
+
+File #40 : ./string_only_constraints/minicsv/sat/symcc-assertions-44.smt2
+Expected : sat
+Got      : unsat (70ms)
+
+File #41 : ./string_only_constraints/minicsv/sat/symcc-assertions-45.smt2
+Expected : sat
+Got      : unsat (67ms)
+

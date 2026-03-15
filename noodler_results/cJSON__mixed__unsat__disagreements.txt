@@ -1,0 +1,64 @@
+SOLVER DISAGREEMENTS — cJSON / mixed / unsat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #1 : ./cJSON/unsat/symcc-unsat-0.smt2
+Expected : unsat
+Got      : sat (148ms)
+
+File #2 : ./cJSON/unsat/symcc-unsat-1.smt2
+Expected : unsat
+Got      : sat (178ms)
+
+File #5 : ./cJSON/unsat/symcc-unsat-12.smt2
+Expected : unsat
+Got      : sat (299789ms)
+
+File #6 : ./cJSON/unsat/symcc-unsat-13.smt2
+Expected : unsat
+Got      : sat (297820ms)
+
+File #7 : ./cJSON/unsat/symcc-unsat-14.smt2
+Expected : unsat
+Got      : sat (131346ms)
+
+File #8 : ./cJSON/unsat/symcc-unsat-15.smt2
+Expected : unsat
+Got      : sat (166609ms)
+
+File #9 : ./cJSON/unsat/symcc-unsat-16.smt2
+Expected : unsat
+Got      : sat (164516ms)
+
+File #10 : ./cJSON/unsat/symcc-unsat-17.smt2
+Expected : unsat
+Got      : sat (52706ms)
+
+File #13 : ./cJSON/unsat/symcc-unsat-2.smt2
+Expected : unsat
+Got      : sat (161ms)
+
+File #24 : ./cJSON/unsat/symcc-unsat-3.smt2
+Expected : unsat
+Got      : sat (508ms)
+
+File #35 : ./cJSON/unsat/symcc-unsat-4.smt2
+Expected : unsat
+Got      : sat (453ms)
+
+File #39 : ./cJSON/unsat/symcc-unsat-5.smt2
+Expected : unsat
+Got      : sat (756ms)
+
+File #40 : ./cJSON/unsat/symcc-unsat-6.smt2
+Expected : unsat
+Got      : sat (801ms)
+
+File #41 : ./cJSON/unsat/symcc-unsat-7.smt2
+Expected : unsat
+Got      : sat (1033ms)
+
+File #42 : ./cJSON/unsat/symcc-unsat-8.smt2
+Expected : unsat
+Got      : sat (136599ms)
+
