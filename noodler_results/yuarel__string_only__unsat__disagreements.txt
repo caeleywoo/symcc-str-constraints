@@ -1,0 +1,16 @@
+SOLVER DISAGREEMENTS — yuarel / string only / unsat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #1 : ./string_only_constraints/yuarel/unsat/symcc-unsat-0.smt2
+Expected : unsat
+Got      : sat (93ms)
+
+File #2 : ./string_only_constraints/yuarel/unsat/symcc-unsat-1.smt2
+Expected : unsat
+Got      : sat (123ms)
+
+File #13 : ./string_only_constraints/yuarel/unsat/symcc-unsat-2.smt2
+Expected : unsat
+Got      : sat (250ms)
+

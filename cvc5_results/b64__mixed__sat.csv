@@ -21,8 +21,8 @@ file_index,file_name,result,runtime_ms,full_path
 20,symcc-assertions-26.smt2,TIMEOUT,300156,./b64/sat/symcc-assertions-26.smt2
 21,symcc-assertions-27.smt2,TIMEOUT,300166,./b64/sat/symcc-assertions-27.smt2
 22,symcc-assertions-28.smt2,TIMEOUT,300125,./b64/sat/symcc-assertions-28.smt2
-23,symcc-assertions-29.smt2,TIMEOUT,1870741,./b64/sat/symcc-assertions-29.smt2
-24,symcc-assertions-3.smt2,unsat,1685769,./b64/sat/symcc-assertions-3.smt2
+23,symcc-assertions-29.smt2,TIMEOUT,300111,./b64/sat/symcc-assertions-29.smt2
+24,symcc-assertions-3.smt2,unsat,168576,./b64/sat/symcc-assertions-3.smt2
 25,symcc-assertions-30.smt2,TIMEOUT,300273,./b64/sat/symcc-assertions-30.smt2
 26,symcc-assertions-31.smt2,TIMEOUT,300173,./b64/sat/symcc-assertions-31.smt2
 27,symcc-assertions-32.smt2,TIMEOUT,300204,./b64/sat/symcc-assertions-32.smt2

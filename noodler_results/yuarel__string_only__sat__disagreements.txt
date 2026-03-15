@@ -1,0 +1,76 @@
+SOLVER DISAGREEMENTS — yuarel / string only / sat
+Files where solver result != folder label.
+(Timeouts/errors/unknowns excluded.)
+
+File #6 : ./string_only_constraints/yuarel/sat/symcc-assertions-13.smt2
+Expected : sat
+Got      : unsat (164ms)
+
+File #8 : ./string_only_constraints/yuarel/sat/symcc-assertions-15.smt2
+Expected : sat
+Got      : unsat (171ms)
+
+File #11 : ./string_only_constraints/yuarel/sat/symcc-assertions-18.smt2
+Expected : sat
+Got      : unsat (281ms)
+
+File #13 : ./string_only_constraints/yuarel/sat/symcc-assertions-2.smt2
+Expected : sat
+Got      : unsat (158ms)
+
+File #16 : ./string_only_constraints/yuarel/sat/symcc-assertions-22.smt2
+Expected : sat
+Got      : unsat (171ms)
+
+File #17 : ./string_only_constraints/yuarel/sat/symcc-assertions-23.smt2
+Expected : sat
+Got      : unsat (161ms)
+
+File #20 : ./string_only_constraints/yuarel/sat/symcc-assertions-26.smt2
+Expected : sat
+Got      : unsat (165ms)
+
+File #28 : ./string_only_constraints/yuarel/sat/symcc-assertions-33.smt2
+Expected : sat
+Got      : unsat (100ms)
+
+File #29 : ./string_only_constraints/yuarel/sat/symcc-assertions-34.smt2
+Expected : sat
+Got      : unsat (123ms)
+
+File #32 : ./string_only_constraints/yuarel/sat/symcc-assertions-37.smt2
+Expected : sat
+Got      : unsat (101ms)
+
+File #34 : ./string_only_constraints/yuarel/sat/symcc-assertions-39.smt2
+Expected : sat
+Got      : unsat (190ms)
+
+File #35 : ./string_only_constraints/yuarel/sat/symcc-assertions-4.smt2
+Expected : sat
+Got      : unsat (87ms)
+
+File #39 : ./string_only_constraints/yuarel/sat/symcc-assertions-43.smt2
+Expected : sat
+Got      : unsat (108ms)
+
+File #43 : ./string_only_constraints/yuarel/sat/symcc-assertions-47.smt2
+Expected : sat
+Got      : unsat (89ms)
+
+File #44 : ./string_only_constraints/yuarel/sat/symcc-assertions-48.smt2
+Expected : sat
+Got      : unsat (94ms)
+
+File #45 : ./string_only_constraints/yuarel/sat/symcc-assertions-49.smt2
+Expected : sat
+Got      : unsat (100ms)
+
+File #48 : ./string_only_constraints/yuarel/sat/symcc-assertions-52.smt2
+Expected : sat
+Got      : unsat (119ms)
+
+File #50 : ./string_only_constraints/yuarel/sat/symcc-assertions-54.smt2
+Expected : sat
+Got      : unsat (159ms)
+
